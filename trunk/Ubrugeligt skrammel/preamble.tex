@@ -1,0 +1,149 @@
+\documentclass[a4paper,11pt,fleqn,twoside,openright]{memoir} % Brug openright hvis chapters skal starte på højresider; openany, oneside
+
+%%%% PACKAGES %%%%
+
+%  Oversættelse og tegnsætning  %
+\usepackage[utf8]{inputenc}					% Gør det muligt at bruge æ, ø og å i sine .tex-filer
+%\usepackage[danish]{babel}							% Dansk sporg, f.eks. tabel, figur og kapitel
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}  % Hjælper med orddeling ved æ, ø og å. Sætter fontene til at være ps-fonte, i stedet for bmp					
+\usepackage{latexsym}										% LaTeX symboler
+\usepackage{xcolor,ragged2e,fix-cm}			% Justering af elementer
+\usepackage{pdfpages} % Gør det muligt at inkludere pdf-dokumenter med kommandoen \includepdf[pages={x-y}]{fil.pdf}	
+\usepackage{fixltx2e}					% Retter forskellige bugs i LaTeX-kernen
+
+																			
+%  Figurer og tabeller floats %
+\pdfoptionpdfminorversion=6	% Muliggør inkludering af pdf dokumenter, af version 1.6 og højere
+\usepackage{graphicx} 		% Pakke til jpeg/png billeder
+	
+%  Matematiske formler og maskinkode 
+\usepackage{amsmath,amssymb,stmaryrd} 	% Bedre matematik og ekstra fonte
+\usepackage{textcomp}                 	% Adgang til tekstsymboler
+\usepackage{mathtools}			% Udvidelse af amsmath-pakken.
+\usepackage{siunitx}			% Flot og konsistent præsentation af tal og enheder med \SI{tal}{enhed}
+
+%  Referencer, bibtex og url'er  %
+\usepackage{url}	% Til at sætte urler op med. Virker sammen med hyperref
+%\usepackage[danish]{varioref} % Giver flere bedre mulighed for at lave krydshenvisninger
+\usepackage[english]{varioref} % Giver flere bedre mulighed for at lave krydshenvisninger
+\usepackage{natbib}	% Litteraturliste med forfatter-år og nummerede referencer
+\usepackage{xr}		% Referencer til eksternt dokument med \externaldocument{<NAVN>}
+\usepackage{nomencl}	% Pakke til at danne nomenklaturliste
+\makenomenclature		% Nomenklaturliste
+
+%  Floats  %
+\let\newfloat\relax 	% Memoir har allerede defineret denne, men det gør float pakken også
+\usepackage{float}
+%\usepackage[footnote,draft,danish,silent,nomargin]{fixme}	% Indsæt rettelser og lignende med \fixme{...} Med final i stedet for draft, udløses en error for hver fixme, der ikke er slettet, når rapporten bygges.
+\usepackage[footnote,draft,english,silent,nomargin]{fixme}
+
+%%%% CUSTOM SETTINGS %%%%
+
+%  Marginer  %
+\setlrmarginsandblock{3.5cm}{2.5cm}{*}	% \setlrmarginsandblock{Indbinding}{Kant}{Ratio}
+\setulmarginsandblock{2.5cm}{3.0cm}{*}	% \setulmarginsandblock{Top}{Bund}{Ratio}
+\checkandfixthelayout 
+
+%  Litteraturlisten  %
+\bibpunct[,]{[}{]}{;}{a}{,}{,} 	% Definerer de 6 parametre ved Harvard henvisning (bl.a. parantestype og seperatortegn)
+\bibliographystyle{bibtex/harvard}	% Udseende af litteraturlisten. Ligner dk-apali - mvh Klein
+
+%  Indholdsfortegnelse  %
+\setsecnumdepth{subsection}	% Dybden af nummerede overkrifter (part/chapter/section/subsection)
+\maxsecnumdepth{subsection}	% Ændring af dokumentklassens grænse for nummereringsdybde
+\settocdepth{subsection} 		% Dybden af indholdsfortegnelsen
+
+
+%  Visuelle referencer  %
+\usepackage[colorlinks]{hyperref} % Giver mulighed for at ens referencer bliver til klikbare hyperlinks. .. [colorlinks]{..}
+%\usepackage{memhfixc}
+\hypersetup{pdfborder = 0 0 0}	% Fjerner ramme omkring links i fx indholsfotegnelsen og ved kildehenvisninger 
+\hypersetup{			%	Opsætning af farvede hyperlinks
+    colorlinks = false,
+    linkcolor = black,
+    anchorcolor = black,
+    citecolor = black
+}
+
+\definecolor{gray}{gray}{0.80}					% Definerer farven grå
+
+%  Kapiteludssende  %
+\definecolor{numbercolor}{gray}{0.7}			% Definerer en farve til brug til kapiteludseende
+\newif\ifchapternonum
+
+\makechapterstyle{jenor}{			% Definerer kapiteludseende -->
+  \renewcommand\printchaptername{}
+  \renewcommand\printchapternum{}
+  \renewcommand\printchapternonum{\chapternonumtrue}
+  \renewcommand\chaptitlefont{\fontfamily{pbk}\fontseries{db}\fontshape{n}\fontsize{25}{35}\selectfont\raggedleft}
+  \renewcommand\chapnumfont{\fontfamily{pbk}\fontseries{m}\fontshape{n}\fontsize{1in}{0in}\selectfont\color{numbercolor}}
+  \renewcommand\printchaptertitle[1]{%
+    \noindent
+    \ifchapternonum
+    \begin{tabularx}{\textwidth}{X}
+    {\let\\\newline\chaptitlefont ##1\par} 
+    \end{tabularx}
+    \par\vskip-2.5mm\hrule
+    \else
+    \begin{tabularx}{\textwidth}{Xl}
+    {\parbox[b]{\linewidth}{\chaptitlefont ##1}} & \raisebox{-15pt}{\chapnumfont \thechapter}
+    \end{tabularx}
+    \par\vskip2mm\hrule
+    \fi
+  }
+}			% <--
+
+\chapterstyle{jenor}	% Valg af kapiteludseende - dette kan udskiftes efter ønske
+
+
+%\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+
+% Sidehoved %
+
+\makepagestyle{custom} % Definerer sidehoved og sidefod - kan modificeres efter ønske -->
+\makepsmarks{custom}{																						
+\def\chaptermark##1{\markboth{\itshape\thechapter. ##1}{}} % Henter kapitlet den pågældende side hører under med kommandoen \leftmark. \itshape gør teksten kursiv
+\def\sectionmark##1{\markright{\thesection. ##1}{}}	% Henter afsnittet den pågældende side hører under med kommandoen \rightmark
+} % Sidetallet skrives med kommandoen \thepage	
+\makeevenhead{custom}{Gruppe B205}{}{} % Definerer lige siders sidehoved efter modellen \makeevenhead{Navn}{Venstre}{Center}{Højre}
+\makeoddhead{custom}{}{}{Aalborg Universitet} % Definerer ulige siders sidehoved efter modellen \makeoddhead{Navn}{Venstre}{Center}{Højre}
+\makeevenfoot{custom}{Page \thepage}{}{}													% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
+\makeoddfoot{custom}{}{}{Page \thepage}														% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
+\makeheadrule{custom}{\textwidth}{0.5pt}	 % Tilføjer en streg under sidehovedets indhold
+\makefootrule{custom}{\textwidth}{0.5pt}{1mm}	% Tilføjer en streg under sidefodens indhold
+
+\copypagestyle{nychapter}{custom}														% Følgende linier sørger for, at sidefoden bibeholdes på kapitlets fåøste side
+\makeoddhead{nychapter}{}{}{}
+\makeevenhead{nychapter}{}{}{}
+\makeheadrule{nychapter}{\textwidth}{0pt}
+\aliaspagestyle{chapter}{nychapter}													% <--
+
+\pagestyle{custom} % Valg af sidehoved og sidefod
+
+
+%%%% CUSTOM COMMANDS %%%%
+
+%  Promille-hack (\promille)  %
+\newcommand{\promille}{%
+  \relax\ifmmode\promillezeichen
+        \else\leavevmode\(\mathsurround=0pt\promillezeichen\)\fi}
+\newcommand{\promillezeichen}{%
+  \kern-.05em%
+  \raise.5ex\hbox{\the\scriptfont0 0}%
+  \kern-.15em/\kern-.15em%
+  \lower.25ex\hbox{\the\scriptfont0 00}}
+
+% Billede hack %
+\newcommand{\figur}[4]{
+		\begin{figure}[H] \centering
+			\includegraphics[width=#1\textwidth]{billeder/#2}
+			\caption{#3}\label{#4}
+		\end{figure} 
+}
+
+%%%% ORDDELING %%%%
+
+\hyphenation{hvad hvem hvor}
