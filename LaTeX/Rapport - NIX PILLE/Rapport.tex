@@ -1,0 +1,125 @@
+\input{preamble}
+
+\begin{document}	% Starter dokumentet - obligatorisk
+
+\frontmatter % Forindhold - nummereres med romertal
+
+\input{formalia/forside}
+\cleardoublepage % Indsætter tom side (hvis nødvendigt)
+
+\input{formalia/titelblad}
+\cleardoublepage
+\input{formalia/Underskriftsside.tex}
+\cleardoublepage
+\input{formalia/forord}
+\cleardoublepage
+
+%%%% Indholdsfortegnelse (TOC) %%%%
+
+
+\setlength\parskip{0ex} % Fjerner den vertikale afstand mellem hver linie i indholdsfortegnelse
+\tableofcontents* % Indholdsfortegnelsen 
+\setlength{\parskip}{3mm} % Aktiverer afstanden igen for resten af rapporten (afstem med preamble!)
+
+%\addtocontents{toc}{\protect\newpage} % Fremtvinger sideskift i indholdsfortegnelsen hvis nødvendig
+
+
+\label{marker}
+\mainmatter
+
+ % Hovedindhold - nummereres fra side 1
+\makeevenfoot{custom}{Page \thepage~of \pageref{LastPage}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
+\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{LastPage}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
+\pagestyle{custom}
+
+
+%%%% Rapportindhold %%%%
+\chapter{Introduction} 
+\input{formalia/Preface.tex}
+\chapter{Problem Analysis}
+\input{indhold/problemanalysis/Introduction.tex}
+\input{indhold/problemanalysis/Whywehavepassports.tex}
+
+\input{indhold/problemanalysis/Biometricpassphoto.tex}
+\input{indhold/problemanalysis/Requirementstophoto.tex}
+\input{indhold/problemanalysis/Problemswithphotos.tex}
+\input{indhold/problemanalysis/Otherpassportphotoprograms.tex}
+\input{indhold/problemanalysis/Thesisstatement.tex}
+\input{indhold/problemanalysis/Method.tex}
+
+\chapter{Theory}
+\input{indhold/theory/Introductiontheory.tex}
+\input{indhold/theory/Photoeditingthroughtime.tex}
+\input{indhold/theory/Imageeditingtoday.tex}
+\input{indhold/theory/Photoanalysis.tex}
+\input{indhold/theory/Librariescomparison.tex}
+\input{indhold/theory/Libjpeg.tex}
+\input{indhold/development/Pixeltoinch.tex}
+
+\chapter{Design}
+\input{indhold/design/Introdesign.tex}
+\input{indhold/problemanalysis/Targetgroupanalysis.tex}
+\input{indhold/problemanalysis/Specificationrequirement.tex}
+\input{indhold/problemanalysis/Problemsolution.tex}
+\input{indhold/design/Programplanning.tex}
+
+
+\chapter{Development}
+\input{indhold/development/Forwordtoprogramdecription.tex}
+\input{indhold/development/Descriptionofthescalingmarks.tex}
+\input{indhold/development/Findingthehead.tex}
+\input{indhold/development/Markhead.tex}
+\input{indhold/development/Funktiontilkorrektforhold.tex}
+\input{indhold/development/FunktiontilatberegneDPI.tex}
+\input{indhold/development/Lightdarkfunc.tex}
+\input{indhold/development/Functioncrop.tex}
+\input{indhold/development/Askingandgettinganswer.tex}
+
+\input{indhold/development/Instructionmanual.tex}
+
+
+\chapter{Testing} 
+\input{indhold/testing/Purposeoftesting.tex}
+\input{indhold/testing/Testperson.tex}
+\input{indhold/testing/Choiceofsurveymethodandwhyuseit.tex}
+\input{indhold/testing/Testoftheprogram.tex}
+\input{indhold/testing/Secondtestoftheprogram.tex}
+
+\chapter{Discussion}
+\input{indhold/discussion/Introtodiscussion.tex}
+\input{indhold/discussion/Discussion.tex}
+\input{indhold/discussion/Perspectivation.tex}
+
+\input{formalia/Conclusion.tex}
+
+%%%% Kilder %%%%
+
+\begingroup
+	\raggedright
+	\bibliography{bibtex/litteratur}	% Litteraturlisten
+\endgroup
+
+%%%% Fixme-listen %%%%
+
+%\newpage
+%\listoffixmes	% Fixme-listen - fjernes til sidst i projektet med "%"
+
+\clearforchapter
+\appendix	% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
+
+\aliaspagestyle{chapter}{empty}	 % Fjernelse af nummerering på bilagenes chaptersider
+\pagestyle{empty}	%	Fjernelse af nummerering i bilag
+\addtocontents{toc}{\protect\cftpagenumbersoff{chapter}} % Fjernelse af nummerering af bilag i TOC
+
+%\settocdepth{chapter}	% Sætter dybden af indholdsfortegnelsen til chapter for bilagene
+
+
+%%%% Appendiks %%%%
+\input{indhold/appendix/Questionnaire.tex}
+\input{indhold/appendix/Mindmap.tex}
+\input{indhold/appendix/projektforslag.tex}
+%%%% Bilag %%%%
+
+\end{document}																								% Slutter dokumentet - obligatorisk
+
+
