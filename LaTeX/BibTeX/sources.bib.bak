@@ -9,6 +9,14 @@
   url = {http://www.sas.dk/Charter/Bagage/Indchecket-bagage/?vst=true}
 }
 
+@MISC{Prohibited_Luggage,
+  author = {Copenhagen Airlines},
+  howpublished = {Internet},
+  owner = {Kasper},
+  timestamp = {2012.02.10},
+  url = {http://www.cph.dk/CPH/DK/MAIN/Foer+afrejse/Bagage/Indskrevet+bagage.htm}
+}
+
 @MISC{newrules,
   author = {Crete-Kreta},
   title = {New rules for hand luggage at all EU airports},
