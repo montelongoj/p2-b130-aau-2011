@@ -47,6 +47,14 @@
   url = {http://www.danskflyferie.dk/infovilkaar-bagageregler.html}
 }
 
+@MISC{rulestrain,
+  author = {DSB},
+  title = {Bagage},
+  owner = {Aleksander},
+  timestamp = {2012.02.16},
+  url = {http://www.dsb.dk/kundeservice/service-i-toget/bagage/}
+}
+
 @MISC{Why-rules,
   author = {EU-Kommisionen},
   title = {Bagage rules released},
