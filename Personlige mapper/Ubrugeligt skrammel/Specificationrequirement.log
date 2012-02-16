@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.8)  8 FEB 2012 14:04
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.8)  10 FEB 2012 09:43
 entering extended mode
  %&-line parsing enabled.
 **Specificationrequirement.tex
@@ -823,27 +823,469 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/usr/share/texmf-texlive/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-! LaTeX Error: File `stmaryrd.sty' not found.
+(/usr/share/texmf-texlive/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 42.
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+Package: mathtools 2008/08/01 v1.06 mathematical typesetting tools (MH)
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.22 \usepackage
-                {textcomp}                 	% Adgang til tekstsymboler^^M
-*** (cannot \read from terminal in nonstop modes)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2007/12/03 v1.2 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count154
+\l_MT_multwidth_dim=\dimen162
+)
+(/usr/share/texmf-texlive/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2009/09/21 v1.3a A comprehensive (SI) units package
 
- 
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+\XKV@depth=\count155
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(/usr/share/texmf-texlive/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+\si@tempboxa=\box32
+\si@tempboxb=\box33
+\si@tempboxc=\box34
+\si@tempboxd=\box35
+\si@temptoks=\toks33
+\si@tab@mantprecnt=\count156
+\si@tab@mantpostcnt=\count157
+\si@tab@expprecnt=\count158
+\si@tab@exppostcnt=\count159
+\si@num@dp=\count160
+\si@num@sf=\count161
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 829.
+\si@eVcorra=\skip193
+\si@eVcorrb=\skip194
+\si@frc@displen=\skip195
+\si@frc@textlen=\skip196
+\si@frc@suplen=\skip197
+\si@frc@ssuplen=\skip198
+\si@num@rndtarget=\count162
+\si@tab@toks=\toks34
+\si@tab@pretoks=\toks35
+\si@tab@posttoks=\toks36
+\si@tempcnta=\count163
+\si@tempcntb=\count164
+\si@tab@prebox=\box36
+\si@tab@midbox=\box37
+\si@tab@postbox=\box38
+\si@tab@expbox=\box39
+\si@tab@predim=\dimen163
+\si@tab@postdim=\dimen164
+\si@tab@expdim=\dimen165
+\si@tempdima=\dimen166
+\si@tempdimb=\dimen167
+\si@unt@unitcnta=\count165
+\si@unt@unitcntb=\count166
+\si@unt@depthcnt=\count167
+\si@unt@prefixcnt=\count168
+\si@unt@powerdim=\dimen168
+
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-prefix.cfg
+File: si-prefix.cfg 2009/09/21 v1.3a siunitx: SI Multiple prefixes
+Package siunitx Info: Redefining unit \kilogram on input line 46.
+)
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-named.cfg
+File: si-named.cfg 2009/09/21 v1.3a siunitx: SI Named units
+)
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-addn.cfg
+File: si-addn.cfg 2009/09/21 v1.3a siunitx: SI Additional units
+)
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-prefixed.cfg
+File: si-prefixed.cfg 2009/09/21 v1.3a siunitx: SI Prefixed units
+
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-accepted.cfg
+File: si-accepted.cfg 2009/09/21 v1.3a siunitx: SI Accepted units
+)
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-physical.cfg
+File: si-physical.cfg 2009/09/21 v1.3a siunitx: SI Physically-measured units
+))
+(/usr/share/texmf-texlive/tex/latex/siunitx/config/si-abbr.cfg
+File: si-abbr.cfg 2009/09/21 v1.3a siunitx: Abbreviated units
+))
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/tools/varioref.sty
+Package: varioref 2009/09/13 v1.4w package for extended references (FMi)
+\c@vrcnt=\count169
+)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip199
+\bibsep=\skip200
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count170
+)
+(/usr/share/texmf-texlive/tex/latex/tools/xr.sty
+Package: xr 1994/05/28 v5.02 eXternal References (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen169
+\nom@tempdim=\dimen170
+\nomitemsep=\skip201
+)
+\@nomenclaturefile=\write4
+\openout4 = `Specificationrequirement.nlo'.
+
+
+Writing nomenclature file Specificationrequirement.nlo
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count171
+\float@exts=\toks37
+\float@box=\box40
+\@float@everytoks=\toks38
+\@floatcapt=\box41
+)
+(/usr/share/texmf-texlive/tex/latex/fixme/fixme.sty
+Package: fixme 2009/09/30 v4.1 Insert fixme notes in your documents
+\c@fixmecount=\count172
+\c@fxnotecount=\count173
+\c@fxwarningcount=\count174
+\c@fxerrorcount=\count175
+\c@fxfatalcount=\count176
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0.0pt and 0.0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 691.0003pt by 426.0pt
+Spine and edge margins: 99.58464pt and 71.13188pt
+Upper and lower margins: 71.13188pt and 82.91466pt
+Headheight and headsep: 13.6pt and 19.8738pt
+Footskip: 27.46295pt
+Columnsep and columnseprule: 10.0pt and 0.0pt
+Marginparsep and marginparwidth: 7.0pt and 101.0pt
+Sidecapsep and sidecapwidth: 7.0pt and 101.0pt
+Sidebarhsep and sidebarwidth: 7.0pt and 101.0pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0.0pt
+Sidebarheight: 594.32022pt
+******************************************************
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen171
+\Hy@linkcounter=\count177
+\Hy@pagecounter=\count178
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count179
+\Field@Width=\dimen172
+\Fld@charsize=\dimen173
+\Field@toks=\toks39
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count180
+\c@Item=\count181
+)
+(/usr/share/texmf-texlive/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2009/02/06 v1.12 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count182
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count183
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 67.
+)
+(./Specificationrequirement.aux)
+\openout1 = `Specificationrequirement.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count184
+\scratchdimen=\dimen174
+\scratchbox=\box42
+\nofMPsegments=\count185
+\nofMParguments=\count186
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count187
+\MPscratchDim=\dimen175
+\MPnumerator=\count188
+\everyMPtoPDFconversion=\toks41
+)
+LaTeX Info: Redefining \selectfont on input line 2.
+ ABD: EveryShipout initializing macros
+Package siunitx Info: xfrac package unavailable
+(siunitx)             using `fraction=sfrac' will fall back on
+(siunitx)             nicefrac-like method on input line 2.
+Package hyperref Info: Link coloring OFF on input line 2.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count189
+LaTeX Info: Redefining \Ref on input line 396.
+)
+LaTeX Info: Redefining \ref on input line 2.
+LaTeX Info: Redefining \pageref on input line 2.
+
+(./Specificationrequirement.out) (./Specificationrequirement.out)
+\@outlinefile=\write5
+\openout5 = `Specificationrequirement.out'.
+
+\AtBeginShipoutBox=\box43
+LaTeX Info: Redefining \Ref on input line 2.
+
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 2.
+
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+(./Specificationrequirement.aux) ) 
 Here is how much of TeX's memory you used:
- 6923 strings out of 495061
- 90281 string characters out of 1182622
- 181473 words of memory out of 3000000
- 10043 multiletter control sequences out of 15000+50000
- 5008 words of font info for 17 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
- 38i,1n,35p,324b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 13894 strings out of 495061
+ 194695 string characters out of 1182622
+ 334864 words of memory out of 3000000
+ 16815 multiletter control sequences out of 15000+50000
+ 16314 words of font info for 52 fonts, out of 3000000 for 9000
+ 31 hyphenation exceptions out of 8191
+ 45i,11n,78p,364b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/numb/.texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecbx1000.657pk> </home/numb/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+200.600pk> </home/numb/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.720pk> <
+/home/numb/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.657pk>
+Output written on Specificationrequirement.pdf (1 page, 44820 bytes).
+PDF statistics:
+ 151 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+
