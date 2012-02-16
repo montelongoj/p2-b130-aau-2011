@@ -1,0 +1,29 @@
+Friday Meeting 16-02-2012
+
+Purpose: Find out what we should do.
+
+Focus on: Bin packing problem. 
+
+Status on problem analysis: We soon have a draft.
+
+Focus on more than planes.
+
+We need: 
+
+ - Thesis statement
+
+Worksheet:
+
+ - Problem analysis - what we have so far
+ - Target group? MINERVA
+ - Have a look at the problem analysis from last time.
+ - Niels+Alexander creates worksheet
+
+
+Dag: Target group analysis, risk factors:
+Niels: Transport, worksheet
+Alexander: Worksheet, look at adding something to problem, thesis statement
+Kasper: Why the rules for luggage
+Christian: Read Bin packing problem, get book, read chapters, read pdf, send worksheet.
+Mette: Christian har "noget" hun kan lave. 
+Rasmus: Algorithms, PDF's, Write to maze-company
