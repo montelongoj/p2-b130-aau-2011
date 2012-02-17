@@ -1,0 +1,102 @@
+% This file was created with JabRef 2.7.1.
+% Encoding: Cp1252
+
+@MISC{SAS,
+  author = {SAS Airline},
+  title = {Checked-in luggage},
+  owner = {Kasper},
+  timestamp = {2012.02.10},
+  url = {http://www.sas.dk/Charter/Bagage/Indchecket-bagage/?vst=true}
+}
+
+@MISC{Prohibited_Luggage,
+  author = {Copenhagen Airlines},
+  title = {Prohibited Items},
+  howpublished = {Internet},
+  owner = {Kasper},
+  timestamp = {2012.02.10},
+  url = {http://www.cph.dk/CPH/DK/MAIN/Foer+afrejse/Bagage/Indskrevet+bagage.htm}
+}
+
+@MISC{danskecharter,
+  author = {Henrik Baumgarten},
+  title = {Det solgte de danske chartarbureauer sidste år},
+  month = {02},
+  year = {2012},
+  owner = {Aleksander},
+  timestamp = {2012.02.14},
+  url = {http://www.takeoff.dk/news/22548}
+}
+
+@MISC{newrules,
+  author = {Crete-Kreta},
+  title = {New rules for hand luggage at all EU airports},
+  howpublished = {Internet},
+  month = {6th of Nov},
+  year = {2006},
+  owner = {Dagowich},
+  timestamp = {2012.02.08},
+  url = {http://www.crete-kreta.com/new-rules-hand-luggage-all-eu-airports}
+}
+
+@MISC{General_rules,
+  author = {Danksflyferie},
+  title = {General luggage rules},
+  owner = {Kasper},
+  timestamp = {2012.02.10},
+  url = {http://www.danskflyferie.dk/infovilkaar-bagageregler.html}
+}
+
+@MISC{rulestrain,
+  author = {DSB},
+  title = {Bagage},
+  owner = {Aleksander},
+  timestamp = {2012.02.16},
+  url = {http://www.dsb.dk/kundeservice/service-i-toget/bagage/}
+}
+
+@MISC{Why-rules,
+  author = {EU-Kommisionen},
+  title = {Bagage rules released},
+  owner = {Kasper},
+  timestamp = {2012.02.13},
+  url = {http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/06/363&format=HTML&aged=0&language=EN&guiLanguage=en}
+}
+
+@MISC{altombag,
+  author = {SAS},
+  title = {Bagageovervægt},
+  year = {2012},
+  owner = {Aleksander},
+  timestamp = {2012.02.14},
+  url = {http://www.sas.dk/Alt-om-rejsen/Bagage/Bagageovervagt/?WT.ac=AOR-DK-bg-overvaegt}
+}
+
+@ARTICLE{Stricter_rules,
+  author = {New York Times},
+  title = {After the attacks},
+  owner = {Kasper},
+  timestamp = {2012.02.14},
+  url = {http://www.nytimes.com/2001/09/13/us/after-attacks-airport-security-faa-announces-stricter-rules-knives-no-longer.html}
+}
+
+@MISC{airstat,
+  author = {Bureau of Transportation Statistics (RITA)},
+  title = {Baggage fees by airline},
+  month = {23 jan},
+  year = {2012},
+  owner = {Aleksander},
+  timestamp = {2012.02.14},
+  url = {http://www.bts.gov/programs/airline_information/baggage_fees/}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
