@@ -1,5 +1,13 @@
-% This file was created with JabRef 2.7.1.
+% This file was created with JabRef 2.7.2.
 % Encoding: Cp1252
+
+@MISC{idianrules,
+  author = {Indian railways},
+  title = {luggage rules},
+  owner = {Aleksander},
+  timestamp = {2012.02.16},
+  url = {http://www.trainenquiry.com/StaticContent/Railway_Amnities/E_R/LUGGAGE.aspx}
+}
 
 @MISC{SAS,
   author = {SAS Airline},
@@ -55,7 +63,7 @@
   url = {http://www.dsb.dk/kundeservice/service-i-toget/bagage/}
 }
 
-@MISC{Why-rules,
+@MISC{Why_rules,
   author = {EU-Kommisionen},
   title = {Bagage rules released},
   owner = {Kasper},
