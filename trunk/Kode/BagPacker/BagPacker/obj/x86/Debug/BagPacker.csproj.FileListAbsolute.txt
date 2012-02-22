@@ -12,3 +12,17 @@ C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\bin
 C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\bin\Debug\BagPacker.application
 C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe.manifest
 C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.application
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.pdb
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.frmLug.resources
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.frmMain.resources
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.Properties.Resources.resources
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\bin\Debug\BagPacker.exe.manifest
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\bin\Debug\BagPacker.application
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\bin\Debug\BagPacker.exe
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\bin\Debug\BagPacker.pdb
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe.manifest
+C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.application
