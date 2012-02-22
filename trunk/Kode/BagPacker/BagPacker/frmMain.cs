@@ -18,8 +18,8 @@ namespace BagPacker
         }
 
 
-        List<luggage_item> luggage_items = new List<luggage_item>();
-        List<luggage> luggages = new List<luggage>();
+        public List<luggage_item> luggage_items = new List<luggage_item>();
+        public List<luggage> luggages = new List<luggage>();
 
         private void btnOpenLug_Click(object sender, EventArgs e)
         {
