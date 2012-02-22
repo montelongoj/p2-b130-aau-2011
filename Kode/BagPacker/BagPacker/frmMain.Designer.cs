@@ -61,6 +61,7 @@
             this.Controls.Add(this.btnOpenLug);
             this.Name = "frmMain";
             this.Text = "The BagPacker";
+            this.Load += new System.EventHandler(this.frmMain_Load);
             this.ResumeLayout(false);
 
         }

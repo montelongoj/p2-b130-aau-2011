@@ -76,14 +76,16 @@ namespace BagPacker
             tmp_lug = new luggage();
             tmp_lug.name = "Kuffert 1";
             tmp_lug.height = 100;
-            tmp_lug.lenght = 150;
+            tmp_lug.depth = 150;
+            tmp_lug.width = 50;
             tmp_lug.max_weight = 23;
             luggages.Add(tmp_lug);
 
             tmp_lug = new luggage();
             tmp_lug.name = "Kuffert 2";
             tmp_lug.height = 80;
-            tmp_lug.lenght = 90;
+            tmp_lug.depth = 90;
+            tmp_lug.width = 80;
             tmp_lug.max_weight = 23;
             luggages.Add(tmp_lug);
         }
@@ -102,27 +104,47 @@ namespace BagPacker
         {
             public string name;
             public int height;
-            public int lenght;
+            public int depth;
             public int width;
             public int max_weight;
             public int weight = 0;
         }
 
-        private static int CompareLugItem(string x, string y)
-        {
-            return 0;
-        }
-
         private void bntStartPacking_Click(object sender, EventArgs e)
         {
-            
 
+            make_lug_and_item();
             int numb_items = luggage_items.Count;
             int numb_lug = luggages.Count;
             int weight_per_luggage = 0;
 
             weight_per_luggage = avg_weight_per_lug(numb_items, numb_lug);
-            luggages.Sort(CompareLugItem);
+            luggages.Sort(delegate(luggage lug1, luggage lug2)
+            {
+                int lug1_volume = lug1.width*lug1.height*lug1.depth;
+                int lug2_volume = lug2.width*lug2.height*lug2.depth;
+                int returnValue = 0;
+                if (lug1_volume < lug2_volume)
+                {
+                    returnValue = 1;
+                }
+                else if (lug1_volume == lug2_volume)
+                {
+                    returnValue = 0;
+                }
+                else
+                {
+                    returnValue = -1;
+                }
+                return returnValue;
+            });
         }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }
