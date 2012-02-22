@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="BagPacker.exe" version="1.0.0.0" publicKeyToken="5bfad6e012533e75" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BagPacker" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="BagPacker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BagPacker.exe" size="14336">
+      <assemblyIdentity name="BagPacker" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>8a8jInJSijGSpaU7fA/qoND12og=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=OKEEFFE\Christian" issuerKeyHash="62ba36b98727f6a82a66e1ee020bad61cb7034e9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DWm0Aqdl/QuF/c6AMSzZ+lHxMxA=</DigestValue></Reference></SignedInfo><SignatureValue>rspet926CWiZeEe8S2xz938kE/GtV2YAAoNuPEbfzlmWPF9+QMGRU3woLamcs//voFMgYyGeAK9FGRbLlDR6AiBjIlEW9T6+1nU69JELi5SrJeuvKpxmnJe5N86H+fD7WwBLo2ASTNtT0tLAT1lznwLG+CARgv5SflM1p5IC3L0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>t3GJLXZs2Gxv5qhPi9Hkq3hqcstjLznPzqvg3W5+BE9PY8aCzrPj99UB8mJuPMLN8oi4qNnCHhOw1YOUK5iE3UepT2xxENCn+FYIR8YsajbaOqnDgnXlrmgih/Nyl3TGaZHHpdCDhJ++YmS05xf2NgCr6eWJpENBzwiw1LMx/Qk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1033f151fad92c3180cefd850bfd65a702b4690d" Description="" Url=""><as:assemblyIdentity name="BagPacker.exe" version="1.0.0.0" publicKeyToken="5bfad6e012533e75" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=OKEEFFE\Christian</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zlssolmdvY7gtF4YCLZSg0o+D6w=</DigestValue></Reference></SignedInfo><SignatureValue>J+waOHTLJzXTcvc+0oneqHZzpKwVLn1F5iD/ErcoayEhpwmvf3oQHKDsXYcO+FzTUhd5Fg3DlYd1EXc3ifundSSqvHqYg7PblOL1W1bK/yTnnYZNz9Ra5INP2oTGubnfynKKBAKKtaq8mFbQGACwfZG0j7/7sb0q1BqJgQkBqQM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>t3GJLXZs2Gxv5qhPi9Hkq3hqcstjLznPzqvg3W5+BE9PY8aCzrPj99UB8mJuPMLN8oi4qNnCHhOw1YOUK5iE3UepT2xxENCn+FYIR8YsajbaOqnDgnXlrmgih/Nyl3TGaZHHpdCDhJ++YmS05xf2NgCr6eWJpENBzwiw1LMx/Qk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQYjjn/2SjWo5MXRn2gf5HWzANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIATwBLAEUARQBGAEYARQBcAEMAaAByAGkAcwB0AGkAYQBuMB4XDTEyMDIyMTEyNDg0MloXDTEzMDIyMDE4NDg0MlowLTErMCkGA1UEAx4iAE8ASwBFAEUARgBGAEUAXABDAGgAcgBpAHMAdABpAGEAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAt3GJLXZs2Gxv5qhPi9Hkq3hqcstjLznPzqvg3W5+BE9PY8aCzrPj99UB8mJuPMLN8oi4qNnCHhOw1YOUK5iE3UepT2xxENCn+FYIR8YsajbaOqnDgnXlrmgih/Nyl3TGaZHHpdCDhJ++YmS05xf2NgCr6eWJpENBzwiw1LMx/QkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQByNKRa7Z8NhA2BVl1TFGICFPSkaBSTObtt3sJ7NxoY0NkHaNDGiKcO1nI9tgzu79TqeSPib9ffdshK3LH3IuIgr6TXDdkT5vgelKXEflJPvfO4iLEq+molsimXP1nLg2hTRXTdJYSKma6kWJlUawiPVw9TCndwmUfcsMJGsQszFw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
