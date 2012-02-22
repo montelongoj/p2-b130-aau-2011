@@ -1,0 +1,14 @@
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\bin\Debug\BagPacker.exe
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\bin\Debug\BagPacker.pdb
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.frmMain.resources
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.Properties.Resources.resources
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.pdb
+c:\users\christian\documents\visual studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.frmLug.resources
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\bin\Debug\BagPacker.exe.manifest
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\bin\Debug\BagPacker.application
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe.manifest
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\BagPacker\BagPacker\obj\x86\Debug\BagPacker.application
