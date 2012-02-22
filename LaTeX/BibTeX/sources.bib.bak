@@ -88,6 +88,14 @@
   url = {http://www.nytimes.com/2001/09/13/us/after-attacks-airport-security-faa-announces-stricter-rules-knives-no-longer.html}
 }
 
+@MISC{Farlig_bagage,
+  author = {Sikker Trafik},
+  title = {Løs bagage er farligt},
+  owner = {Kasper},
+  timestamp = {2012.02.22},
+  url = {http://www.sikkertrafik.dk/I-bil/Paa-ferie-i-bil/Loes-bagage-er-farligt.aspx}
+}
+
 @MISC{airstat,
   author = {Bureau of Transportation Statistics (RITA)},
   title = {Baggage fees by airline},
