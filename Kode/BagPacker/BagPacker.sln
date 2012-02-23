@@ -4,6 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagPacker", "BagPacker\BagPacker.csproj", "{F584EF75-69DA-4B2F-BA37-FE3578FA94C2}"
 EndProject
 Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://win-1b9erb3q82x:8080/tfs/vores%20projekt
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BagPacker\\BagPacker.csproj
+		SccProjectName1 = BagPacker
+		SccLocalPath1 = BagPacker
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
