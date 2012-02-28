@@ -8,6 +8,15 @@ The first fit algorithm creates a list of the objects needed to be fitted in bin
 \subsection{Best fit (BF)}
 The best fit algorithm is the same as the first fit algorithm, except that before an object is packed, the algorithm checks each open bin, where the object fit. It will then place the object in the bin which will have the least space left when the object is packed. 
 
+\subsection{Last fit (LF)}
+This algorithm packs the in the last open bin which has room for it.
+
+\subsection{Worst fit (WF)}
+The algorithm checks all the bins, and packs the object in the bin which has most empty space.
+
+\subsection{Almost Worst fit (AWF)}
+Similar to the worst fit algorithm, but the almost worst fit algorithm packs the object in the second-emptiest bin. 
+
 \subsection{First fit Decreasing(FFD)}
 The above algorithms are very ineffective because the biggest objects might be placed at the end of the list, and thus be packed in the end, where it is more effective to pack these large objects at first.
 The first fit decreasing algorithms takes this in account and sorts the list before attempting to pack the items. This way the biggest items will be packed at first.
