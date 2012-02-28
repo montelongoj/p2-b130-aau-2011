@@ -99,6 +99,22 @@
   url = {http://www.androidzoom.com/android_applications/travel_and_local/checkmark-packlist_sbut.html}
 }
 
+@MISC{minerva,
+  author = {Michael Hammel, IT-University, Copenhagen},
+  title = {Target Group Model, Minerva Model},
+  year = {2003},
+  owner = {Dagowich},
+  timestamp = {2012.02.27},
+  url = {http://www.itu.dk/courses/W1/E2003/noter/09_maalgrupper.pdf}
+}
+
+@MISC{Cruise,
+  author = {MSCcruise},
+  title = {Cruise luggage},
+  owner = {Kasper},
+  timestamp = {2012.02.28}
+}
+
 @BOOK{appofdismath,
   title = {Applications of Discrete Mathematics},
   publisher = {McGraw-Hill, INC.},
