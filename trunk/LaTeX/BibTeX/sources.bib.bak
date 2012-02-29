@@ -112,7 +112,8 @@
   author = {MSCcruise},
   title = {Cruise luggage},
   owner = {Kasper},
-  timestamp = {2012.02.28}
+  timestamp = {2012.02.28},
+  url = {http://www.msccruises.dk/dk_da/Krydstogtsguide/For-afrejsen.aspx}
 }
 
 @BOOK{appofdismath,
