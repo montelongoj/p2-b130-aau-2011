@@ -1,6 +1,16 @@
 % This file was created with JabRef 2.7.2.
 % Encoding: Cp1252
 
+@BOOK{combopt,
+  title = {Combinatorial Optimization - Theory and Algorithms},
+  publisher = {Springer},
+  year = {2002},
+  editor = {Kurt Mattes, Heidelberg},
+  author = {Benhard Korte et. al.},
+  owner = {Lappie},
+  timestamp = {2012.02.29}
+}
+
 @MISC{idianrules,
   author = {Indian railways},
   title = {luggage rules},
@@ -135,15 +145,6 @@
   url = {http://www.sas.dk/Alt-om-rejsen/Bagage/Bagageovervagt/?WT.ac=AOR-DK-bg-overvaegt}
 }
 
-@ARTICLE{Stricter_rules,
-  author = {New York Times},
-  title = {After the attacks},
-  year = {2001},
-  owner = {Kasper},
-  timestamp = {2012.02.14},
-  url = {http://www.nytimes.com/2001/09/13/us/after-attacks-airport-security-faa-announces-stricter-rules-knives-no-longer.html}
-}
-
 @MISC{packingpro,
   author = {top iphone application},
   title = {Luggage packing app},
@@ -171,6 +172,16 @@
   owner = {Aleksander},
   timestamp = {2012.02.14},
   url = {http://www.bts.gov/programs/airline_information/baggage_fees/}
+}
+
+@ARTICLE{Stricter_rules,
+  author = {Paul Zielbauer},
+  title = {After the attacks},
+  journal = {The New York Times},
+  year = {2001},
+  owner = {Kasper},
+  timestamp = {2012.02.14},
+  url = {http://www.nytimes.com/2001/09/13/us/after-attacks-airport-security-faa-announces-stricter-rules-knives-no-longer.html}
 }
 
 @MISC{solvingmaze,
