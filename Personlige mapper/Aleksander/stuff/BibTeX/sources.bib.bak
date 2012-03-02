@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.7.
+% This file was created with JabRef 2.7.2.
 % Encoding: Cp1252
 
 @MISC{idianrules,
@@ -7,6 +7,15 @@
   owner = {Aleksander},
   timestamp = {2012.02.16},
   url = {http://www.trainenquiry.com/StaticContent/Railway_Amnities/E_R/LUGGAGE.aspx}
+}
+
+@BOOK{knapsackproblems,
+  title = {Knapsack Problems},
+  publisher = {Springer},
+  year = {2004},
+  author = {Prof. Hans Kellerer et. al.},
+  owner = {Lappie},
+  timestamp = {2012.02.27}
 }
 
 @MISC{onlinecheck,
@@ -37,7 +46,7 @@
 
 @MISC{danskecharter,
   author = {Henrik Baumgarten},
-  title = {Det solgte de danske chartarbureauer sidste aar},
+  title = {Det solgte de danske chartarbureauer sidste år},
   month = {02},
   year = {2012},
   owner = {Aleksander},
@@ -90,9 +99,36 @@
   url = {http://www.androidzoom.com/android_applications/travel_and_local/checkmark-packlist_sbut.html}
 }
 
+@MISC{minerva,
+  author = {Michael Hammel, IT-University, Copenhagen},
+  title = {Target Group Model, Minerva Model},
+  year = {2003},
+  owner = {Dagowich},
+  timestamp = {2012.02.27},
+  url = {http://www.itu.dk/courses/W1/E2003/noter/09_maalgrupper.pdf}
+}
+
+@MISC{Cruise,
+  author = {MSCcruise},
+  title = {Cruise luggage},
+  owner = {Kasper},
+  timestamp = {2012.02.28},
+  url = {http://www.msccruises.dk/dk_da/Krydstogtsguide/For-afrejsen.aspx}
+}
+
+@BOOK{appofdismath,
+  title = {Applications of Discrete Mathematics},
+  publisher = {McGraw-Hill, INC.},
+  year = {1991},
+  editor = {John G. Michaels},
+  author = {Kenneth H. Rosen},
+  owner = {numb},
+  timestamp = {2012.02.26}
+}
+
 @MISC{altombag,
   author = {SAS},
-  title = {Bagageovervaegt},
+  title = {Bagageovervægt},
   year = {2012},
   owner = {Aleksander},
   timestamp = {2012.02.14},
