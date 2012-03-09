@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.31)  9 MAR 2012 09:56
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.31)  9 MAR 2012 10:10
 entering extended mode
 **worksheet.tex
 ("C:\Users\Aleksander\P2\Personlige mapper\Aleksander\stuff\worksheet.tex"
@@ -1694,7 +1694,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
 [2]
 
-Package natbib Warning: Citation `ipack' on page 3 undefined on input line 44.
+Package natbib Warning: Citation `ipack' on page 3 undefined on input line 43.
 
 )
 ("C:\Users\Aleksander\P2\Personlige mapper\Aleksander\stuff\luggageallowance.te
@@ -1709,7 +1709,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
  []
 
 ) ("C:\Users\Aleksander\P2\Personlige mapper\Aleksander\stuff\Luggagerules.tex"
-[3] [4]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 57--64
 
  []
@@ -1750,8 +1754,12 @@ ine 29.
 Package natbib Warning: Citation `checkparklist' on page 7 undefined on input l
 ine 29.
 
-[7 <C:/Users/Aleksander/P2/Personlige mapper/Aleksander/stuff/billeder/checkmar
-k.JPG>] <billeder/shippingcalculator.JPG, id=152, 761.84625pt x 490.08093pt>
+
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [7 <C:/Users/Aleksander/P2/Personlige mapper/Aleksander/stuff/billeder/checkma
+rk.JPG>]
+<billeder/shippingcalculator.JPG, id=151, 761.84625pt x 490.08093pt>
 File: billeder/shippingcalculator.JPG Graphic file (type jpg)
 
 <use billeder/shippingcalculator.JPG>
@@ -1761,10 +1769,7 @@ Package pdftex.def Info: billeder/shippingcalculator.JPG used on input line 52.
  [8 <C:/Users/Aleksander/P2/Personlige mapper/Aleksander/stuff/billeder/shippin
 gcalculator.JPG>])
 ("C:\Users\Aleksander\P2\Personlige mapper\Aleksander\stuff\thesisstatement.tex
-"
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
+" [9]
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
@@ -1784,8 +1789,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-) ("C:\Users\Aleksander\P2\Personlige mapper\Aleksander\stuff\method.tex"
-[10]
+[10]) ("C:\Users\Aleksander\P2\Personlige mapper\Aleksander\stuff\method.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 5--9
 
  []
@@ -1939,7 +1943,7 @@ Here is how much of TeX's memory you used:
  25311 multiletter control sequences out of 15000+200000
  20628 words of font info for 59 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
- 38i,12n,60p,872b,802s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,12n,60p,872b,810s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Aleksander\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dp
 i657\ectt1000.pk> <C:\Users\Aleksander\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \jknappen\ec\dpi657\tcrm1000.pk> <C:\Users\Aleksander\AppData\Local\MiKTeX\2.9\
@@ -1951,7 +1955,7 @@ r\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi657\ecti1000.pk> <C:\
 Users\Aleksander\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi657\ec
 rm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8a.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on worksheet.pdf (19 pages, 418624 bytes).
+Output written on worksheet.pdf (19 pages, 418858 bytes).
 PDF statistics:
  617 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
