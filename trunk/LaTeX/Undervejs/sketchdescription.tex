@@ -6,9 +6,14 @@ When the user has typed the dimensions the program will calculate and make 3D im
 
 \figur{..\GUI\Skitse 1.png}
 
-It has been discussed whether if there should be a 3D image or a 2D image of the suitcase where the user can see where the items shall be placed. And at the start we concluded that we should not draw the 3D image until we were sure that we could handle 3D in the program. 
+It has been discussed whether if there should be a 3D image or a 2D image of the suitcase where the user can see where the items shall be placed. In the beginning it became clear that it was not a good idea to talk about 3D images in the program because it was not certain that Visual Studio could handle 3D images, and at last it was concluded that the program:
 
-In the beginning it became clear that it was not a good idea to talk about 3D images in the program because 
+\fxfatal{(If Visual Studio can handle 3D images, use this part)}
+will show a 3D image of how the packing should be done when the user has pressed the "Start Packing"-button.
+
+\fxfatal{(If Visual Studio cannot handle 3D images, use this part)}
+cannot work with 3D images, and the program will tell the user where to put the items by telling coordinate positions.
+
 
 \figur{..\GUI\Skitse 3.png}
 \figur{..\GUI\Skitse 3a.png}
@@ -18,7 +23,7 @@ On the sketch below we looked at how the packing list should look like, and what
 
 \figur{..\GUI\Skitse 4.png}
 
-At last we managed how the GUI will look like. We replaced the 3D image viewer with the list of added items. We 
+At last we managed how the GUI will look like. We replaced the 3D image viewer with the list of added items because it was 
 
 \figur{..\GUI\Skitse 5.png}
 
