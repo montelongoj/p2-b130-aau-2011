@@ -1,0 +1,22 @@
+Referat af konsulentmøde 21-03-2012
+
+- Præsentation af dagsorden
+- Ingen bivejleder til eksamen
+- De 3 fagligheder, datalogisk, gruppe proces og kontekstuel
+- Kort og præcis procesanalyse
+- Snak om de forskellige møder med hensyn til gruppeproces
+- Pas på med nævnelse af SCRUM-metoden i procesanalysen
+
+
+Feedback af rapporten:
+
+- Forskel på need to know og nice to know
+- Arbejd mod den gyldne middelvej mellem grundighed og kortfattedhed
+- Target group analysis skal skrives om, definer egen målgruppe (marketing del)
+ 
+
+Til statusseminaret:
+
+1. Velargumenteret problem analyse
+2. God problem formulering, peger mod kravspecifikation
+3. Datalogisk løsning på kravspecifikation
