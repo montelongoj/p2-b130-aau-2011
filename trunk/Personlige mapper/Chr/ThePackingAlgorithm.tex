@@ -1,0 +1,15 @@
+\section{The Packing Algorithm}
+\label{sec:algorithm}
+The algorithm used for packing the item in this project is based on the known theory of the Bin Packing Problem (see section \ref{sec:binpacking}). The algorithm has been a mix of some elements from the First Fit Decreasing and the Best Fit Decreasing method. These has been combined to make the algorithm used in the project. The algorithm is inspired of \citet{three-dim-pack}. The following sections will describe the used code.
+The code will try to place all the items in the luggage so it is packed most optimal in both sized and weight.
+
+\subsection{Optimization of weight}
+The optimization of the weight is done, so no luggage is exeeting the weight limit if is could be distributed different. Futhermore it would be preferable for the user, that no luggage is very heavy and another very light.
+To optimize the distribution of the weight, the average weight per luggage should be calculated. It is calculated as seen on equation \ref{eq:avg_weight}, where N = Number of items.
+
+\begin{equation}
+	\label{eq:avg_weight}
+	\mathrm{Avarage~Weigt} = \frac{\displaystyle\sum_{i=1}^{N} I_{weight}}{N}
+\end{equation}
+
+It is possible to distribute the weight average in the suitcases, when the optimal weight for each suitcase (the average weight calculated by equation \ref{eq:avg_weight}) is known. The 
