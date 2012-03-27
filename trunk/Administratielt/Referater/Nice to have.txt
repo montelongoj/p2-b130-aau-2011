@@ -1,0 +1,1 @@
+lav en funktion der gør at brugeren selv kan "tegne" objekter i programmet, og så få programmet til at tjekke om objektet passer ind i kufferten.
