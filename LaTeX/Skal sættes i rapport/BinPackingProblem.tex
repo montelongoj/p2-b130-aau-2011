@@ -1,9 +1,9 @@
 \section{Bin packing problem}
 \label{sec:binpacking}
-Bin packing problems is a combinatorial NP-hard problem. The problem consists of fitting objects of different sizes into bins of identical sizes \ref{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases but they are basically the same only major different is probably size. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations shows how the packing algorithms works in one dimension - but it gives a nice overview of how the algorithms works. Figure  \ref{bpini} is an illustration of the unpacked elements:
+Bin packing problems is a combinatorial NP-hard problem. The problem consists of fitting objects of different sizes into bins of identical sizes \ref{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases but they are basically the same, the only difference is probably the size. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations shows how the packing algorithms works in one dimension - but it gives a nice basic understanding of the algorithms. Figure \ref{bpini} is an illustration of the unpacked elements:
 \figur{0.7}{initial.png}{Initial elements}{bpini}
 
-
+Given below are examples of different fitting methods used when packing bins.
 
 \subsection{First fit (FF)}
 The first fit algorithm creates a list of the objects needed to be fitted into bins. It then runs through the list, checking if an item can fit in each bin. If it cannot fit in the first bin, it will check if it can fit in the second bin and so on. If it does not fit in any bins, it opens a new bin, and fits the object there. Figure \ref{bpff} is an illustration of the elements packed with the First fit algorithm.
@@ -11,7 +11,7 @@ The first fit algorithm creates a list of the objects needed to be fitted into b
 
 
 \subsection{Best fit (BF)}
-The best fit algorithm is the same as the first fit algorithm, except that before an object is packed, the algorithm checks each open bin, where the object fit. It will then place the object in the bin which will have the least space left when the object is packed. Figure \ref{bpbf} is an illustration of the elements packed with the Best fit algorithm.
+The best fit algorithm is much the same as the first fit algorithm, except it does not fit the object into the first bin that can contain it, the algorithm compares it to each open bin, where the object fit. It will then place the object in the bin which will have the least space left when the object is packed. Figure \ref{bpbf} is an illustration of the elements packed with the Best fit algorithm.
 \figur{0.7}{bf.png}{Elements after BF has been applied}{bpbf}
 
 \subsection{Last fit (LF)}
@@ -24,7 +24,7 @@ The algorithm checks all the bins, and packs the object in the bin which has mos
 \figur{0.7}{wf.png}{Elements after WF has been applied}{bpwf}
 
 \subsection{Almost worst fit (AWF)}
-Similar to the worst fit algorithm, but the almost worst fit algorithm packs the object in the second-emptiest bin.  Figure \ref{bpawf} is an illustration of the elements packed with the almost worst fit algorithm.
+Similar to the worst fit algorithm, but the almost worst fit algorithm packs the object in the second most empty bin.  Figure \ref{bpawf} is an illustration of the elements packed with the almost worst fit algorithm.
 \figur{0.7}{awf.png}{Elements after AWF has been applied}{bpawf}
 
 \subsection{First fit decreasing(FFD)}
