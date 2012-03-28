@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  28 MAR 2012 13:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  28 MAR 2012 13:49
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar*-*NIX*PILLE/Ra
 pport.tex
@@ -1916,88 +1916,38 @@ File: billeder/initial.png Graphic file (type png)
 <use billeder/initial.png>
 Package pdftex.def Info: billeder/initial.png used on input line 4.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 14 undefined on inp
-ut line 4.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 14 undefined on inp
-ut line 4.
-
-<billeder/ff.png, id=433, 287.0725pt x 83.31125pt>
+ <billeder/ff.png, id=435, 287.0725pt x 83.31125pt>
 File: billeder/ff.png Graphic file (type png)
- <use billeder/ff.png>
+
+<use billeder/ff.png>
 Package pdftex.def Info: billeder/ff.png used on input line 10.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 14 undefined on inp
-ut line 10.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 14 undefined on inp
-ut line 10.
-
-<billeder/bf.png, id=435, 287.0725pt x 83.31125pt>
+ <billeder/bf.png, id=439, 287.0725pt x 83.31125pt>
 File: billeder/bf.png Graphic file (type png)
- <use billeder/bf.png>
+
+<use billeder/bf.png>
 Package pdftex.def Info: billeder/bf.png used on input line 15.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 14 undefined on inp
-ut line 15.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 14 undefined on inp
-ut line 15.
-
-[14 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
-/billeder/initial.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statu
-seminar - NIX PILLE/billeder/ff.png>]
-<billeder/lf.png, id=448, 287.0725pt x 83.31125pt>
+ [14 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILL
+E/billeder/initial.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Stat
+useminar - NIX PILLE/billeder/ff.png>]
+<billeder/lf.png, id=455, 287.0725pt x 83.31125pt>
 File: billeder/lf.png Graphic file (type png)
  <use billeder/lf.png>
 Package pdftex.def Info: billeder/lf.png used on input line 19.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
 
-
-Package natbib Warning: Citation `binpackingsource' on page 15 undefined on inp
-ut line 19.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 15 undefined on inp
-ut line 19.
-
-<billeder/wf.png, id=450, 287.0725pt x 83.31125pt>
+<billeder/wf.png, id=459, 287.0725pt x 83.31125pt>
 File: billeder/wf.png Graphic file (type png)
  <use billeder/wf.png>
 Package pdftex.def Info: billeder/wf.png used on input line 24.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
 
-
-Package natbib Warning: Citation `binpackingsource' on page 15 undefined on inp
-ut line 24.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 15 undefined on inp
-ut line 24.
-
-<billeder/awf.png, id=452, 287.0725pt x 83.31125pt>
+<billeder/awf.png, id=463, 287.0725pt x 83.31125pt>
 File: billeder/awf.png Graphic file (type png)
  <use billeder/awf.png>
 Package pdftex.def Info: billeder/awf.png used on input line 28.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 15 undefined on inp
-ut line 28.
-
-
-Package natbib Warning: Citation `binpackingsource' on page 15 undefined on inp
-ut line 28.
-
 
 Underfull \vbox (badness 1137) has occurred while \output is active []
 
@@ -2104,7 +2054,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 )
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/design/programplanning.tex" [20]
-<billeder/flowchart.JPG, id=493, 539.01375pt x 542.77782pt>
+<billeder/flowchart.JPG, id=506, 539.01375pt x 542.77782pt>
 File: billeder/flowchart.JPG Graphic file (type jpg)
 
 <use billeder/flowchart.JPG>
@@ -2133,7 +2083,7 @@ dhold/teamwork/Teamwork.tex" [26])
 pport.bbl" [27] [28
 
 ]
-Overfull \hbox (32.43227pt too wide) in paragraph at lines 87--93
+Overfull \hbox (32.43227pt too wide) in paragraph at lines 92--98
 $\T1/cmtt/m/n/10.95 after-[]attacks-[]airport-[]security-[]faa-[]announces-[]st
 ricter-[]rules-[]knives-[]no-[]longer .$ 
  []
@@ -2176,16 +2126,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--1
 
  []
 
-[32] <billeder/udkastmindmap.JPG, id=601, 563.85657pt x 719.68875pt>
+[32] <billeder/udkastmindmap.JPG, id=615, 563.85657pt x 719.68875pt>
 File: billeder/udkastmindmap.JPG Graphic file (type jpg)
 
 <use billeder/udkastmindmap.JPG>
 Package pdftex.def Info: billeder/udkastmindmap.JPG used on input line 3.
 (pdftex.def)             Requested size: 340.8013pt x 434.99025pt.
 )
-
-Package natbib Warning: There were undefined citations.
-
 
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
@@ -2210,10 +2157,10 @@ Package rerunfilecheck Info: File `Rapport.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 22013 strings out of 494049
- 385590 string characters out of 3146054
- 451015 words of memory out of 3000000
- 24720 multiletter control sequences out of 15000+200000
+ 22016 strings out of 494049
+ 385665 string characters out of 3146054
+ 451058 words of memory out of 3000000
+ 24722 multiletter control sequences out of 15000+200000
  26549 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  43i,20n,60p,1855b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2237,9 +2184,9 @@ c/cm-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/c
 m-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman
 /ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.p
 fb>
-Output written on Rapport.pdf (43 pages, 782582 bytes).
+Output written on Rapport.pdf (43 pages, 784153 bytes).
 PDF statistics:
- 700 PDF objects out of 1000 (max. 8388607)
- 145 named destinations out of 1000 (max. 500000)
+ 714 PDF objects out of 1000 (max. 8388607)
+ 146 named destinations out of 1000 (max. 500000)
  421 words of extra memory for PDF output out of 10000 (max. 10000000)
 
