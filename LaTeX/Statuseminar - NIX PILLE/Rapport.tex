@@ -1,0 +1,101 @@
+\input{../preamble}
+
+\begin{document}	% Starter dokumentet - obligatorisk
+
+\frontmatter % Forindhold - nummereres med romertal
+
+\input{formalia/forside}
+\cleardoublepage % Indsætter tom side (hvis nødvendigt)
+
+\input{formalia/titelblad}
+\cleardoublepage
+\input{formalia/Underskriftsside.tex}
+\cleardoublepage
+\input{formalia/forord}
+\cleardoublepage
+
+%%%% Indholdsfortegnelse (TOC) %%%%
+
+
+\setlength\parskip{0ex} % Fjerner den vertikale afstand mellem hver linie i indholdsfortegnelse
+\tableofcontents* % Indholdsfortegnelsen 
+\setlength{\parskip}{3mm} % Aktiverer afstanden igen for resten af rapporten (afstem med preamble!)
+
+%\addtocontents{toc}{\protect\newpage} % Fremtvinger sideskift i indholdsfortegnelsen hvis nødvendig
+
+
+\label{marker}
+\mainmatter
+
+ % Hovedindhold - nummereres fra side 1
+\makeevenfoot{custom}{Page \thepage~of \pageref{LastPage}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
+\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{LastPage}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
+\pagestyle{custom}
+
+
+%%%% Rapportindhold %%%%
+\chapter{Introduction} 
+%mangler
+
+\chapter{Problem Analysis}
+\label{chap:problem}
+\input{indhold/problem/problem.tex}
+\input{indhold/problem/LuggageAllowance.tex}
+\input{indhold/problem/solutiononthemarked.tex}
+\input{indhold/problem/thesisstatemant.tex}
+
+
+\chapter{Theory}
+\label{chap:theory}
+\input{indhold/theory/Introductiontheory.tex}
+\input{indhold/theory/Knapsackproblem.tex}
+\input{indhold/theory/BinPackingComplexity.tex}
+
+\chapter{Design}
+\label{chap:design}
+\input{indhold/design/Specificationrequirement.tex}
+\input{indhold/design/Solutionsuggestions.tex}
+
+\chapter{Development}
+\label{chap:development}
+
+
+\chapter{Testing} 
+\label{chap:testing}
+
+
+\chapter{Discussion}
+\label{chap:discussion}
+
+
+%conclusion mangler
+
+%%%% Kilder %%%%
+
+\begingroup
+	\raggedright
+	\bibliography{../BibTex/sources}	% Litteraturlisten
+\endgroup
+
+%%%% Fixme-listen %%%%
+
+%\newpage
+%\listoffixmes	% Fixme-listen - fjernes til sidst i projektet med "%"
+
+\clearforchapter
+\appendix	% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
+
+\aliaspagestyle{chapter}{empty}	 % Fjernelse af nummerering på bilagenes chaptersider
+\pagestyle{empty}	%	Fjernelse af nummerering i bilag
+\addtocontents{toc}{\protect\cftpagenumbersoff{chapter}} % Fjernelse af nummerering af bilag i TOC
+
+%\settocdepth{chapter}	% Sætter dybden af indholdsfortegnelsen til chapter for bilagene
+
+
+%%%% Appendiks %%%%
+
+%%%% Bilag %%%%
+
+\end{document}																								% Slutter dokumentet - obligatorisk
+
+

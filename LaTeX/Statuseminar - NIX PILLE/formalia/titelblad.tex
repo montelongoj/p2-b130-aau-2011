@@ -1,0 +1,95 @@
+% Dette er LaTeX-versionen af titelbladet for tek-nat-basis-rapporter 2004 efterår
+% Filen kræver:
+% Universitetets logo:  aau-logo.png (for LaTeX) eller aau-logo.ps (for LaTeX)
+% Synopsis: En fil ved navn synopsis.tex
+
+% Udarbejdet af: Hans Hüttel (hans@cs.auc.dk) 21. maj 2003
+% Rettet af Morten Christophersen (mortench@tnb.aau.dk) 30. nov 2004(ændret til nyt design 2004 efterår)
+
+%\documentclass[11pt]{article}
+%\ifx\pdfoutput\undefined 
+%\usepackage[dvips]{graphicx}
+%\else
+%\usepackage[pdftex]{graphicx} 
+%\usepackage{type1cm} \fi
+  %  \usepackage[ansinew]{inputenc}
+    %\usepackage{a4}
+
+%\begin{document} 
+%\thispagestyle{empty}
+%\begin{titlepage}
+
+\begin{nopagebreak}
+{\samepage 
+\begin{tabular}{r}
+\parbox{\textwidth}{  \raisebox{11mm}{\includegraphics[height=1cm]{billeder/aaulogo.jpg}}
+\hfill \parbox{8cm}{\begin{tabular}{l}
+{\small \textbf{Faculty Office for Engineering and Science }}\\
+{\small Strandvejen 12-14} \\
+{\small Phone 96 35 97 31} \\
+{\small Fax 98 13 63 93} \\
+{\small http://tnb.aau.dk}
+\end{tabular}}}
+\\
+\end{tabular}
+
+\begin{tabular}{cc}
+\parbox{7cm}{
+\begin{description}
+
+\item {Title:} 
+
+Bag Packing Program
+
+\end{description}
+
+\parbox{8cm}{
+
+\begin{description}
+\item {Project period:}\\
+   P2, spring 2011\\
+  \hspace{4cm}
+\item { Project group:}\\
+  B130\\
+  \hspace{4cm}
+\item { Participants:}\\
+Dag Toft Børresen Pedersen \\
+Christian Jødal O'Keeffe \\
+Niels Brøndum Pedersen \\
+Aleksander Sørensen Nilsson \\
+Mette Thomsen Pedersen \\
+Rasmus Fischer Gadensgaard \\
+Kasper Plejdrup\\
+  \hspace{2cm}
+\item { Supervisor:}\\
+Karsten Jahn\\
+\end{description}
+}
+\begin{description}
+%\item { Total number of pages:} \pageref{VeryLastPage}
+\item { Finished: } 2012
+\end{description}
+\vfill } &
+\parbox{7cm}{
+  \vspace{.15cm}
+  \hfill 
+  \begin{tabular}{l}
+  { Synopsis:}\bigskip \\
+  \fbox{
+    \parbox{6.5cm}{\bigskip
+     {\vfill{\small \input{formalia/synopsis}
+     \bigskip}}
+     }}
+   \end{tabular}}
+\end{tabular}}
+\\ \\
+
+%\begin{description}
+%\item { Source of front page picture:}\\
+%http://www.frederiksberg.dk/Borgerservice/PasOgKoerekort/Pas.aspx\\
+%\end{description}
+
+\noindent{\footnotesize\emph{The content of the report is freely available, but can only be published (with source reference) with an agreement with the authors.}}
+\end{nopagebreak}
+%\end{titlepage}
+%\end{document}
