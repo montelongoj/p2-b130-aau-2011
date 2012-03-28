@@ -1,0 +1,48 @@
+\changetocdepth {2}
+\select@language {english}
+\contentsline {chapter}{Forord}{vii}{chapter*.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Problem Analysis}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problem}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Luggage allowance}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Solutions on the market}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}App - Packing Pro}{6}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}App - Checkmark Packlist}{7}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Online check/tip list}{8}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}The e-Commerce shipping calculator}{9}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Recapitulation}{9}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Thesis Statement}{10}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Theory}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Knapsack Problems}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Bin Packing Complexity}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}Bin packing problem}{14}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}First fit (FF)}{14}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Best fit (BF)}{15}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Last fit (LF)}{15}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Worst fit (WF)}{15}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Almost worst fit (AWF)}{16}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}First fit decreasing(FFD)}{16}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Best fit decreasing(BFD)}{16}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Round up}{16}{subsection.3.3.8}
+\contentsline {chapter}{\chapternumberline {4}Design}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Specification Requirements}{17}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Targeted Features}{18}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Optional Features}{18}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Solution suggestions}{19}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Application for smartphones}{19}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Extension for an existing program}{19}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Program for the computer}{20}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Choise of solution}{20}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Program planing}{21}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Development}{23}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Teamwork}{25}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Future plans for the project}{25}{subsection.6.0.1}
+\contentsline {section}{\numberline {6.1}Division of roles}{26}{section.6.1}
+\contentsline {section}{\numberline {6.2}Administration}{26}{section.6.2}
+\contentsline {section}{\numberline {6.3}Decision making}{26}{section.6.3}
+\contentsline {section}{\numberline {6.4}The meeting culture}{26}{section.6.4}
+\contentsline {section}{\numberline {6.5}Responsibility for own learning/mutual responsibility for learning}{27}{section.6.5}
+\contentsline {chapter}{Bibliography}{29}{section*.5}
+\cftpagenumbersoff {chapter}
+\contentsline {appendix}{\chapternumberline {A}Group Contract}{31}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Mindmap}{33}{appendix.B}

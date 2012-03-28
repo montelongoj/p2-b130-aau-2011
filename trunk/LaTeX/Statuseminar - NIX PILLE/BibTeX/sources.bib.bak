@@ -16,25 +16,7 @@
   title = {luggage rules},
   owner = {Aleksander},
   timestamp = {2012.02.16},
-  url = {http://www.trainenquiry.com/StaticContent/Railway_Amnities/E_R/LUGGAGE.aspx}
-}
-
-@BOOK{knapsackproblems,
-  title = {Knapsack Problems},
-  publisher = {Springer},
-  year = {2004},
-  author = {Prof. Hans Kellerer et. al.},
-  owner = {Lappie},
-  timestamp = {2012.02.27}
-}
-
-@MISC{onlinecheck,
-  author = {Susan foster},
-  title = {Pack smart for Travel},
-  howpublished = {Smart Travel press},
-  owner = {Aleksander},
-  timestamp = {2012.02.22},
-  url = {http://www.roadandtravel.com/traveladvice/luggagepackingtips.htm}
+  url = {http://www.trainenquiry.com/StaticContent/Railway\_Amnities/E\_R/LUGGAGE.aspx}
 }
 
 @MISC{SAS,
@@ -91,8 +73,8 @@
   url = {http://www.dsb.dk/kundeservice/service-i-toget/bagage/}
 }
 
-@ARTICLE{three-dim-pack,
-  author = {Erick Dube  AND Leon R. Kanavathy},
+@MISC{three-dim-pack,
+  author = {Erick Dube AND Leon R. Kanavathy},
   title = {Optimizing three-dimensional bin packing through simulation},
   owner = {Christian},
   timestamp = {2012.03.21}
@@ -106,6 +88,15 @@
   url = {http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/06/363\&format=HTML\&aged=0\&language=EN\&guiLanguage=en}
 }
 
+@MISC{onlinecheck,
+  author = {Susan Foster},
+  title = {Pack smart for Travel},
+  howpublished = {Smart Travel press},
+  owner = {Aleksander},
+  timestamp = {2012.02.22},
+  url = {http://www.roadandtravel.com/traveladvice/luggagepackingtips.htm}
+}
+
 @MISC{checkpacklist,
   author = {GreenbeanSoft},
   title = {Checkmark Packlist},
@@ -113,7 +104,16 @@
   year = {2010},
   owner = {Aleksander},
   timestamp = {2012.02.22},
-  url = {http://www.androidzoom.com/android_applications/travel_and_local/checkmark-packlist_sbut.html}
+  url = {http://www.androidzoom.com/android\_applications/travel\_and\_local/checkmark-packlist\_sbut.html}
+}
+
+@MISC{knapsackproblems,
+  author = {Prof. Hans Kellerer},
+  title = {Knapsack Problems},
+  year = {2004},
+  owner = {Lappie},
+  publisher = {Springer},
+  timestamp = {2012.02.27}
 }
 
 @MISC{minerva,
@@ -122,7 +122,7 @@
   year = {2003},
   owner = {Dagowich},
   timestamp = {2012.02.27},
-  url = {http://www.itu.dk/courses/W1/E2003/noter/09_maalgrupper.pdf}
+  url = {http://www.itu.dk/courses/W1/E2003/noter/09\_maalgrupper.pdf}
 }
 
 @MISC{Cruise,
@@ -130,7 +130,7 @@
   title = {Cruise luggage},
   owner = {Kasper},
   timestamp = {2012.02.28},
-  url = {http://www.msccruises.dk/dk_da/Krydstogtsguide/For-afrejsen.aspx}
+  url = {http://www.msccruises.dk/dk\_da/Krydstogtsguide/For-afrejsen.aspx}
 }
 
 @BOOK{appofdismath,
@@ -152,10 +152,17 @@
   url = {http://www.sas.dk/Alt-om-rejsen/Bagage/Bagageovervagt/?WT.ac=AOR-DK-bg-overvaegt}
 }
 
+@MISC{solvingmaze,
+  author = {SolvingMaze},
+  title = {The e-Commerce shipping Calculator demo},
+  owner = {Aleksander},
+  timestamp = {2012.02.22},
+  url = {http://solvingmaze.com/demo}
+}
+
 @MISC{packingpro,
   author = {top iphone application},
   title = {Luggage packing app},
-  howpublished = {top iphone application},
   month = {february},
   year = {2011},
   owner = {Aleksander},
@@ -178,7 +185,7 @@
   year = {2012},
   owner = {Aleksander},
   timestamp = {2012.02.14},
-  url = {http://www.bts.gov/programs/airline_information/baggage_fees/}
+  url = {http://www.bts.gov/programs/airline\_information/baggage\_fees/}
 }
 
 @ARTICLE{Stricter_rules,
@@ -190,22 +197,4 @@
   timestamp = {2012.02.14},
   url = {http://www.nytimes.com/2001/09/13/us/after-attacks-airport-security-faa-announces-stricter-rules-knives-no-longer.html}
 }
-
-@MISC{solvingmaze,
-  title = {The e-Commerce shipping Calculator demo},
-  howpublished = {SolvingMaze},
-  owner = {Aleksander},
-  timestamp = {2012.02.22},
-  url = {http://solvingmaze.com/demo}
-}
-
-@comment{jabref-meta: selector_review:}
-
-@comment{jabref-meta: selector_publisher:}
-
-@comment{jabref-meta: selector_author:}
-
-@comment{jabref-meta: selector_journal:}
-
-@comment{jabref-meta: selector_keywords:}
 
