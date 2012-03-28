@@ -2,7 +2,12 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Rapport.aux
 The style file: bibtex/harvard.bst
 url: is an unknown function---line 330 of file bibtex/harvard.bst
 Database file #1: BibTeX/sources.bib
-Warning--I didn't find a database entry for "binpackingsource"
+Warning--to sort, need author or key in binpackingsource
+Warning--empty year in binpackingsource
+Warning--empty year in binpackingsource
+1 is an integer literal, not a string, for entry binpackingsource
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in binpackingsource
 0 is an integer literal, not a string, for entry danskecharter
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty year in rulestrain
@@ -43,4 +48,4 @@ Warning--empty  in solvingmaze
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry Stricter_rules
 while executing---line 1495 of file bibtex/harvard.bst
-(There were 14 error messages)
+(There were 15 error messages)
