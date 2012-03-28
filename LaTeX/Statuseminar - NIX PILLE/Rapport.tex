@@ -28,8 +28,8 @@
 \mainmatter
 
  % Hovedindhold - nummereres fra side 1
-\makeevenfoot{custom}{Page \thepage~of \pageref{LastPage}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
-\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{LastPage}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
+\makeevenfoot{custom}{Page \thepage~of \pageref{Page}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
+\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{Page}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
 \pagestyle{custom}
 
 
@@ -73,15 +73,16 @@
 
 \begingroup
 	\raggedright
-	\bibliography{../BibTex/sources}	% Litteraturlisten
+	\bibliography{BibTeX/sources}	% Litteraturlisten
 \endgroup
 
 %%%% Fixme-listen %%%%
 
 %\newpage
 %\listoffixmes	% Fixme-listen - fjernes til sidst i projektet med "%"
-
+\label{Page}
 \clearforchapter
+
 \appendix	% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
 
 \aliaspagestyle{chapter}{empty}	 % Fjernelse af nummerering på bilagenes chaptersider
@@ -93,9 +94,10 @@
 
 %%%% Appendiks %%%%
 \input{appendix/GroupContract.tex}
+\input{appendix/mindmap.tex}
 
 %%%% Bilag %%%%
-
-\end{document}																								% Slutter dokumentet - obligatorisk
+\fda
+\end{document}
 
 
