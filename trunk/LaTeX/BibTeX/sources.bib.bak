@@ -91,7 +91,7 @@
   url = {http://www.dsb.dk/kundeservice/service-i-toget/bagage/}
 }
 
-@ARTICLE{,
+@ARTICLE{three-dim-pack,
   author = {Erick Dube  AND Leon R. Kanavathy},
   title = {Optimizing three-dimensional bin packing through simulation},
   owner = {Christian},
