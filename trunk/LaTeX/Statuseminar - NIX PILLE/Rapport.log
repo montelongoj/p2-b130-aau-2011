@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  28 MAR 2012 13:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  28 MAR 2012 14:02
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar*-*NIX*PILLE/Ra
 pport.tex
@@ -1578,7 +1578,7 @@ rmalia/forside.tex") [1
 
 ]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\fo
-rmalia/titelblad.tex" <billeder/aaulogo.jpg, id=195, 213.79875pt x 35.13126pt>
+rmalia/titelblad.tex" <billeder/aaulogo.jpg, id=187, 213.79875pt x 35.13126pt>
 File: billeder/aaulogo.jpg Graphic file (type jpg)
 
 <use billeder/aaulogo.jpg>
@@ -1793,13 +1793,6 @@ d")) [7
 ]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\Ra
 pport.toc" [9]) [10]
-("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\fo
-rmalia/intro.tex") [1
-
-
-] [2
-
-]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/problem/problem.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -1834,8 +1827,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-[4])
+ [1
+
+
+]
+[2])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/problem/LuggageAllowance.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
@@ -1847,10 +1843,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-[5])
+[3])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/problem/solutiononthemarked.tex"
-<billeder/Iphone.JPG, id=339, 486.31688pt x 367.3725pt>
+<billeder/Iphone.JPG, id=319, 486.31688pt x 367.3725pt>
 File: billeder/Iphone.JPG Graphic file (type jpg)
 
 <use billeder/Iphone.JPG>
@@ -1859,27 +1855,27 @@ Package pdftex.def Info: billeder/Iphone.JPG used on input line 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
-<billeder/checkmark.JPG, id=353, 249.93375pt x 371.88937pt>
+ [4]
+<billeder/checkmark.JPG, id=333, 249.93375pt x 371.88937pt>
 File: billeder/checkmark.JPG Graphic file (type jpg)
 
 <use billeder/checkmark.JPG>
 Package pdftex.def Info: billeder/checkmark.JPG used on input line 29.
 (pdftex.def)             Requested size: 170.3974pt x 253.55103pt.
- [7 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
-/billeder/Iphone.JPG>] [8 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/St
+ [5 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
+/billeder/Iphone.JPG>] [6 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/St
 atuseminar - NIX PILLE/billeder/checkmark.JPG>]
-<billeder/shippingcalculator.JPG, id=378, 761.84625pt x 490.08093pt>
+<billeder/shippingcalculator.JPG, id=358, 761.84625pt x 490.08093pt>
 File: billeder/shippingcalculator.JPG Graphic file (type jpg)
 
 <use billeder/shippingcalculator.JPG>
 Package pdftex.def Info: billeder/shippingcalculator.JPG used on input line 52.
 
 (pdftex.def)             Requested size: 255.6026pt x 164.4193pt.
- [9 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
+ [7 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
 /billeder/shippingcalculator.JPG>])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
-dhold/problem/thesisstatement.tex" [10]
+dhold/problem/thesisstatement.tex" [8]
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
@@ -1899,7 +1895,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-) [11] [12]
+) [9] [10]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/theory/Introductiontheory.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
@@ -1907,43 +1903,43 @@ dhold/theory/Knapsackproblem.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/theory/BinPackingComplexity.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
-dhold/theory/BinPackingProblem.tex" [13
+dhold/theory/BinPackingProblem.tex" [11
 
 ]
-<billeder/initial.png, id=431, 287.0725pt x 83.31125pt>
+<billeder/initial.png, id=411, 287.0725pt x 83.31125pt>
 File: billeder/initial.png Graphic file (type png)
 
 <use billeder/initial.png>
 Package pdftex.def Info: billeder/initial.png used on input line 4.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- <billeder/ff.png, id=435, 287.0725pt x 83.31125pt>
+ <billeder/ff.png, id=415, 287.0725pt x 83.31125pt>
 File: billeder/ff.png Graphic file (type png)
 
 <use billeder/ff.png>
 Package pdftex.def Info: billeder/ff.png used on input line 10.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- <billeder/bf.png, id=439, 287.0725pt x 83.31125pt>
+ <billeder/bf.png, id=419, 287.0725pt x 83.31125pt>
 File: billeder/bf.png Graphic file (type png)
 
 <use billeder/bf.png>
 Package pdftex.def Info: billeder/bf.png used on input line 15.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- [14 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILL
+ [12 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILL
 E/billeder/initial.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Stat
 useminar - NIX PILLE/billeder/ff.png>]
-<billeder/lf.png, id=455, 287.0725pt x 83.31125pt>
+<billeder/lf.png, id=435, 287.0725pt x 83.31125pt>
 File: billeder/lf.png Graphic file (type png)
  <use billeder/lf.png>
 Package pdftex.def Info: billeder/lf.png used on input line 19.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
 
-<billeder/wf.png, id=459, 287.0725pt x 83.31125pt>
+<billeder/wf.png, id=439, 287.0725pt x 83.31125pt>
 File: billeder/wf.png Graphic file (type png)
  <use billeder/wf.png>
 Package pdftex.def Info: billeder/wf.png used on input line 24.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
 
-<billeder/awf.png, id=463, 287.0725pt x 83.31125pt>
+<billeder/awf.png, id=443, 287.0725pt x 83.31125pt>
 File: billeder/awf.png Graphic file (type png)
  <use billeder/awf.png>
 Package pdftex.def Info: billeder/awf.png used on input line 28.
@@ -1951,18 +1947,15 @@ Package pdftex.def Info: billeder/awf.png used on input line 28.
 
 Underfull \vbox (badness 1137) has occurred while \output is active []
 
- [15 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILL
+ [13 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILL
 E/billeder/bf.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statusemi
 nar - NIX PILLE/billeder/lf.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/L
-aTeX/Statuseminar - NIX PILLE/billeder/wf.png>]) [16 <C:/Users/Christian/Docume
+aTeX/Statuseminar - NIX PILLE/billeder/wf.png>]) [14 <C:/Users/Christian/Docume
 nts/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE/billeder/awf.png>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
 dhold/design/Introductiondesign.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
-dhold/design/Specificationrequirement.tex"
-Underfull \vbox (badness 1024) has occurred while \output is active []
-
- [17
+dhold/design/Specificationrequirement.tex" [15
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
@@ -2019,7 +2012,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
-[18]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
@@ -2046,15 +2039,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-[19]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
 )
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
-dhold/design/programplanning.tex" [20]
-<billeder/flowchart.JPG, id=506, 539.01375pt x 542.77782pt>
+dhold/design/programplanning.tex" [18]
+<billeder/flowchart.JPG, id=486, 539.01375pt x 542.77782pt>
 File: billeder/flowchart.JPG Graphic file (type jpg)
 
 <use billeder/flowchart.JPG>
@@ -2063,24 +2056,17 @@ Package pdftex.def Info: billeder/flowchart.JPG used on input line 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21])
-[22 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
-/billeder/flowchart.JPG>] [23
-
-] [24
-
-]
+ [19])
+[20 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE
+/billeder/flowchart.JPG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
-dhold/teamwork/FuturePlans.tex"
+dhold/teamwork/FuturePlans.tex" [21
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-[25])
+])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\in
-dhold/teamwork/Teamwork.tex" [26])
+dhold/teamwork/Teamwork.tex" [22])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\Ra
-pport.bbl" [27] [28
+pport.bbl" [23] [24
 
 ]
 Overfull \hbox (32.43227pt too wide) in paragraph at lines 92--98
@@ -2088,11 +2074,11 @@ $\T1/cmtt/m/n/10.95 after-[]attacks-[]airport-[]security-[]faa-[]announces-[]st
 ricter-[]rules-[]knives-[]no-[]longer .$ 
  []
 
-) [29] [30
+) [25] [26
 
 ]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\ap
-pendix/GroupContract.tex" [31
+pendix/GroupContract.tex" [27
 
 ])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Statuseminar - NIX PILLE\ap
@@ -2126,7 +2112,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--1
 
  []
 
-[32] <billeder/udkastmindmap.JPG, id=615, 563.85657pt x 719.68875pt>
+[28] <billeder/udkastmindmap.JPG, id=585, 563.85657pt x 719.68875pt>
 File: billeder/udkastmindmap.JPG Graphic file (type jpg)
 
 <use billeder/udkastmindmap.JPG>
@@ -2140,7 +2126,7 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Number of fatal errors: 0,
 (FiXme)        Total: 0.
 
-[33
+[29
 
  <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Statuseminar - NIX PILLE/bi
 lleder/udkastmindmap.JPG>]
@@ -2153,14 +2139,14 @@ pport.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: C6411C14E90E1322AB15E513FA3BDC12;3015.
+(rerunfilecheck)             Checksum: AD1918C218B5816C8EF8AE1152288CA8;2913.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 22016 strings out of 494049
- 385665 string characters out of 3146054
- 451058 words of memory out of 3000000
- 24722 multiletter control sequences out of 15000+200000
+ 22002 strings out of 494049
+ 385330 string characters out of 3146054
+ 452005 words of memory out of 3000000
+ 24717 multiletter control sequences out of 15000+200000
  26549 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  43i,20n,60p,1855b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2184,9 +2170,9 @@ c/cm-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/c
 m-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman
 /ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.p
 fb>
-Output written on Rapport.pdf (43 pages, 784153 bytes).
+Output written on Rapport.pdf (39 pages, 776457 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
- 146 named destinations out of 1000 (max. 500000)
- 421 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 681 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 405 words of extra memory for PDF output out of 10000 (max. 10000000)
 
