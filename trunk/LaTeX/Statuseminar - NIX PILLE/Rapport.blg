@@ -8,6 +8,11 @@ Warning--empty year in binpackingsource
 1 is an integer literal, not a string, for entry binpackingsource
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in binpackingsource
+Warning--empty year in Prohibited_luggage
+Warning--empty year in Prohibited_luggage
+1 is an integer literal, not a string, for entry Prohibited_luggage
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in Prohibited_luggage
 0 is an integer literal, not a string, for entry danskecharter
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty year in rulestrain
@@ -15,9 +20,6 @@ Warning--empty year in rulestrain
 1 is an integer literal, not a string, for entry rulestrain
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in rulestrain
-Warning--can't use both author and editor fields in combopt
-1 is an integer literal, not a string, for entry combopt
-while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty year in Why_rules
 Warning--empty year in Why_rules
 1 is an integer literal, not a string, for entry Why_rules
@@ -32,8 +34,21 @@ Warning--empty  in onlinecheck
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry knapsackproblems
 while executing---line 1495 of file bibtex/harvard.bst
+Warning--can't use both author and editor fields in combopt
+1 is an integer literal, not a string, for entry combopt
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty year in Cruise
+Warning--empty year in Cruise
+1 is an integer literal, not a string, for entry Cruise
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in Cruise
 0 is an integer literal, not a string, for entry airstat
 while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty year in idianrules
+Warning--empty year in idianrules
+1 is an integer literal, not a string, for entry idianrules
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in idianrules
 Warning--can't use both author and editor fields in appofdismath
 1 is an integer literal, not a string, for entry appofdismath
 while executing---line 1495 of file bibtex/harvard.bst
@@ -48,4 +63,4 @@ Warning--empty  in solvingmaze
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry Stricter_rules
 while executing---line 1495 of file bibtex/harvard.bst
-(There were 15 error messages)
+(There were 18 error messages)
