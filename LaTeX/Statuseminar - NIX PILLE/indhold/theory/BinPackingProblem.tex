@@ -1,6 +1,7 @@
 \section{Bin packing problem}
 \label{sec:binpacking}
-Bin packing problems is a combinatorial NP-hard problem. The problem consists of fitting objects of different sizes into bins of identical sizes \citep{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases but they are basically the same, the only difference is probably the size. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations shows how the packing algorithms works in one dimension - but it gives a nice basic understanding of the algorithms. Figure \ref{bpini} is an illustration of the unpacked elements:
+The bin packing problem is a combinatorial NP-hard problem \citep{combopt}. This means that the problem is at least as hard as an existing NP-complete problem. NP-complete means, in simple terms, that every combination must be examined, and then the best combination must be chosen. An example is the Traveling Salesman Problem (TSP), where a list of cities and distances between the cities is given. The problem is then to find the shortest route to visit all cities, and to end at the starting point. \fxfatal{Lav dette med kilder og omskriv}
+The problem consists of fitting objects of different sizes into bins of identical sizes \citep{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases but they are basically the same, the only difference is the size. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations shows how the packing algorithms works in one dimension - but it gives a nice basic understanding of the algorithms. Figure \ref{bpini} is an illustration of the unpacked elements:
 \figur{0.7}{initial.png}{Initial elements (source: \citep{binpackingsource})}{bpini}
 
 Given below are examples of different fitting methods used when packing bins.
@@ -8,7 +9,7 @@ Given below are examples of different fitting methods used when packing bins.
 \subsection{First fit (FF)}
 The first fit algorithm creates a list of the objects needed to be fitted into bins. It then runs through the list, checking if an item can fit in each bin. If it cannot fit in the first bin, it will check if it can fit in the second bin and so on. If it does not fit in any bins, it opens a new bin, and fits the object there. Figure \ref{bpff} is an illustration of the elements packed with the First fit algorithm.
 \figur{0.7}{ff.png}{Elements after FF has been applied (source: \citep{binpackingsource})}{bpff}
-
+\fxfatal{Forklar figurer}
 
 \subsection{Best fit (BF)}
 The best fit algorithm is much the same as the first fit algorithm, except it does not fit the object into the first bin that can contain it, the algorithm compares it to each open bin, where the object fit. It will then place the object in the bin which will have the least space left when the object is packed. Figure \ref{bpbf} is an illustration of the elements packed with the Best fit algorithm.
@@ -35,4 +36,5 @@ The first fit decreasing algorithms takes this into account and sorts the list b
 Again this is the same as the best fit algorithm, but with the list being sorted before attempting to pack the objects.
 
 \subsection{Round up}
-It seems that it is more effective to sort the lists before attempting to pack objects into bins. This way bigger objects are packed first, and the smaller objects can then be fitted around the bigger objects. However in some situations it is necessary to use unsorted lists. For example in a factory with continuous production, it is never possible to have the complete list of objects, and thus never possible to sort the list.
+It seems that it is more effective to sort the lists before attempting to pack objects into bins. This way bigger objects are packed first, and the smaller objects can then be fitted around the bigger objects. However in some situations it is necessary to use unsorted lists. For example in a factory with continuous production, it is never possible to have the complete list of objects, and thus never possible to sort the list. This theory can be used to form the algorithm of this project, and use the others mathematical experiences as a benefit.
+\fxfatal{Et eller andet sted skal der sammenlignes mellem binpacking og knapsack}

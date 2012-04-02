@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,6 +9,14 @@
 
 \newblock \textit{Bin Packing}.
 \newblock URL \url{http://www.cs.arizona.edu/icon/oddsends/bpack/bpack.htm}.
+
+\bibitem[Airlines()]{Prohibited_luggage}
+\textbf{\textbf{Airlines}}.
+\newblock Copenhagen Airlines.
+\newblock \textit{Prohibited Items}.
+\newblock Internet.
+\newblock URL
+  \url{http://www.cph.dk/CPH/DK/MAIN/Foer+afrejse/Bagage/Indskrevet+bagage.htm}.
 
 \bibitem[Baumgarten(2012)]{danskecharter}
 \textbf{Baumgarten}, \textbf{02 2012}.
@@ -21,12 +29,6 @@
 \newblock DSB.
 \newblock \textit{Bagage}.
 \newblock URL \url{http://www.dsb.dk/kundeservice/service-i-toget/bagage/}.
-
-\bibitem[et. al.(2002)]{combopt}
-\textbf{al.}, \textbf{2002}.
-\newblock Benhard~Korte et. al.
-\newblock \textit{Combinatorial Optimization - Theory and Algorithms}.
-\newblock Springer, 2002.
 
 \bibitem[EU-Kommisionen()]{Why_rules}
 \textbf{\textbf{EU-Kommisionen}}.
@@ -56,12 +58,32 @@
 \newblock Prof.~Hans Kellerer.
 \newblock \textit{Knapsack Problems}, 2004.
 
+\bibitem[Korte and Vygen(2002)]{combopt}
+\textbf{Korte and Vygen}, \textbf{2002}.
+\newblock Benhard Korte and Jens Vygen.
+\newblock \textit{Combinatorial Optimization - Theory and Algorithms}.
+\newblock Springer, 2002.
+
+\bibitem[MSCcruise()]{Cruise}
+\textbf{\textbf{MSCcruise}}.
+\newblock MSCcruise.
+\newblock \textit{Cruise luggage}.
+\newblock URL
+  \url{http://www.msccruises.dk/dk\_da/Krydstogtsguide/For-afrejsen.aspx}.
+
 \bibitem[of~Transportation Statistics~(RITA)(2012)]{airstat}
 \textbf{Transportation Statistics~(RITA)}, \textbf{23 jan 2012}.
 \newblock Bureau of~Transportation Statistics~(RITA).
 \newblock \textit{Baggage fees by airline}, 2012.
 \newblock URL
   \url{http://www.bts.gov/programs/airline\_information/baggage\_fees/}.
+
+\bibitem[railways()]{idianrules}
+\textbf{\textbf{railways}}.
+\newblock Indian railways.
+\newblock \textit{luggage rules}.
+\newblock URL
+  \url{http://www.trainenquiry.com/StaticContent/Railway\_Amnities/E\_R/LUGGAGE.aspx}.
 
 \bibitem[Rosen(1991)]{appofdismath}
 \textbf{Rosen}, \textbf{1991}.
