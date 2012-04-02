@@ -1,0 +1,56 @@
+\changetocdepth {2}
+\select@language {english}
+\contentsline {chapter}{Foreword}{vii}{chapter*.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Problem Analysis}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problem of packing}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Packing}{4}{subsection.2.1.1}
+\contentsline {subsubsection}{Fees regarding luggage by flight}{4}{section*.2}
+\contentsline {subsubsection}{Different Transport Methods}{4}{section*.3}
+\contentsline {subsubsection}{Souvenirs on Vacation}{5}{section*.4}
+\contentsline {subsubsection}{Packing as an family}{5}{section*.5}
+\contentsline {subsubsection}{Round Up}{5}{section*.6}
+\contentsline {section}{\numberline {2.2}Luggage rules}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Luggage table}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Charter trips on air planes}{6}{subsection.2.2.2}
+\contentsline {subsubsection}{Checked-in luggage}{6}{section*.7}
+\contentsline {subsubsection}{Carry on}{7}{section*.8}
+\contentsline {subsection}{\numberline {2.2.3}Rules on trains}{7}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Rules on cruise ships}{7}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Luggage allowance}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Solutions on the market}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}App - Packing Pro}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}App - Checkmark Packlist}{9}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Online check/tip list}{10}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}The e-Commerce shipping calculator}{11}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Recapitulation}{11}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Thesis Statement}{12}{section.2.5}
+\contentsline {section}{\numberline {2.6}Method}{14}{section.2.6}
+\contentsline {chapter}{\chapternumberline {3}Theory}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Knapsack Problems}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Bin packing problem}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}First fit (FF)}{16}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Best fit (BF)}{16}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Last fit (LF)}{17}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Worst fit (WF)}{17}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Almost worst fit (AWF)}{17}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}First fit decreasing(FFD)}{18}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Best fit decreasing(BFD)}{18}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Round up}{18}{subsection.3.2.8}
+\contentsline {chapter}{\chapternumberline {4}Design}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Specification Requirements}{19}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Optional Features}{20}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Solution suggestions}{21}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Application for smartphones}{21}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Extension for an existing program}{21}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Program for the computer}{22}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Choise of solution}{22}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Program planing}{22}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Development}{25}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Testing}{27}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Discussion}{29}{chapter.7}
+\contentsline {chapter}{Bibliography}{31}{section*.11}
+\cftpagenumbersoff {chapter}
+\contentsline {appendix}{\chapternumberline {A}Group Contract}{33}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Mindmap}{35}{appendix.B}

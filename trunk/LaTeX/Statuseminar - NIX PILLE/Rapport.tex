@@ -28,14 +28,14 @@
 \mainmatter
 
  % Hovedindhold - nummereres fra side 1
-\makeevenfoot{custom}{Page \thepage~of \pageref{Page}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
-\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{Page}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
+\makeevenfoot{custom}{Page \thepage~of \pageref{LastPage}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
+\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{LastPage}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
 \pagestyle{custom}
 
 
 %%%% Rapportindhold %%%%
-%\chapter{Introduction} 
-%\input{formalia/intro.tex}
+\chapter{Introduction} 
+\input{formalia/intro.tex}
 
 \chapter{Problem Analysis}
 \label{chap:problem}
@@ -68,7 +68,8 @@
 \chapter{Testing} 
 \label{chap:testing}
 
-
+\chapter{Discussion}
+\label{chap:Discussion}
 %conclusion mangler
 
 %%%% Kilder %%%%
@@ -82,13 +83,11 @@
 
 %\newpage
 %\listoffixmes	% Fixme-listen - fjernes til sidst i projektet med "%"
-\label{Page}
+
 \clearforchapter
 
 \appendix	% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
 
-\aliaspagestyle{chapter}{empty}	 % Fjernelse af nummerering på bilagenes chaptersider
-\pagestyle{empty}	%	Fjernelse af nummerering i bilag
 \addtocontents{toc}{\protect\cftpagenumbersoff{chapter}} % Fjernelse af nummerering af bilag i TOC
 
 %\settocdepth{chapter}	% Sætter dybden af indholdsfortegnelsen til chapter for bilagene
