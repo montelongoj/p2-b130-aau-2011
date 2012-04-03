@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  23 MAR 2012 11:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  2 APR 2012 15:59
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/Personlige*mapper/Chr/test.tex
 ("C:/Users/Christian/Documents/Arbejde/UNI/P2/Personlige mapper/Chr/test.tex"
@@ -1621,9 +1621,9 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 11.
  ) 
 Here is how much of TeX's memory you used:
- 21566 strings out of 494049
- 373982 string characters out of 3146054
- 439895 words of memory out of 3000000
+ 21567 strings out of 494049
+ 373998 string characters out of 3146054
+ 440895 words of memory out of 3000000
  24510 multiletter control sequences out of 15000+200000
  17818 words of font info for 54 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
@@ -1639,9 +1639,9 @@ TeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/urw/bookman/ubkd8a.pfb>
-Output written on test.pdf (3 pages, 108272 bytes).
+Output written on test.pdf (3 pages, 109751 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
