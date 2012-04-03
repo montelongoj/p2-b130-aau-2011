@@ -26,3 +26,5 @@ C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\bin\Debug\B
 C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\bin\Debug\BagPacker.pdb
 C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe.manifest
 C:\Users\Christian\Documents\Arbejde\UNI\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.application
+C:\Users\Kasper\Documents\Uni\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.exe
+C:\Users\Kasper\Documents\Uni\P2\Kode\BagPacker\BagPacker\obj\x86\Debug\BagPacker.pdb
