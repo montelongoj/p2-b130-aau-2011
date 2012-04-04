@@ -1,6 +1,6 @@
 \section{The Packing Algorithm}
 \label{sec:algorithm}
-The algorithm used for packing the item in this project is based on the known theory of the Bin Packing Problem (see section \ref{sec:binpacking}). The algorithm has been a mix of some elements from the First Fit Decreasing and the Best Fit Decreasing method. These has been combined to make the algorithm used in the project. The algorithm is inspired of \citet{three-dim-pack}. The following sections will describe the used code.
+The algorithm used for packing the item in this project is based on the known theory of the Bin Packing Problem (see section \ref{sec:binpacking}). The algorithm has been a mix of some elements from the First Fit Decreasing and the Best Fit method. These has been combined to make the algorithm used in the project. The algorithm is inspired of \citet{three-dim-pack}. The following sections will describe the used code.
 The code will try to place all the items in the luggage so it is packed most optimal in both sized and weight.
 
 \subsection{Optimization of weight}
@@ -12,6 +12,7 @@ To optimize the distribution of the weight, the average weight per luggage shoul
 	\mathrm{Avarage~Weigt} = \frac{\displaystyle\sum_{i=1}^{N} I_{weight}}{N}
 \end{equation}
 
-It is possible to distribute the weight average in the suitcases, when the optimal weight for each suitcase (the average weight calculated by equation \ref{eq:avg_weight}) is known. The program will try to distribute the weight equally, but not if it will mean that the luggage cannot be packed. Therefore the weight destribution is a optimization goal, but not as important as the volume of the luggage.
+It is possible to distribute the weight average in the suitcases, when the optimal weight for each suitcase (the average weight calculated by equation \ref{eq:avg_weight}) is known. The program will try to distribute the weight equally, but not if it will mean that the luggage cannot be packed. Therefore the weight distribution is a optimization goal, but not as important as the volume of the luggage. This part of the optimization is a Best Fit, because it find the best luggage for an optimal weight distribution.
 
 \subsection{Optimization by size}
+The algorithm use the First Fit Decreasing (FFD) method to pack the items in the luggage. This means, that the algorithm at first sorts the items by size. It will start by packing the largest items first, which will give a better result for the packing. When the list is sorted, it will then also sort the list of luggages by size. The algorithm can now go to the actual packing. 
