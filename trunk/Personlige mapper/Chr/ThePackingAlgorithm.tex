@@ -16,3 +16,13 @@ It is possible to distribute the weight average in the suitcases, when the optim
 
 \subsection{Optimization by size}
 The algorithm use the First Fit Decreasing (FFD) method to pack the items in the luggage. This means, that the algorithm at first sorts the items by size. It will start by packing the largest items first, which will give a better result for the packing. When the list is sorted, it will then also sort the list of luggages by size. The algorithm can now go to the actual packing. 
+
+The general algorithm is:
+\begin{itemize}
+	\item Sort the items by size
+	\item Check if the item can be in the first luggage, while the luggages total weight does not exit the average weight per luggage
+	\item	Check if the item can fit in the luggage, else check the next
+	\item  If the item cannot be fitted, exclude it from the list, and notify the user
+\end{itemize}
+
+This is a very general overview of the algorithm, and does not explain the process of the algorithm detailed enough. To explain the algorithm, a flowchart can be seen
