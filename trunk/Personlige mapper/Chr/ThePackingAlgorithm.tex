@@ -25,4 +25,6 @@ The general algorithm is:
 	\item  If the item cannot be fitted, exclude it from the list, and notify the user
 \end{itemize}
 
-This is a very general overview of the algorithm, and does not explain the process of the algorithm detailed enough. To explain the algorithm, a flowchart can be seen
+This is a very general overview of the algorithm, and does not explain the process of the algorithm detailed enough. To explain the algorithm, a flowchart can be seen on figure \fxfatal{indsat figur}.
+
+As seen on the flowchart, the first process which is done, is to sort the suitcases and items. They are sorted by size, so the biggest items are stored in the biggest suitcases. This will ensure the most effective way of packing, because it will fill the items, which is the hardest to fit first. The next step for this algorithm is to call the function, which will calculate the average weight per suitcase for an even weight distribution. The algorithm can now start the actual packing of the 
