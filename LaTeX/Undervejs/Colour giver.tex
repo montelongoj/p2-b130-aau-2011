@@ -1,0 +1,12 @@
+\section{Colour giver}
+this function give each item a colour and make sure that items that are next to each other do not get the same colour. This function have 4 steps to completed it task.
+
+The first step is to add all point that the item have around into a list and this is done for all items. To do this a loop control the item there is made point for. Then there is 3 "for" loop that control the x, y and z value that is given for each point in the last "for" loop where the point is add to a temporary item where there is 3 integer list (x, y and z). Then the temporary item is added to the main list of items. and the temporary item is reset after a new item is made point for so the item do not get the previous points into them.
+
+Next step is check if points from to items are at the same. thereby determine if they are located next to each other. If they are the item number will be save in a list that is call neighbour. This part work by 4 "for" loop's where the first 2 work with the items. The last 2 work with the points that are in the items that are work with. but it will only run these loop if the items are in the same suitcase. Here it will check if where is some point that is the same thereby find out if the 2 items are next to each other. If they are next to each other it will save the item number into a list in the other item this list this is done for both items that are check.
+
+
+thereafter the list "neighbour" are going through to remove all the duplicates and themselves from the list. This work with a one "for" loop that keeps control of with item that are working with and right after the loop the neighbour list is being sorted. Then there is a "while" loop that go through all the neighbour (item that are next to it) and check if itself is in it and remove. It will also check of the number after the current is the same if it is it will remove one of them.
+
+
+the last step it going through the item list and checking with colour can be given to each item. In this part the colours are numbers, where number 0 is the first colour there. first is a for loop that control with item that are checked. before the neighbour are check the colour for the item start at number 0.Then there is a "while" loop that go through all the items neighbour and check if the colour is the same and if there is the colour is the same. Item colour number is increased by 1. When the neighbour list is finis the colour is save in the item, and the next item is check.
