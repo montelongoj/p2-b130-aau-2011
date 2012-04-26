@@ -4,7 +4,7 @@ The algorithm used for packing the item in this project is based on the known th
 The code will try to place all the items in the luggage so it is packed most optimal in both sized and weight.
 
 \subsection{Optimization of weight}
-The optimization of the weight is done, so no luggage is exeeting the weight limit if is could be distributed different. Futhermore it would be preferable for the user, that no luggage is very heavy and another very light.
+The optimization of the weight is done, so no luggage is exeeting the weight limit if is could be distributed different. Furthermore it would be preferable for the user, that no luggage is very heavy and another very light.
 To optimize the distribution of the weight, the average weight per luggage should be calculated. It is calculated as seen on equation \ref{eq:avg_weight}, where N = Number of items.
 
 \begin{equation}
@@ -14,7 +14,7 @@ To optimize the distribution of the weight, the average weight per luggage shoul
 
 It is possible to distribute the weight average in the suitcases, when the optimal weight for each suitcase (the average weight calculated by equation \ref{eq:avg_weight}) is known. The program will try to distribute the weight equally, but not if it will mean that the luggage cannot be packed. Therefore the weight distribution is a optimization goal, but not as important as the volume of the luggage. This part of the optimization is a Best Fit, because it find the best luggage for an optimal weight distribution.
 
-\subsection{Optimization by size}
+\subsection{Description of the algorithm}
 The algorithm use the First Fit Decreasing (FFD) method to pack the items in the luggage. This means, that the algorithm at first sorts the items by size. It will start by packing the largest items first, which will give a better result for the packing. When the list is sorted, it will then also sort the list of luggages by size. The algorithm can now go to the actual packing. 
 
 The general algorithm is:
@@ -25,6 +25,7 @@ The general algorithm is:
 	\item  If the item cannot be fitted, exclude it from the list, and notify the user
 \end{itemize}
 
-This is a very general overview of the algorithm, and does not explain the process of the algorithm detailed enough. To explain the algorithm, a flowchart can be seen on figure \fxfatal{indsat figur}.
+This is a very general overview of the algorithm, and does not explain the process of the algorithm detailed enough. To explain the algorithm, a flowchart can be seen on figure \fxfatal{indsæt figur}.
 
-As seen on the flowchart, the first process which is done, is to sort the suitcases and items. They are sorted by size, so the biggest items are stored in the biggest suitcases. This will ensure the most effective way of packing, because it will fill the items, which is the hardest to fit first. The next step for this algorithm is to call the function, which will calculate the average weight per suitcase for an even weight distribution. The algorithm can now start the actual packing of the 
+As seen on the flowchart, the first process which is done, is to sort the suitcases and items. They are sorted by size, so the biggest items are stored in the biggest suitcases. This will ensure the most effective way of packing, because it will fill the items, which is the hardest to fit first. The next step for this algorithm is to call the function, which will calculate the average weight per suitcase for an even weight distribution. The algorithm can now start the actual packing of the items.
+It will make a loop, checking all the items in the list of items to pack. In the function "find next suitcase", the algorithm should find next available suitcase, checking for optimal weight distribution. To pack the item, each suitcase have a list of possible packing points, called "not packed points". This list should contain the points in the suitcase, where the next item can be fitted. This will ensure that the items are packed as effective as possible. The items will always be packed in a corner of an other items, so there will be no space between two items. This list of not packed points is individual for each suitcase, and if no item has been packed yet, the point [0,0,0] will be used. If the item cannot be fitted in the suitcase, it will try the next suitcase. In the case that the item cannot be fitted in any suitcase, it will add the item to the list of not packed items, and delete the item from the list of items to pack. This will make it possible to separate the items which is packed and those which is not packed. If the item could be packed
