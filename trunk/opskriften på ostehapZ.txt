@@ -1,0 +1,10 @@
+opgave 6.32 side 668
+
+først konvertere vi the memory address til binær, derefter læser vi fra højre mod venstre hvor de første 2 bytes er off settet (tallet 2 kommer af at off settende går fra 0 til 4)
+De næste 3 bytes er index fordi indexet går fra 0 til 7 og resten er taget. Se illustration:
+
+I = index, T = tag, O = offset og adress length = 13 {
+
+[TTTTTTTTIIIOO]
+
+}
