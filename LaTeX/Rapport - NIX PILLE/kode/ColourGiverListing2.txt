@@ -1,0 +1,7 @@
+if ((z == luggage_items_to_pack[i].saved_point_z && y <= luggage_items_to_pack[i].saved_point_y + luggage_items_to_pack[i].depth && x <= luggage_items_to_pack[i].saved_point_x + luggage_items_to_pack[i].width) ||
+    (y == luggage_items_to_pack[i].saved_point_y && z <= luggage_items_to_pack[i].saved_point_z + luggage_items_to_pack[i].height && x <= luggage_items_to_pack[i].saved_point_x + luggage_items_to_pack[i].width) ||
+    (x == luggage_items_to_pack[i].saved_point_x && y <= luggage_items_to_pack[i].saved_point_y + luggage_items_to_pack[i].depth && z <= luggage_items_to_pack[i].saved_point_z + luggage_items_to_pack[i].height)
+    ||
+    (z == luggage_items_to_pack[i].saved_point_z + luggage_items_to_pack[i].height && y <= luggage_items_to_pack[i].saved_point_y + luggage_items_to_pack[i].depth && x <= luggage_items_to_pack[i].saved_point_x + luggage_items_to_pack[i].width) ||
+    (y == luggage_items_to_pack[i].saved_point_y + luggage_items_to_pack[i].depth && z <= luggage_items_to_pack[i].saved_point_z + luggage_items_to_pack[i].height && x <= luggage_items_to_pack[i].saved_point_x + luggage_items_to_pack[i].width) ||
+    (x == luggage_items_to_pack[i].saved_point_x + luggage_items_to_pack[i].width && y <= luggage_items_to_pack[i].saved_point_y + luggage_items_to_pack[i].depth && z <= luggage_items_to_pack[i].saved_point_z + luggage_items_to_pack[i].height))
