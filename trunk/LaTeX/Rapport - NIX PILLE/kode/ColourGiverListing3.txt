@@ -1,0 +1,17 @@
+for (i = 0; i <= Number; i++)
+{
+    for (j = i; j <= Number; j++)
+    {
+        /*If statement to check if the items are packed in the same suitcase */
+        if (luggage_items_to_pack[i].saved_luggage_numb == luggage_items_to_pack[j].saved_luggage_numb)
+        {
+            /*2 for loops that goes through all the items in the BoxColor List*/
+            for (k = 0; k <= BoxColor[i].box_x.Count - 1; k++)
+            {
+                for (q = 0; q <= BoxColor[j].box_x.Count - 1; q++)
+                {
+                    /*If statement that controls that there are any points that are the same in the Lists.
+                     *This is done by comparing the 3 koordinates to each other*/
+                    if (BoxColor[i].box_x[k] == BoxColor[j].box_x[q] &&
+                        BoxColor[i].box_y[k] == BoxColor[j].box_y[q] &&
+                        BoxColor[i].box_z[k] == BoxColor[j].box_z[q])

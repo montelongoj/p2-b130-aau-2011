@@ -1,0 +1,10 @@
+           //Create square 1 of 4 which will become a cube
+           points1[0] = new Vector(item_point_x - lug_half_width, item_point_z + lug_half_height, item_point_y + lug_half_depth).ScaleSize(zoom_factor);
+           points1[1] = new Vector(item_point_x - lug_half_width, item_point_z - item_height_float + lug_half_height, item_point_y + lug_half_depth).ScaleSize(zoom_factor);
+           points1[2] = new Vector(item_point_x + item_width_float - lug_half_width, item_point_z - item_height_float + lug_half_height, item_point_y + lug_half_depth).ScaleSize(zoom_factor);
+           points1[3] = new Vector(item_point_x + item_width_float - lug_half_width, item_point_z + lug_half_height, item_point_y + lug_half_depth).ScaleSize(zoom_factor);
+
+           poly_array[poly_counter] = new Polygon(1000, z, points1);
+           poly_array[poly_counter] = poly_array[poly_counter].Transpose(new Vector(LocX, LocY, LocZ));
+           poly_array[poly_counter].MyPen = new Pen(itempen.Color, itempen.Width);
+           poly_counter++;
