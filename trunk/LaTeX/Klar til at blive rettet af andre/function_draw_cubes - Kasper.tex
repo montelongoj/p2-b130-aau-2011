@@ -1,23 +1,23 @@
 \section{Function to draw cubes}
 The function called "DrawSomething" is the function which basically converts dimensions and coordinates into the vectors that are to be drawn.
-DrawSomething takes 11 input parameters. Simply put, these inputs are the dimensions and coordinates of the cube to be drawn represented as floats. Next the function takes 3 integers which are: The number of the suitcase the item to be drawn lies in, the factor of zoom that should be applied to the item, and the index of the array of polygons that has currently been reached. Lastly the function takes a Vector and a Pen as input.
+"DrawSomething" takes 11 input parameters. Simply put, these inputs are the dimensions and coordinates of the cube to be drawn represented as floats. Next the function takes 3 integers which are: The number of the suitcase, the item to be drawn lies in, the factor of zoom that should be applied to the item, and the index of the array of polygons that has currently been reached. Lastly, the function takes a "Vector" and a "Pen" as input.
 
-The Pen represents the color and width of the cube to be drawn. For example the function could draw a red cube with a width of each line of 5 pixels. The Vector is essentially a dummy-vector. The polygon class requires a vector in its constructor, but the Vector is set to zero in the class.
+The "Pen" represents the color and width of the cube to be drawn. For example the function could draw a red cube with 5 pixel lines. The "Vector" is essentially a dummy-vector, because the polygon class requires a vector in its constructor, but the Vector is set to zero in the class.
 
-In the beginning of the function some variables are defined. These are the start location of the drawing. Four Vector arrays are created which each will hold 4 Vectors, which together form a square.
+In the beginning of the function some variables are defined. These are the start location of the drawing. Four Vector arrays are created each holding 4 "Vectors", which together form a square.
 
-Three floats which will later contain the half of each dimension of the item are also defined.
-Because of the way the Vectors will be calculated later, the current items y and z coordinate is inverted. 
+Three floats are defined they will later contain the half of each dimension of the item.
+The current items y and z coordinate is inverted, because of the way the "Vectors" will be calculated later. 
 
-Next the function contains a conditional expression which checks which type of cube the function should generate. This is because the function can be used to generate the suitcase, the items in the suitcase, and the small cube which represents the 0,0,0 point of the suitcase. 
+The function contains a conditional expression which checks which type of cube the function should generate. This is because the function can be used to generate the suitcase, the items in the suitcase, and the small cube(which represents the 0,0,0 point of the suitcase). 
 
-The expressions checks on the lug\_num variable which really is the number of suitcase the item lies in. But if the lug\_num is set to -1, that means that the function should draw a suitcase instead of an item. And because the drawing should rotate around itself, it has to take all coordinates of each item and subtract half of the suitcase dimension. This in turn does that the real 0,0,0 point of the drawing will be placed in the middle of the suitcase, allowing the user to rotate the suitcase around itself.
+The expressions checks on the lug\_num variable which really is the number of the suitcase the item lies in. But if the lug\_num is set to -1, it means that the function should draw a suitcase instead of an item. And because the drawing should rotate around itself, it has to take the coordinates of each item and subtract half of the suitcase dimension. This in turn does that the real 0,0,0 point of the drawing will be placed in the middle of the suitcase, allowing the user to rotate the suitcase around itself.
 
 So if the function has to draw a suitcase, it sets the suitcase dimensions to the half of the dimensions received as input.
 
-If the function is to draw a item in the suitcase, the function will find the items suitcases dimensions, cut them in half, and use these to manipulate the startpoint of the current item. This is to place the item correctly in the suitcase in the drawing, while allowing the user to rotate the suitcase around itself. 
+If the function is to draw an item in the suitcase, the function will find the item's dimensions and half of the suitcase's dimensions, and use these to manipulate the start point of the current item. This is to place the item correctly inside the suitcase in the drawing, while allowing the user to rotate the suitcase around itself. 
 
-But if the function receives -2 as the lug\_num, that means that it should draw a small cube with dimensions 0.5 x 0.5 x 0.5 at the point 0,0,0.
+But if the function receives -2 as the lug\_num, it means that it should draw a small cube with dimensions 0.5 x 0.5 x 0.5 at the point 0,0,0.
 
 After the conditional expression, the dimensions of the input item is subtracted by 0.01. This is so no item touch another item, allowing the user to identify each item easily. 
 
