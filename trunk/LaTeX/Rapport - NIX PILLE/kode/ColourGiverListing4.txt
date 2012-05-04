@@ -1,0 +1,19 @@
+if (Bcolor > ColorCode.Count() - 1)
+{
+    j = luggage_items_to_pack[i].neighbor.Count() + 1;
+    Bcolor = 0;
+}
+else
+{
+    /*Here the neighborcolor is compaired to the color on the Bcolor index in Colorcode.
+     *If they are the same the Bcolor is counted up 1 and j set to 0 to reset the while loop, else j is counted up by 1*/
+    if (ColorCode[Bcolor] == neighborcolor)
+    {
+        Bcolor++;
+        j = 0;
+    }
+    else
+    {
+        j++;
+    }
+}

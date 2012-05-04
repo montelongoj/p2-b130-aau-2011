@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -29,6 +29,11 @@
 \newblock DSB.
 \newblock \textit{Bagage}.
 \newblock URL \url{http://www.dsb.dk/kundeservice/service-i-toget/bagage/}.
+
+\bibitem[Dube and Kanavathy()]{three-dim-pack}
+\textbf{\textbf{Dube and Kanavathy}}.
+\newblock Erick Dube and Leon~R. Kanavathy.
+\newblock \textit{Optimizing three-dimensional bin packing through simulation}.
 
 \bibitem[EU-Kommisionen()]{Why_rules}
 \textbf{\textbf{EU-Kommisionen}}.

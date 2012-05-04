@@ -1,0 +1,10 @@
+for (i = 0; i <= Number; i++)
+{
+    tmp_list = new cbox();
+    /*Loops that goes through the 3 koordinates*/
+    for (x = (luggage_items_to_pack[i].saved_point_x - marking); x <= (luggage_items_to_pack[i].saved_point_x + luggage_items_to_pack[i].width + marking); x++)
+    {
+        for (y = (luggage_items_to_pack[i].saved_point_y - marking); y <= (luggage_items_to_pack[i].saved_point_y + luggage_items_to_pack[i].depth + marking); y++)
+        {
+            for (z = (luggage_items_to_pack[i].saved_point_z - marking); z <= (luggage_items_to_pack[i].saved_point_z + luggage_items_to_pack[i].height + marking); z++)
+            {

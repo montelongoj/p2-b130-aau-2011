@@ -1,4 +1,4 @@
-\BOOKMARK [0][-]{chapter*.1}{Foreword}{}% 1
+\BOOKMARK [0][-]{chapter*.1}{Prolog}{}% 1
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
 \BOOKMARK [0][-]{chapter.2}{Problem Analysis}{}% 3
 \BOOKMARK [1][-]{section.2.1}{Problem of packing}{chapter.2}% 4
@@ -37,10 +37,15 @@
 \BOOKMARK [2][-]{subsection.4.2.2}{Extension for an existing program}{section.4.2}% 37
 \BOOKMARK [2][-]{subsection.4.2.3}{Program for the computer}{section.4.2}% 38
 \BOOKMARK [2][-]{subsection.4.2.4}{Choise of solution}{section.4.2}% 39
-\BOOKMARK [1][-]{section.4.3}{Program planing}{chapter.4}% 40
-\BOOKMARK [0][-]{chapter.5}{Development}{}% 41
-\BOOKMARK [0][-]{chapter.6}{Testing}{}% 42
-\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 43
-\BOOKMARK [0][-]{section*.11}{Bibliography}{}% 44
-\BOOKMARK [0][-]{appendix.A}{Group Contract}{}% 45
-\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 46
+\BOOKMARK [1][-]{section.4.3}{Program planning}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.4}{The Packing Algorithm}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.4.1}{Optimization of weight}{section.4.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.2}{Description of the algorithm}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.3}{Round up}{section.4.4}% 44
+\BOOKMARK [0][-]{chapter.5}{Development}{}% 45
+\BOOKMARK [1][-]{section.5.1}{Color giver}{chapter.5}% 46
+\BOOKMARK [0][-]{chapter.6}{Testing}{}% 47
+\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 48
+\BOOKMARK [0][-]{section*.11}{Bibliography}{}% 49
+\BOOKMARK [0][-]{appendix.A}{Group Contract}{}% 50
+\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 51
