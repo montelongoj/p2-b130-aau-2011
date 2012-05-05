@@ -1,0 +1,12 @@
+public Shape3D Rotate(RotateMatrix mat)
+{
+	int count=0;
+       Polygon[] newP = new Polygon[poly.Length];
+
+       foreach (Polygon p in poly)
+       {
+           newP[count++] = p.Rotate(mat);
+           newP[count-1].MyPen = p.MyPen;
+       }
+	return new Shape3D(newP);
+}

@@ -1,0 +1,6 @@
+this.weight   = info.GetInt32  ("weight");
+this.width    = info.GetInt32  ("width");
+this.height   = info.GetInt32  ("height");
+this.depth    = info.GetInt32  ("depth");
+this.name     = info.GetString ("name");
+this.number_of_items = info.GetInt32("number");

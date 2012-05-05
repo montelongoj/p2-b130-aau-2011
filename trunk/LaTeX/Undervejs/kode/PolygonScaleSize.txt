@@ -1,0 +1,8 @@
+public Polygon ScaleSize(float d)
+{
+	int count=0;
+	Vector[] retVec=new Vector[Len];
+	foreach (Vector vec in vectors)
+		retVec[count++]=vec.ScaleSize(d);
+	return new Polygon(ZVal,Zero,retVec);		
+}
