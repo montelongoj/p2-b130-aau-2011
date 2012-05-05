@@ -1,0 +1,22 @@
+               //Rotate so width is the longest side
+               int temp;
+               if (depth > width)
+               {
+                   temp = depth;
+                   depth = width;
+                   width = temp;
+               }
+
+               if (height > depth)
+               {
+                   temp = height;
+                   height = depth;
+                   depth = temp;
+               }
+
+               if (depth > width)
+               {
+                   temp = depth;
+                   depth = width;
+                   width = temp;
+               }

@@ -1,0 +1,3 @@
+public List<luggage_item> luggage_items_to_pack = new List<luggage_item>();
+
+public List<luggage> luggages_to_pack = new List<luggage>();

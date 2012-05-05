@@ -1,0 +1,6 @@
+info.AddValue("weight",this.weight);
+info.AddValue("width", this.width);
+info.AddValue("height", this.height);
+info.AddValue("depth", this.depth);
+info.AddValue("name", this.name);
+info.AddValue("number", this.number_of_items);

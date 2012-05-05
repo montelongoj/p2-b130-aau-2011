@@ -1,0 +1,1 @@
+points1[1] = new Vector(item_point_x - lug_half_width, item_point_z - item_height_float + lug_half_height, item_point_y + lug_half_depth).ScaleSize(zoom_factor);

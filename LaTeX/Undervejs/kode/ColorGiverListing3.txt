@@ -1,0 +1,13 @@
+if (!(count - k == 0))
+{
+    /*If statement that compaired the curret neighbor with the neighbor after,
+     *if they are identical the curret neighbor is removed*/
+    if (luggage_items_to_pack[i].neighbor[k] == luggage_items_to_pack[i].neighbor[k + 1])
+    {
+        luggage_items_to_pack[i].neighbor.RemoveAt(k);
+        k = 0;
+        count--;
+    }
+    else
+        k++;
+}
