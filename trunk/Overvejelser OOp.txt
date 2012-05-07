@@ -1,0 +1,8 @@
+Overvejelser til OOP opgave Gruppe B130B
+
+Siden der var problemer med hvad der sker hvis etkøretøj der bruger diesel kører 20km/l (den ville ligge i både klasse B og C) 
+Vi har antaget at hvis den kører præcis 20 tilhører den klasse C og i alle tilfælde af man rammer på en grænse klasse ryger man i den laveste klasse.
+
+vi har brugt int i stedet for enum ved brænstofstype da der virkede nemmere at håndtere.
+
+  
