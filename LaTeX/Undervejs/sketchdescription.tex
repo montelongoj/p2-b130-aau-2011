@@ -1,56 +1,57 @@
 \section{Sketches before programming of GUI}
-
 Designing the program required some sketches and our first sketch looked like this:
-It shows some boxes where the user must type the dimensions of the suitcase, so the program knows how much space it has to deal with, and the measurement is the metric unit system.
-When the user has typed the dimensions the program will calculate and make 3D image of the suitcase, 
+It shows some text boxes where the user must type the dimensions of the suitcase, so the program knows how much space it has to deal with, and the measurement is the metric unit system.
 
-\figur{..\GUI\Skitse 1.png}
+\figur{Skitse 1.png}
 
 It has been discussed whether if there should be a 3D image or a 2D image of the suitcase where the user can see where the items shall be placed. In the beginning it became clear that it was not a good idea to talk about 3D images in the program because it was not certain that Visual Studio could handle 3D images, and at last it was concluded that the program will show a 3D image of how the packing should be done when the user has pressed the "Start Packing"-button.
 
-\figur{..\GUI\Skitse 3.png}
-\figur{..\GUI\Skitse 3a.png}
-\figur{..\GUI\Skitse 3b.png}
+\figur{Skitse 3a.png}
+This sketch shows how our idea was before we began programming the program. The idea was that suitcase would be shown and then an item, one at a time. The user would then be able to see where each item should be in the suitcase according to program.
+
+
+\figur{Skitse 3b.png}
+This sketch was made in case the 3D-viewer could not work.
 
 On the sketch below we looked at how the packing list should look like, and what functions it will contain.
 
-\figur{..\GUI\Skitse 4.png}
+\figur{Skitse 4.png}
 
 At last we decided upon the final design of the GUI. We replaced the 3D image viewer with the list of added items in the manage items and manage suitcases, because it gave a better overview of what the user had already added to the program. 
 
 Final sketches of the program:
-\figur{..\GUI\Mettes skitser\1. skitse-done.jpg}
+\figur{1. skitse-done.jpg}
 
 The thing we changed from the first sketch of the main window is that more buttons was added. The two new buttons made it possible to load saved lists and start packing without needing to make changes to anything in the lists or making a new list.
 
-\figur{..\GUI\Mettes skitser\2. skitse-done.jpg}
+\figur{2. skitse-done.jpg}
 
-This is the sketch of the window that will open if the “Manage Items”-button was clicked. Here the 3D viewer has been replaced with a list of the items added in the program. The buttons are tools for adding, deleting or managing the items on the list while the “Save itemlist”-button lets you save the list so it can be used another time and returns you to the main window.
+This is the sketch of the window that will open if the "Manage Items"-button was clicked. Here the 3D viewer has been replaced with a list of the items added in the program. The buttons are tools for adding, deleting or managing the items on the list while the "Save item list"-button lets you save the list so it can be used another time and returns you to the main window.
 
-\figur{..\GUI\Mettes skitser\3. skitse-done.jpg}
+\figur{3. skitse-done.jpg}
 
-This window will open if the “Manage Suitcase”-button was clicked. Like in the “Manage Items” window the 3D viewer has been replaced by a list of all the added suitcases. Functionally does the buttons the same as those in the “Manage Items” window just with suitcases. Clicking the “Save Suitcase List”-button will let you save the list and will return you to the main window.
+This window will open if the "Manage Suitcase"-button was clicked. Like in the "Manage Items" window the 3D viewer has been replaced by a list of all the added suitcases. Functionally does the buttons the same as those in the "Manage Items" window just with suitcases. Clicking the "Save Suitcase List"-button will let you save the list and will return you to the main window.
 
-\figur{..\GUI\Mettes skitser\4. skitse-done.jpg}
+\figur{4. skitse-done.jpg}
 
-Then clicking the “New packing list”-button this window will show. Here you are able to add the suitcases you want the program to pack in. On the left side in a window the program will show a 3D picture of the suitcase. The “Add items”-button will send you to the next window.
+Then clicking the "New packing list"-button this window will show. Here you are able to add the suitcases you want the program to pack in. On the left side in a window the program will show a 3D picture of the suitcase. The "Add items"-button will send you to the next window.
 
-\figur{..\GUI\Mettes skitser\5. skitse-done.jpg}
+\figur{5. skitse-done.jpg}
 
-In this window all the things that the user wants to pack are needed to be added. After you have added all the items the “View list”-button will show a list of all the items and afterwards return you to the main window.
+In this window all the things that the user wants to pack are needed to be added. After you have added all the items the "View list"-button will show a list of all the items and afterwards return you to the main window.
 
-\figur{..\GUI\Mettes skitser\6. skitse-done.jpg}
+\figur{6. skitse-done.jpg}
 
-This is the window that will show if the “Load saved list”-button was clicked. Here the user would be able to load a saved list and delete list he/she does not want to save anymore. The “Back”-button will return you to the main window.
+This is the window that will show if the "Load saved list"-button was clicked. Here the user would be able to load a saved list and delete list he/she does not want to save anymore. The "Back"-button will return you to the main window.
 
-\figur{..\GUI\Mettes skitser\7a. skitse-done.jpg}
+\figur{7a. skitse-done.jpg}
 
 This is one of the suggestions on how the window showing where the items should be pack could look like. Here we have a 3D viewer showing the position of every item one item at a time. The two buttons are used to go forth and back through the items.
 
-\figur{..\GUI\Mettes skitser\7b. skitse.jpg}
+\figur{7b. skitse.jpg}
 
 This is the second suggestion on how the window should look like. Here the 3D viewer is smaller but on the other hand has a list of instructions been added on the side to better help guide the user. The two buttons are used to go forth and back through the items.
 
-\figur{..\GUI\Mettes skitser\8. skitse.jpg}
+\figur{8. skitse.jpg}
 
-This message box will show when all the items has been packed. The “Pack again”-button will show where to put all the things again. The “Make new list” will return the user to the main window where he/she can start making a new list, load a saved list or manage the already saved list. 
+This message box will show when all the items has been packed. The "Pack again"-button will show where to put all the things again. The "Make new list" will return the user to the main window where he/she can start making a new list, load a saved list or manage the already saved list. 
