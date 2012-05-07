@@ -1,11 +1,11 @@
-           if (p.MyPen.Color == Color.Red)
-           {
-               newP[count] = p;
-               newP[count].MyPen.Width = 2;
-               counter++;
+if (p.MyPen.Color == Color.Red)
+{
+    newP[count] = p;
+    newP[count].MyPen.Width = 2;
+    counter++;
 
-               if (counter == 4)
-               {
-                   counter = 0;
-                   element_counter++;
-               }
+    if (counter == 4)
+    {
+        counter = 0;
+        element_counter++;
+    }
