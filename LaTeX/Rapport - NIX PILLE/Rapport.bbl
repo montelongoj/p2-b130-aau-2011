@@ -5,11 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[bin()]{binpackingsource}
-
-\newblock \textit{Bin Packing}.
-\newblock URL \url{http://www.cs.arizona.edu/icon/oddsends/bpack/bpack.htm}.
-
 \bibitem[Airlines()]{Prohibited_luggage}
 \textbf{\textbf{Airlines}}.
 \newblock Copenhagen Airlines.
@@ -17,6 +12,12 @@
 \newblock Internet.
 \newblock URL
   \url{http://www.cph.dk/CPH/DK/MAIN/Foer+afrejse/Bagage/Indskrevet+bagage.htm}.
+
+\bibitem[Arizona.edu()]{binpackingsource}
+\textbf{\textbf{Arizona.edu}}.
+\newblock Arizona.edu.
+\newblock \textit{Bin Packing}.
+\newblock URL \url{http://www.cs.arizona.edu/icon/oddsends/bpack/bpack.htm}.
 
 \bibitem[Baumgarten(2012)]{danskecharter}
 \textbf{Baumgarten}, \textbf{02 2012}.
@@ -83,10 +84,10 @@
 \newblock URL
   \url{http://www.bts.gov/programs/airline\_information/baggage\_fees/}.
 
-\bibitem[railways()]{idianrules}
-\textbf{\textbf{railways}}.
-\newblock Indian railways.
-\newblock \textit{luggage rules}.
+\bibitem[Railways()]{idianrules}
+\textbf{\textbf{Railways}}.
+\newblock Indian Railways.
+\newblock \textit{Luggage Rules}.
 \newblock URL
   \url{http://www.trainenquiry.com/StaticContent/Railway\_Amnities/E\_R/LUGGAGE.aspx}.
 
@@ -109,9 +110,9 @@
 \newblock \textit{The e-Commerce shipping Calculator demo}.
 \newblock URL \url{http://solvingmaze.com/demo}.
 
-\bibitem[top~iphone application(2011)]{packingpro}
-\textbf{application}, \textbf{february 2011}.
-\newblock top~iphone application.
+\bibitem[{Top Iphone Application}(2011)]{packingpro}
+\textbf{{Top Iphone Application}}, \textbf{february 2011}.
+\newblock {Top Iphone Application}.
 \newblock \textit{Luggage packing app}, 2011.
 \newblock URL \url{http://www.topiphoneapplication.com/luggage-packing-app/}.
 
