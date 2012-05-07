@@ -3,7 +3,7 @@ for (k = 0; k <= BoxColor[i].box_x.Count - 1; k++)
     for (q = 0; q <= BoxColor[j].box_x.Count - 1; q++)
     {
         /*If statement that controls that there are any points that are the same in the Lists.
-         *This is done by comparing the 3 koordinates to each other*/
+          This is done by comparing the 3 koordinates to each other*/
         if (BoxColor[i].box_x[k] == BoxColor[j].box_x[q] &&
             BoxColor[i].box_y[k] == BoxColor[j].box_y[q] &&
             BoxColor[i].box_z[k] == BoxColor[j].box_z[q])
