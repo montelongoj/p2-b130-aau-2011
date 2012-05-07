@@ -46,7 +46,7 @@
 \contentsline {subsection}{\numberline {4.2.2}Extension for an existing program}{21}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Program for the computer}{22}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Choise of solution}{22}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Program planning}{22}{section.4.3}
+\contentsline {section}{\numberline {4.3}Program planning}{23}{section.4.3}
 \contentsline {section}{\numberline {4.4}GUI Description}{24}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}3D-viewer}{28}{subsection.4.4.1}
 \contentsline {chapter}{\chapternumberline {5}Development}{31}{chapter.5}

@@ -1,6 +1,6 @@
 //Divide by rotatesensitive and 15 so that the rotating is controllable
-rotx = rotx / (rotatesensitive) / 15;
-roty = roty / (rotatesensitive) / 15;
+rotx = rotx / (rotatesensitive * 15);
+roty = roty / (rotatesensitive * 15);
 
 Xmat = new XRotate(rotx);
 Ymat = new YRotate(roty);
