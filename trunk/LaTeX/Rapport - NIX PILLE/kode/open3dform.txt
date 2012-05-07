@@ -1,0 +1,8 @@
+if (finish_packing)
+{
+    frm3DViewer frm3D = new frm3DViewer(luggage_items_to_pack, luggages_to_pack, this);
+    tmrCheckForFinishPacking.Enabled = false;
+    finish_packing = false;
+    frm3D.ShowDialog(this);
+    
+}
