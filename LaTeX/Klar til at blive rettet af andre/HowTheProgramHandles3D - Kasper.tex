@@ -5,7 +5,7 @@ The 3D in this program is handled by objects called Shape3D. A Shape3D object co
 \subsection{Shape3D Class}
 A Shape3D  object contains four methods: Draw, Rotate, ScaleSize and RePaint. 
 
-The Draw method is really just a foreach loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in \fxfatal{indsaet en ref}.\newline
+The Draw method is really just a "foreach" loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in \fxfatal{indsaet en ref}.\newline
 
 The Rotate method in the Shape3D object is used to rotate the object. The method takes one input parameter, which is a RotateMatrix called mat. Next the method creates a new Polygon array newP, and runs through all Polygon objects in the Shape3D. The method then calls the Rotate method within the Polygon object on the current polygon, and inserts the results into the previously created Polygon array newP. The method also inserts the current Polygons Pen into the newP Polygons Pen. The function can be seen on Listing \kode{Shape3DRotate} function in Shape3D}{Shape3DRotate}{Shape3DRotate}.
 
