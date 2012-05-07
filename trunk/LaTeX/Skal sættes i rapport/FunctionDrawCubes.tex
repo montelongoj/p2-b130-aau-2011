@@ -35,27 +35,27 @@ The y-point of the first vector is calculated by adding half of the depth of the
 
 When the points has been loaded into the new Vector, the vector is scaled by a factor of "zoom\_factor". This also happens when zooming in and out, but of course with different values. See \fxfatal{ScaleSizefunctionref} to see how the function "ScaleSize" works. 
 
-These calculations are shown on Listing \ref{vectorone}
+These calculations are shown on Listing \ref{lst:vectorone}
 
 \kode{Calculate the points of the first vector}{vectorone}{CreateSideCubeVecOne.txt}
 
-From the calculations above the first Vectors coordinates are as follows (-50, 25, 40), and can be seen on image \ref{imageoffirstpointoffirstvector}.
+From the calculations above the first Vectors coordinates are as follows (-50, 25, 40), and can be seen on image \ref{lst:imageoffirstpointoffirstvector}.
 \figur{0.7}{3.PNG}{First point of the first side of the example item}{imageoffirstpointoffirstvector}
 
 Naturally the second vector of the side needs to have at least one point in common with the first vector. Else the side would not be a complete square. 
 The common point of the first and the second Vector is the x point. 
 The y coordinate of the second Vector is calculated by subtracting the item depth from the item's y-coordinate and then adding half of the suitcase height. With the example item, this gives an y-coordinate of the second vector of -15 (-0 - 40 + (50/2)).
 
-The z-coordinate of the second Vector is calculated by adding the y-coordinate of the item to half of the suitcase depth. This gives a z-point of the second vector of 40 (-0 + (80/2)). The calculations can be seen on Listing \ref{vectortwo}.
+The z-coordinate of the second Vector is calculated by adding the y-coordinate of the item to half of the suitcase depth. This gives a z-point of the second vector of 40 (-0 + (80/2)). The calculations can be seen on Listing \ref{lst:vectortwo}.
 
 \kode{Calculate the points of the second vector}{vectortwo}{CreateSideCubeVecTwo.txt}
 
-The second Vector thereby becomes (-50, -15, 40), and can be seen on image \ref{imageoffirstpointofsecondvector}.
+The second Vector thereby becomes (-50, -15, 40), and can be seen on image \ref{lst:imageoffirstpointofsecondvector}.
 \figur{0.7}{4.PNG}{First point of the first side of the example item}{imageoffirstpointofsecondvector}
 
 Now for calculating the third Vector. The third Vector has both the y- and z- coordinates in common with the second Vector. These are thereby accordingly -15 and 40. 
 
-To calculate the x-coordinate, the x-point of the item is added to the width of the item, while the half of the width of the suitcase is subtracted from this. To continue the example, the x-coordinate of the third Vector would thereby become: 20 (0 + 70 - (100/2)). The calculations can be seen on Listing \ref{vectorthree}.
+To calculate the x-coordinate, the x-point of the item is added to the width of the item, while the half of the width of the suitcase is subtracted from this. To continue the example, the x-coordinate of the third Vector would thereby become: 20 (0 + 70 - (100/2)). The calculations can be seen on Listing \ref{lst:vectorthree}.
 
 \kode{Calculate the points of the third vector}{vectorthree}{CreateSideCubeVecThree.txt}
 
@@ -63,18 +63,18 @@ The third Vector thereby becomes (20, -15, 40), and can be seen on image \ref{im
 \figur{0.7}{5.PNG}{First point of the first side of the example item}{imageoffirstpointofthirdvector}
 
 
-The fourth Vector has both the x- and z-coordinate in common with the third Vector, while having the y-coordinate in common with the first Vector. The calculations can be seen on Listing \ref{vectorfour}.
+The fourth Vector has both the x- and z-coordinate in common with the third Vector, while having the y-coordinate in common with the first Vector. The calculations can be seen on Listing \ref{lst:vectorfour}.
 
 \kode{Calculate the points of the fourth vector}{vectorfour}{CreateSideCubeVecFour.txt}
 
-The fourth Vector thereby becomes (20, 25, 50), and can be seen on image \ref{imageoffirstpointoffourthvector}.
+The fourth Vector thereby becomes (20, 25, 50), and can be seen on image \ref{lst:imageoffirstpointoffourthvector}.
 \figur{0.7}{6.PNG}{First point of the first side of the example item}{imageoffirstpointoffourthvector}
 
 
-By drawing a line between these four points, it is clear that these forms a square, that is the first side of the item in the example. This can be seen on image \ref{finalimageoffirstsideinexampleitem}
+By drawing a line between these four points, it is clear that these forms a square, that is the first side of the item in the example. This can be seen on image \ref{lst:finalimageoffirstsideinexampleitem}
 \figur{0.7}{7.PNG}{How the first side of the example item looks}{finalimageoffirstsideinexampleitem}
 
-When the four Vectors has been calculated, the Vectors are inserted into a new Polygon, which is inserted into an array of polygons.  Next the current Polygon (the one just created), is assigned a Pen. The Pen contains the color and the width of the Polygon. This can be seen on Listing \ref{addtopolyandaddtoarrayandassignpen}
+When the four Vectors has been calculated, the Vectors are inserted into a new Polygon, which is inserted into an array of polygons.  Next the current Polygon (the one just created), is assigned a Pen. The Pen contains the color and the width of the Polygon. This can be seen on Listing \ref{lst:addtopolyandaddtoarrayandassignpen}
 
 \kode{Calculate the points of the fourth vector}{addtopolyandaddtoarrayandassignpen}{AddVecToPolyArray.txt}
 
