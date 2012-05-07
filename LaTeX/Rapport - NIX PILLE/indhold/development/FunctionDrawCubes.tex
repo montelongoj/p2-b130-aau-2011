@@ -39,8 +39,8 @@ These calculations are shown on Listing \ref{lst:vectorone}
 
 \kode{Calculate the points of the first vector}{vectorone}{CreateSideCubeVecOne.txt}
 
-From the calculations above the first Vectors coordinates are as follows (-50, 25, 40), and can be seen on image \ref{lst:imageoffirstpointoffirstvector}.
-\figur{0.7}{3.PNG}{First point of the first side of the example item}{imageoffirstpointoffirstvector}
+From the calculations above the first Vectors coordinates are as follows (-50, 25, 40), and can be seen on Figure  \ref{fig:imageoffirstpointoffirstvector}.
+\figur{0.7}{3.PNG}{First point of the first side of the example item}{fig:imageoffirstpointoffirstvector}
 
 Naturally the second vector of the side needs to have at least one point in common with the first vector. Else the side would not be a complete square. 
 The common point of the first and the second Vector is the x point. 
@@ -50,8 +50,8 @@ The z-coordinate of the second Vector is calculated by adding the y-coordinate o
 
 \kode{Calculate the points of the second vector}{vectortwo}{CreateSideCubeVecTwo.txt}
 
-The second Vector thereby becomes (-50, -15, 40), and can be seen on image \ref{lst:imageoffirstpointofsecondvector}.
-\figur{0.7}{4.PNG}{First point of the first side of the example item}{imageoffirstpointofsecondvector}
+The second Vector thereby becomes (-50, -15, 40), and can be seen on Figure \ref{fig:imageoffirstpointofsecondvector}.
+\figur{0.7}{4.PNG}{First point of the first side of the example item}{fig:imageoffirstpointofsecondvector}
 
 Now for calculating the third Vector. The third Vector has both the y- and z- coordinates in common with the second Vector. These are thereby accordingly -15 and 40. 
 
@@ -59,20 +59,20 @@ To calculate the x-coordinate, the x-point of the item is added to the width of 
 
 \kode{Calculate the points of the third vector}{vectorthree}{CreateSideCubeVecThree.txt}
 
-The third Vector thereby becomes (20, -15, 40), and can be seen on image \ref{imageoffirstpointofthirdvector}.
-\figur{0.7}{5.PNG}{First point of the first side of the example item}{imageoffirstpointofthirdvector}
+The third Vector thereby becomes (20, -15, 40), and can be seen on Figure \ref{fig:imageoffirstpointofthirdvector}.
+\figur{0.7}{5.PNG}{First point of the first side of the example item}{fig:imageoffirstpointofthirdvector}
 
 
 The fourth Vector has both the x- and z-coordinate in common with the third Vector, while having the y-coordinate in common with the first Vector. The calculations can be seen on Listing \ref{lst:vectorfour}.
 
 \kode{Calculate the points of the fourth vector}{vectorfour}{CreateSideCubeVecFour.txt}
 
-The fourth Vector thereby becomes (20, 25, 50), and can be seen on image \ref{lst:imageoffirstpointoffourthvector}.
-\figur{0.7}{6.PNG}{First point of the first side of the example item}{imageoffirstpointoffourthvector}
+The fourth Vector thereby becomes (20, 25, 50), and can be seen on Figure \ref{fig:imageoffirstpointoffourthvector}.
+\figur{0.7}{6.PNG}{First point of the first side of the example item}{fig:imageoffirstpointoffourthvector}
 
 
-By drawing a line between these four points, it is clear that these forms a square, that is the first side of the item in the example. This can be seen on image \ref{lst:finalimageoffirstsideinexampleitem}
-\figur{0.7}{7.PNG}{How the first side of the example item looks}{finalimageoffirstsideinexampleitem}
+By drawing a line between these four points, it is clear that these forms a square, that is the first side of the item in the example. This can be seen on Figure \ref{fig:finalimageoffirstsideinexampleitem}
+\figur{0.7}{7.PNG}{How the first side of the example item looks}{fig:finalimageoffirstsideinexampleitem}
 
 When the four Vectors has been calculated, the Vectors are inserted into a new Polygon, which is inserted into an array of polygons.  Next the current Polygon (the one just created), is assigned a Pen. The Pen contains the color and the width of the Polygon. This can be seen on Listing \ref{lst:addtopolyandaddtoarrayandassignpen}
 
