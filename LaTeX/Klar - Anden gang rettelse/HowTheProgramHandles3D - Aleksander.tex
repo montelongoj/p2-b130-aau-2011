@@ -3,13 +3,14 @@
 The 3D in this program is handled by objects called Shape3D. A Shape3D object contains an array of Polygons objects. A Polygon object contains an array of Vector objects and a Pen. A Vector object contains three integers: x, y and z, which are the coordinates of the Vector. 
 
 \subsection{Shape3D Class}
-A Shape3D  object contains four methods: Draw, Rotate, ScaleSize and RePaint. 
+A Shape3D object contains four methods: Draw, Rotate, ScaleSize and RePaint.
 
 The Draw method is really just a "foreach" loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in \fxfatal{indsaet en ref}.\newline
 
-The Rotate method in the Shape3D object is used to rotate the object. The method takes one input parameter, which is a RotateMatrix called "mat". Next the method creates a new Polygon array newP, and runs through all Polygon objects in the Shape3D. The method then calls the Rotate method within the Polygon object on the current polygon, and inserts the results into the Polygon array newP. The method also inserts the current Polygons Pen into the newP Polygons Pen. The function can be seen on Listing \kode{Shape3DRotate} {function in Shape3D}{Shape3DRotate.txt}.
+The Rotate method in the Shape3D object is used to rotate the object. The method takes one input parameter, which is a RotateMatrix called "mat". Next the method creates a new Polygon array newP, and runs through all Polygon objects in the Shape3D. The method then calls the Rotate method within the Polygon object on the current polygon, and inserts the results into the Polygon array newP. The method also inserts the current Polygons Pen into the newP Polygons Pen. The function can be seen on Listing \ref{lst:Shape3DRotate}
+\kode{Function in Shape3D} {Shape3DRotate}{Shape3DRotate.txt}.
 
-The ScaleSize method in the Shape3D object is almost the same as the Rotate method in Shape3D. The only difference is that instead of calling the Rotate method in the Polygon object, the ScaleSize method calls the ScaleSize method in the Polygon object.  
+The ScaleSize method in the Shape3D object is almost the same as the Rotate method in Shape3D. The only difference is that instead of calling the Rotate method in the Polygon object, the ScaleSize method calls the ScaleSize method in the Polygon object.
 
 The RePaint method in the Shape3D object is used to mark one item in the suitcase(one polygon), with a thicker line than the others. In the program this is used when the user clicks on an item in the list of items to the right of the drawing of the suitcase. If the user clicks on an item in the list, the program will mark that item with thicker lines. This function is also used when the 3D viewer is opened - a small cube with dimensions 0.5 x 0.5 x 0.5 is drawn in the suitcase's 0,0,0 point, so the user knows where the 0,0,0 point is. This cube is also marked with a thicker width than the items.
 
@@ -28,11 +29,11 @@ Every time the method 'Invalidate' is called, the Draw method in the current Sha
 
 In the frm3DViewer, the Draw method is called inside the method MyPaint, which takes two input parameters: an 'object' "sender", and an 'PaintEventArgs' "e". The method then calls the Draw method in the Shape3D, with the parameter e.Graphics. The Draw method in Shape3D receives the 'Graphics' "g". The method then runs trough each Polygon in the Shape3D and calls a Draw method in the Polygon class on each of the Polygons. It is now clear that the Draw method is called on each Polygon in a Shape3D.
 
-The Draw method in the Polygon class begins with a "for" loop which runs through the length of the Polygon. The length of a Polygon is defined by the combined length of the Vectors within the Polygon. Inside the "for" loop, two lines are drawn with the built in method DrawLine in the Graphics class. The DrawLine method takes three input parameters, a Pen, and two points. But the Polygons do not contain any points. Therefore the Vector must be converted to points before it is drawn. The Draw method in the Polygon class can be seen on listing \ref{pokpok}. 
+The Draw method in the Polygon class begins with a "for" loop which runs through the length of the Polygon. The length of a Polygon is defined by the combined length of the Vectors within the Polygon. Inside the "for" loop, two lines are drawn with the built in method DrawLine in the Graphics class. The DrawLine method takes three input parameters, a Pen, and two points. But the Polygons do not contain any points. Therefore the Vector must be converted to points before it is drawn. The Draw method in the Polygon class can be seen on listing \ref{lst:pokpok}. 
 \kode{Draw function in the Polygon Class}{pokpok}{polygondraw.txt.txt.txt.txt.txt.txt}
 
 The Rotate method in the Polygon class basically receives a matrix, which contains how the Polygon should be rotated. The method then run through each vector in the Polygon calling the Rotate method in the Vector class on each Vector with the rotate matrix as input. When this is done a new Polygon is returned. This is the rotated Polygon.
 
-The ScaleSize method in the Polygon class is used to scale the polygon with a factor. This is used to zoom the drawing in and out. The method receives a float as input, runs through every Vector in the Polygon and calls the ScaleSize within the Vector class on every Vector, parsing the float as parameter.  When this is done a new Polygon is returned. This is the scaled Polygon. The ScaleSize method in the Polygon class can be seen on Listing \ref{pokpokpok}
+The ScaleSize method in the Polygon class is used to scale the polygon with a factor. This is used to zoom the drawing in and out. The method receives a float as input, runs through every Vector in the Polygon and calls the ScaleSize within the Vector class on every Vector, parsing the float as parameter.  When this is done a new Polygon is returned. This is the scaled Polygon. The ScaleSize method in the Polygon class can be seen on Listing \ref{lst:pokpokpok}
 
 \kode{ScaleSize function in the Polygon Class}{pokpokpok}{PolygonScaleSize.txt}
