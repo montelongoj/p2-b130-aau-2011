@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  8 MAY 2012 15:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  8 MAY 2012 15:49
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2283,7 +2283,7 @@ gWeight.txt" [37])
 eckForFit.txt") [38]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Er
 rorMessage.txt")
-<billeder/FlowOfAlgorithmFull.jpg, id=879, 507.39563pt x 776.14969pt>
+<billeder/FlowOfAlgorithmFull.jpg, id=880, 507.39563pt x 776.14969pt>
 File: billeder/FlowOfAlgorithmFull.jpg Graphic file (type jpg)
 
 <use billeder/FlowOfAlgorithmFull.jpg>
@@ -2321,7 +2321,7 @@ lygonScaleSize.txt") [45])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /development/FunctionDrawCubes.tex" [46]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecOne.txt") <billeder/3.PNG, id=1057, 447.17062pt x 311.66437pt>
+eateSideCubeVecOne.txt") <billeder/3.PNG, id=1058, 447.17062pt x 311.66437pt>
 File: billeder/3.PNG Graphic file (type png)
 
 <use billeder/3.PNG>
@@ -2332,7 +2332,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1068, 445.665pt x 311.66437pt>
+eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1069, 445.665pt x 311.66437pt>
 File: billeder/4.PNG Graphic file (type png)
 
 <use billeder/4.PNG>
@@ -2344,7 +2344,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [48 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/3.PNG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecThree.txt") <billeder/5.PNG, id=1080, 356.532pt x 249.3315pt>
+eateSideCubeVecThree.txt") <billeder/5.PNG, id=1081, 356.532pt x 249.3315pt>
 File: billeder/5.PNG Graphic file (type png)
 
 <use billeder/5.PNG>
@@ -2356,13 +2356,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [49 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/4.PNG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecFour.txt") <billeder/6.PNG, id=1092, 356.532pt x 249.3315pt>
+eateSideCubeVecFour.txt") <billeder/6.PNG, id=1093, 356.532pt x 249.3315pt>
 File: billeder/6.PNG Graphic file (type png)
 
 <use billeder/6.PNG>
 Package pdftex.def Info: billeder/6.PNG used on input line 71.
 (pdftex.def)             Requested size: 298.1987pt x 208.55437pt.
- <billeder/7.PNG, id=1094, 356.532pt x 249.3315pt>
+ <billeder/7.PNG, id=1095, 356.532pt x 249.3315pt>
 File: billeder/7.PNG Graphic file (type png)
 
 <use billeder/7.PNG>
@@ -2442,8 +2442,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
  23175 strings out of 494049
- 409016 string characters out of 3146054
- 555178 words of memory out of 3000000
+ 409020 string characters out of 3146054
+ 554178 words of memory out of 3000000
  25445 multiletter control sequences out of 15000+200000
  30343 words of font info for 84 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
@@ -2469,7 +2469,7 @@ m-super/sfti0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-supe
 r/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8
 a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on Rapport.pdf (77 pages, 1736319 bytes).
+Output written on Rapport.pdf (77 pages, 1736219 bytes).
 PDF statistics:
  1413 PDF objects out of 1440 (max. 8388607)
  432 named destinations out of 1000 (max. 500000)
