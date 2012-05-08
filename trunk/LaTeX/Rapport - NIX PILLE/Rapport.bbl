@@ -59,6 +59,13 @@
 \newblock URL
   \url{http://www.androidzoom.com/android\_applications/travel\_and\_local/checkmark-packlist\_sbut.html}.
 
+\bibitem[{Indian Railways}()]{idianrules}
+\textbf{\textbf{{Indian Railways}}}.
+\newblock {Indian Railways}.
+\newblock \textit{Luggage Rules}.
+\newblock URL
+  \url{http://www.trainenquiry.com/StaticContent/Railway\_Amnities/E\_R/LUGGAGE.aspx}.
+
 \bibitem[Kellerer(2004)]{knapsackproblems}
 \textbf{Kellerer}, \textbf{2004}.
 \newblock Prof.~Hans Kellerer.
@@ -83,13 +90,6 @@
 \newblock \textit{Baggage fees by airline}, 2012.
 \newblock URL
   \url{http://www.bts.gov/programs/airline\_information/baggage\_fees/}.
-
-\bibitem[Railways()]{idianrules}
-\textbf{\textbf{Railways}}.
-\newblock Indian Railways.
-\newblock \textit{Luggage Rules}.
-\newblock URL
-  \url{http://www.trainenquiry.com/StaticContent/Railway\_Amnities/E\_R/LUGGAGE.aspx}.
 
 \bibitem[Rosen(1991)]{appofdismath}
 \textbf{Rosen}, \textbf{1991}.
