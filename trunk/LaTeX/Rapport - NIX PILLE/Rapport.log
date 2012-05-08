@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  8 MAY 2012 14:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  8 MAY 2012 14:59
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2374,13 +2374,8 @@ leSerializer2.txt")) [48] [49] [50
 
 ]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
-/discussion/Perspectivation.tex"
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+/discussion/Perspectivation.tex")
+Underfull \vbox (badness 5578) has occurred while \output is active []
 
  [55]
 [56]
@@ -2408,12 +2403,7 @@ File: billeder/udkastmindmap.JPG Graphic file (type jpg)
 <use billeder/udkastmindmap.JPG>
 Package pdftex.def Info: billeder/udkastmindmap.JPG used on input line 3.
 (pdftex.def)             Requested size: 340.8013pt x 434.99025pt.
-)
-! Undefined control sequence.
-l.114 \Fdsa
-           
-? 
-AED: lastpage setting LastPage 
+) AED: lastpage setting LastPage 
 [63
 
  <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/billede
@@ -2428,12 +2418,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: BEEB09F5BBEC68CEA0DEA0B7F3C1422D;4465.
+(rerunfilecheck)             Checksum: 6A3D1C90FC5C0A8C5E28EF6ABB1D2E33;4460.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
  23063 strings out of 494049
- 406324 string characters out of 3146054
+ 406314 string characters out of 3146054
  569757 words of memory out of 3000000
  25403 multiletter control sequences out of 15000+200000
  30343 words of font info for 84 fonts, out of 3000000 for 9000
@@ -2460,7 +2450,7 @@ m-super/sfti0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-supe
 r/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8
 a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on Rapport.pdf (73 pages, 2133931 bytes).
+Output written on Rapport.pdf (73 pages, 2133501 bytes).
 PDF statistics:
  1315 PDF objects out of 1440 (max. 8388607)
  377 named destinations out of 1000 (max. 500000)
