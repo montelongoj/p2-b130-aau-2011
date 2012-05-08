@@ -36,6 +36,11 @@ while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in onlinecheck
 1 is an integer literal, not a string, for entry checkpacklist
 while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty year in idianrules
+Warning--empty year in idianrules
+1 is an integer literal, not a string, for entry idianrules
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in idianrules
 1 is an integer literal, not a string, for entry knapsackproblems
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--can't use both author and editor fields in combopt
@@ -48,11 +53,6 @@ while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in Cruise
 0 is an integer literal, not a string, for entry airstat
 while executing---line 1495 of file bibtex/harvard.bst
-Warning--empty year in idianrules
-Warning--empty year in idianrules
-1 is an integer literal, not a string, for entry idianrules
-while executing---line 1495 of file bibtex/harvard.bst
-Warning--empty  in idianrules
 Warning--can't use both author and editor fields in appofdismath
 1 is an integer literal, not a string, for entry appofdismath
 while executing---line 1495 of file bibtex/harvard.bst
