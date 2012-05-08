@@ -77,7 +77,7 @@
 \contentsline {section}{\numberline {6.3}The Second Round of Tests}{52}{section.6.3}
 \contentsline {section}{\numberline {6.4}Conclusion on the Tests}{53}{section.6.4}
 \contentsline {chapter}{\chapternumberline {7}Discussion}{55}{chapter.7}
-\contentsline {subsection}{\numberline {7.0.1}Perspectivation}{55}{subsection.7.0.1}
+\contentsline {section}{\numberline {7.1}Perspectivation}{55}{section.7.1}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{57}{chapter.8}
 \contentsline {chapter}{Bibliography}{59}{section*.19}
 \cftpagenumbersoff {chapter}
