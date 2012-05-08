@@ -5,7 +5,7 @@ The 3D in this program is handled by objects called Shape3D. A Shape3D object co
 \subsection{Shape3D Class}
 A Shape3D object contains four methods: Draw, Rotate, ScaleSize and RePaint.
 
-The Draw method is really just a "foreach" loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in \fxfatal{indsaet en ref}.\newline
+The Draw method is really just a "foreach" loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in \fxfatal{indsaet en ref}.
 
 The Rotate method in the Shape3D object is used to rotate the object. The method takes one input parameter, which is a RotateMatrix called "mat". Next the method creates a new Polygon array newP, and runs through all Polygon objects in the Shape3D. The method then calls the Rotate method within the Polygon object on the current polygon, and inserts the results into the Polygon array newP. The method also inserts the current Polygons Pen into the newP Polygons Pen. The function can be seen on Listing \ref{lst:Shape3DRotate}.
 \kode{Function in Shape3D} {Shape3DRotate}{Shape3DRotate.txt}.
@@ -16,7 +16,7 @@ The RePaint method in the Shape3D object is used to mark one item in the suitcas
 
 The method takes two integers as input parameters: "num" and "col\_w". The "num" input is the item that has been selected, and the "col\_w" is how wide the line must be. The method initiates a new Polygon array, newP, where all the polygons will be stored. The method also contains three counters. One that counts the elements in the polygon, this counter is called "element\_counter". Here an element consists of four sides. Another counter called "counts" is counted up when a polygon is made thicker, this is counter is called "counter". The last counter is counted up whether or not a polygon is made thicker. This counter is called "count" which keeps track of the Polygon array newP.
 
-First the method checks if the color of the current polygon is red. This only happens if the current polygon is the cube representing the 0,0,0 point. If the color is red, the width of the polygon is set to 2, and the counter "counter" is counted up. The method now checks whether or not "counter" is 4. This occurs if all four sides of a polygon is made thick. If this is the case, the counter "counter" is set to 0, and the element counter is counted up, implying that the method now should check the next element in the Shape3D object. This can be seen on Listing \ref{TrollDetected}.
+First the method checks if the color of the current polygon is red. This only happens if the current polygon is the cube representing the 0,0,0 point. If the color is red, the width of the polygon is set to 2, and the counter "counter" is counted up. The method now checks whether or not "counter" is 4. This occurs if all four sides of a polygon is made thick. If this is the case, the counter "counter" is set to 0, and the element counter is counted up, implying that the method now should check the next element in the Shape3D object. This can be seen on Listing \ref{lst:TrollDetected}.
 
 \kode{Function that makes an item thicker}{TrollDetected}{makephatfunction.txt}
 
