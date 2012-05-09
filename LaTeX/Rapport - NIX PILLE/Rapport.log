@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  9 MAY 2012 10:16
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  9 MAY 2012 10:50
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -1603,59 +1603,64 @@ Overfull \hbox (29.00002pt too wide) in paragraph at lines 24--36
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 
  []
 
 
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 73--73
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 74--74
 []$[]$ 
  []
 
 
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
 a/synopsis.tex")
-Underfull \hbox (badness 1436) in paragraph at lines 1--84
+Underfull \hbox (badness 1436) in paragraph at lines 1--85
 []\T1/cmr/m/n/10 This re-port con-tains doc-u-men-ta-tion of
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 1--84
+Underfull \hbox (badness 1902) in paragraph at lines 1--85
 \T1/cmr/m/n/10 pack-ing their suit-cases be-fore a flight
  []
 
 
-Overfull \hbox (8.22272pt too wide) in paragraph at lines 84--84
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+
+ []
+
+
+Overfull \hbox (8.22272pt too wide) in paragraph at lines 85--85
+[] 
+ []
+
+
+Overfull \hbox (13.33856pt too wide) in paragraph at lines 37--88
 [][] 
  []
 
 
-Overfull \hbox (13.33856pt too wide) in paragraph at lines 37--87
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--87
+Underfull \hbox (badness 10000) in paragraph at lines 37--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--87
+Underfull \hbox (badness 10000) in paragraph at lines 37--88
 
  []
 
@@ -2325,7 +2330,7 @@ eateSideCubeVecOne.txt") <billeder/3.PNG, id=1063, 447.17062pt x 311.66437pt>
 File: billeder/3.PNG Graphic file (type png)
 
 <use billeder/3.PNG>
-Package pdftex.def Info: billeder/3.PNG used on input line 43.
+Package pdftex.def Info: billeder/3.PNG used on input line 44.
 (pdftex.def)             Requested size: 298.1987pt x 207.83914pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2336,7 +2341,7 @@ eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1074, 445.665pt x 311.66437pt>
 File: billeder/4.PNG Graphic file (type png)
 
 <use billeder/4.PNG>
-Package pdftex.def Info: billeder/4.PNG used on input line 54.
+Package pdftex.def Info: billeder/4.PNG used on input line 55.
 (pdftex.def)             Requested size: 298.1987pt x 208.53821pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2348,7 +2353,7 @@ eateSideCubeVecThree.txt") <billeder/5.PNG, id=1086, 356.532pt x 249.3315pt>
 File: billeder/5.PNG Graphic file (type png)
 
 <use billeder/5.PNG>
-Package pdftex.def Info: billeder/5.PNG used on input line 63.
+Package pdftex.def Info: billeder/5.PNG used on input line 64.
 (pdftex.def)             Requested size: 298.1987pt x 208.55437pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2360,13 +2365,13 @@ eateSideCubeVecFour.txt") <billeder/6.PNG, id=1098, 356.532pt x 249.3315pt>
 File: billeder/6.PNG Graphic file (type png)
 
 <use billeder/6.PNG>
-Package pdftex.def Info: billeder/6.PNG used on input line 71.
+Package pdftex.def Info: billeder/6.PNG used on input line 72.
 (pdftex.def)             Requested size: 298.1987pt x 208.55437pt.
  <billeder/7.PNG, id=1100, 356.532pt x 249.3315pt>
 File: billeder/7.PNG Graphic file (type png)
 
 <use billeder/7.PNG>
-Package pdftex.def Info: billeder/7.PNG used on input line 75.
+Package pdftex.def Info: billeder/7.PNG used on input line 76.
 (pdftex.def)             Requested size: 298.1987pt x 208.55437pt.
  [50 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/5.PNG> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX P
@@ -2446,10 +2451,10 @@ Package rerunfilecheck Info: File `Rapport.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
- 23194 strings out of 494049
- 409405 string characters out of 3146054
- 554303 words of memory out of 3000000
- 25450 multiletter control sequences out of 15000+200000
+ 23195 strings out of 494049
+ 409415 string characters out of 3146054
+ 554381 words of memory out of 3000000
+ 25451 multiletter control sequences out of 15000+200000
  30343 words of font info for 84 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  43i,20n,60p,1842b,2138s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2474,7 +2479,7 @@ m-super/sfti0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-supe
 r/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8
 a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on Rapport.pdf (80 pages, 1744257 bytes).
+Output written on Rapport.pdf (80 pages, 1744402 bytes).
 PDF statistics:
  1445 PDF objects out of 1728 (max. 8388607)
  443 named destinations out of 1000 (max. 500000)
