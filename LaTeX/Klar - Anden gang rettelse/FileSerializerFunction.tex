@@ -1,6 +1,6 @@
 \section{File Serialize function}
-When the user shuts down the program, it should save the lists of the items and suitcases and open them next time the program is opened. There are many different ways for saving data. It can e.g. be saved in a raw binary file, a textfile or a databas like SQL.
-The SQL databases need a program that can handle SQL or there is internet to the server, and is therefore not used in this project. A textfile is a ineffective way of saving data. The binary raw file is therefore used in the project.
+When the user shuts down the program, it should save the lists of the items and suitcases and open them next time the program is opened. There are many different ways for saving data. It can e.g. be saved in a raw binary file, a text file or a database like SQL.
+The SQL databases either needs a program that can handle SQL or an Internet connection to a server, and is therefore not used in this project. A text file is an ineffective way of saving data. The binary raw file is therefore used in the project.
 
 To save the data in the program a function called File Serialize is used. The function is called when the data from the program should be saved or loaded. The function lies in the file "FileSerializer.cs", which is taken from the website "www.codeproject.com" from the "how to" "Custom Serialization Example" section. The next part of the function, is where the list of items and the luggages are loaded in the main part. 
 \kode{Informs that there is saved to a file}{FileSerializer1}{FileSerializer1.txt}
