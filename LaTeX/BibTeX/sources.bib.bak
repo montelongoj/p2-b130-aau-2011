@@ -36,6 +36,21 @@
   url = {http://www.takeoff.dk/news/22548}
 }
 
+@MISC{nphardnist,
+  author = {Paul E. Black},
+  title = {NP-hard},
+  howpublished = {website},
+  month = {October},
+  year = {2010},
+  note = {Algorithms and Theory of Computation Handbook, CRC Press LLC, 1999,
+	"NP-hard", in Dictionary of Algorithms and Data Structures [online],
+	Paul E. Black, ed., U.S. National Institute of Standards and Technology.
+	25 October 2010. (accessed TODAY) Available from: http://www.nist.gov/dads/HTML/nphard.html},
+  owner = {lewindows},
+  timestamp = {2012.05.09},
+  url = {http://xlinux.nist.gov/dads/HTML/nphard.html}
+}
+
 @MISC{newrules,
   author = {Crete-Kreta},
   title = {New rules for hand luggage at all EU airports},
@@ -112,6 +127,17 @@
   owner = {Lappie},
   publisher = {Springer},
   timestamp = {2012.02.27}
+}
+
+@MISC{orgcode,
+  author = {Ariel Keselman},
+  title = {Rotating a 3D Cube and Sphere with GDI+},
+  howpublished = {website},
+  month = {February},
+  year = {2002},
+  owner = {lewindows},
+  timestamp = {2012.05.09},
+  url = {http://www.c-sharpcorner.com/UploadFile/alfajores/Rotating3DCubeSphere10172005031038AM/Rotating3DCubeSphere.aspx}
 }
 
 @BOOK{combopt,
