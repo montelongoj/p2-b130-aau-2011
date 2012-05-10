@@ -43,6 +43,8 @@ while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in idianrules
 1 is an integer literal, not a string, for entry knapsackproblems
 while executing---line 1495 of file bibtex/harvard.bst
+0 is an integer literal, not a string, for entry orgcode
+while executing---line 1495 of file bibtex/harvard.bst
 Warning--can't use both author and editor fields in combopt
 1 is an integer literal, not a string, for entry combopt
 while executing---line 1495 of file bibtex/harvard.bst
@@ -67,4 +69,4 @@ Warning--empty  in solvingmaze
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry Stricter_rules
 while executing---line 1495 of file bibtex/harvard.bst
-(There were 19 error messages)
+(There were 20 error messages)
