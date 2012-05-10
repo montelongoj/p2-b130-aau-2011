@@ -1,4 +1,4 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -24,6 +24,18 @@
 \newblock Henrik Baumgarten.
 \newblock \textit{Det solgte de danske chartarbureauer sidste aar}, 2012.
 \newblock URL \url{http://www.takeoff.dk/news/22548}.
+
+\bibitem[Black(2010)]{nphardnist}
+\textbf{Black}, \textbf{October 2010}.
+\newblock Paul~E. Black.
+\newblock \textit{NP-hard}.
+\newblock website, 2010.
+\newblock URL \url{http://xlinux.nist.gov/dads/HTML/nphard.html}.
+\newblock Algorithms and Theory of Computation Handbook, CRC Press LLC, 1999,
+  "NP-hard", in Dictionary of Algorithms and Data Structures [online], Paul E.
+  Black, ed., U.S. National Institute of Standards and Technology. 25 October
+  2010. (accessed TODAY) Available from:
+  http://www.nist.gov/dads/HTML/nphard.html.
 
 \bibitem[DSB()]{rulestrain}
 \textbf{\textbf{DSB}}.
@@ -79,12 +91,6 @@
 \newblock URL
   \url{http://www.c-sharpcorner.com/UploadFile/alfajores/Rotating3DCubeSphere10172005031038AM/Rotating3DCubeSphere.aspx}.
 
-\bibitem[Korte and Vygen(2002)]{combopt}
-\textbf{Korte and Vygen}, \textbf{2002}.
-\newblock Benhard Korte and Jens Vygen.
-\newblock \textit{Combinatorial Optimization - Theory and Algorithms}.
-\newblock Springer, 2002.
-
 \bibitem[MSCcruise()]{Cruise}
 \textbf{\textbf{MSCcruise}}.
 \newblock MSCcruise.
@@ -98,6 +104,13 @@
 \newblock \textit{Baggage fees by airline}, 2012.
 \newblock URL
   \url{http://www.bts.gov/programs/airline\_information/baggage\_fees/}.
+
+\bibitem[Prasad(1999)]{binpackinggsu}
+\textbf{Prasad}, \textbf{May 1999}.
+\newblock Prof. Sushil~K. Prasad.
+\newblock \textit{Bin Packing Problem}.
+\newblock website, 1999.
+\newblock URL \url{http://www.cs.gsu.edu/~cscskp/Algorithms/NP/node11.html}.
 
 \bibitem[Rosen(1991)]{appofdismath}
 \textbf{Rosen}, \textbf{1991}.

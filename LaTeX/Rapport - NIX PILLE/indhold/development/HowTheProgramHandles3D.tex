@@ -7,7 +7,7 @@ Instead of programming the whole 3D part ourselves, an existing solution was fou
 \subsection{Shape3D Class}
 A Shape3D object contains four methods: Draw, Rotate, ScaleSize and RePaint.
 
-The Draw method is really just a "foreach" loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in \fxfatal{indsaet en ref}.
+The Draw method is really just a "foreach" loop which calls the Draw method in the Polygon object on all Polygon objects within the Shape3D. The Draw method in the Polygon object will be explained in Section \ref{sec:polygon}.
 
 The Rotate method in the Shape3D object is used to rotate the object. The method takes one input parameter, which is a RotateMatrix called "mat". Next the method creates a new Polygon array newP, and runs through all Polygon objects in the Shape3D. The method then calls the Rotate method within the Polygon object on the current polygon, and inserts the results into the Polygon array newP. The method also inserts the current Polygons Pen into the newP Polygons Pen. The function can be seen on Listing \ref{lst:Shape3DRotate}.
 \kode{Function in Shape3D} {Shape3DRotate}{Shape3DRotate.txt}.
@@ -25,6 +25,7 @@ First the method checks if the color of the current polygon is red. This only ha
 At the end the method returns a new Shape3D object, newP, which replaces the old Shape3D, and is drawn.
 
 \subsection{Polygon Class} 
+\label{sec:polygon}
 The Polygon class contains five methods: Draw, X2D, Y2D, Rotate and ScaleSize. The essential method in this class is the Draw method. This is the method that actually draws the suitcase and items on the form. The Draw method takes two input parameters; a Graphics object "g", and a Pen "MyPen". The Pen is where the color and width of the lines are stored. Before explaining how the Draw method actually works, a closer look will be taken at where it is first called.
 
 Every time the method 'Invalidate' is called, the Draw method in the current Shape3D object is also called. The 'Invalidate' method is called every time the program needs to refresh the drawing of the suitcase and items. For example when the user changes suitcase in the drop down element, the program needs to redraw the image, so that the items in the new suitcase are drawn instead. 
