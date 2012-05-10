@@ -1,10 +1,7 @@
 \section{Bin packing problem}
 \label{sec:binpacking}
 
-%% Ret start %%
 The bin packing problem is an NP-hard problem when it is formulated as an optimization problem \citep{binpackinggsu}. This means that the problem is, in it self, harder than those that can be solved by a nondeterministic Turing machine in polynomial time \citep{nphardnist}.
-
-%%Ret end %%
 
 The problem consists of fitting objects of different sizes into bins of identical sizes \citep{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases. The only difference is the size, but basically are they the same. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations show how the packing algorithms work in one dimension - but it gives a basic understanding of the algorithms. Figure \ref{bpini} is an illustration of the unpacked elements:
 \figur{0.7}{initial.png}{Initial elements (Source: \citep{binpackingsource})}{bpini}
@@ -22,7 +19,6 @@ The best fit algorithm is much the same as the first fit algorithm, except it do
 \subsection{Last fit (LF)}
 This algorithm packs the object in the last open bin which has room for it. This algorithm is thereby the opposite of the first fit algorithm. Figure \ref{bplf} is an illustration of the elements packed with the Last fit algorithm.
 \figur{0.7}{lf.png}{Elements after LF has been applied (Source: \citep{binpackingsource})}{bplf}
-
 
 \subsection{Worst fit (WF)}
 The algorithm checks all the bins, and packs the object in the bin which has most empty space. As its name suggest, this algorithm is the opposite of the Best fit algorithm. Figure \ref{bpwf} is an illustration of the elements packed with the Worst fit algorithm. As the figure shows, the worst fit algorithm is in fact more effective than its name might suggest. 
@@ -42,8 +38,4 @@ Again this is the same as the best fit algorithm, but with the list being sorted
 \subsection{Summing up}
 It seems that it is more effective to sort the lists before attempting to pack objects into bins. This way bigger objects are packed first, and the smaller objects can then be fitted around the bigger objects. However in some situations it is necessary to use unsorted lists. For example in a factory with continuous production, it is never possible to have the complete list of objects, and thus never possible to sort the list. This theory can be used to form the algorithm of this project, and use the others mathematical experiences as a benefit.
 
-%% Ret start %%
-
-The main difference between the knapsack problem \fxfatal{knapsack section} and the bin packing problem, is that with the knapsack problem a list of items, each with a weight and a value, one must fit these into a fixed-size knapsack, so that the combined weight of the items are as low as possible, where the combined values must be as high as possible. In the bin packing problem, a list of items, each with given dimensions, each item must be packed into bins of a given capacity, so that a minimal number of bins are used. In this project we focus on the bin packing problem, because our goal is to pack items with given dimensions into suitcases (bins) of a given size. In other words, each item does not have a specific value - each item must be packed, which is why we chose the bin packing problem over the knapsack problem. 
-
-%%Ret end %%
+The main difference between the knapsack problem, see section \ref{sec:knapsack}, and the bin packing problem, is that with the knapsack problem a list of items. Each item with its own weight and value, must be fit into a fixed-size knapsack, so that the combined weight of the items are as low as possible, where the combined values must be as high as possible. In the bin packing problem, a list of items, each with given dimensions, each item must be packed into bins of a given capacity, so that a minimal number of bins are used. In this project the focus will be on the bin packing problem, because the goal is to pack items with given dimensions into suitcases (bins) of a given size. In other words, each item does not have a specific value - each item must be packed, which is why the bin packing problem have been chosen over the knapsack problem.
