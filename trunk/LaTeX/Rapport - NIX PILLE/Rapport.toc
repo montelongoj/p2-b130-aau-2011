@@ -52,7 +52,7 @@
 \contentsline {section}{\numberline {4.5}The Packing Algorithm}{29}{section.4.5}
 \contentsline {subsection}{\numberline {4.5.1}Optimization of weight}{29}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Description of the algorithm}{30}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Round up}{32}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.3}Summing up}{32}{subsection.4.5.3}
 \contentsline {chapter}{\chapternumberline {5}Development}{33}{chapter.5}
 \contentsline {section}{\numberline {5.1}How the program handles different forms}{33}{section.5.1}
 \contentsline {section}{\numberline {5.2}The Development of The Packing Algorithm}{34}{section.5.2}
@@ -74,9 +74,10 @@
 \contentsline {section}{\numberline {5.5}Function to draw cubes}{46}{section.5.5}
 \contentsline {section}{\numberline {5.6}Rotate 3D-view with the mouse}{51}{section.5.6}
 \contentsline {section}{\numberline {5.7}File Serialize function}{52}{section.5.7}
+\contentsline {section}{\numberline {5.8}Instruction manual}{53}{section.5.8}
 \contentsline {chapter}{\chapternumberline {6}Testing}{55}{chapter.6}
 \contentsline {section}{\numberline {6.1}Choice of Survey Method}{55}{section.6.1}
-\contentsline {section}{\numberline {6.2}The First Round of Tests}{55}{section.6.2}
+\contentsline {section}{\numberline {6.2}The First Round of Tests}{56}{section.6.2}
 \contentsline {section}{\numberline {6.3}The Second Round of Tests}{56}{section.6.3}
 \contentsline {section}{\numberline {6.4}Conclusion on the Tests}{57}{section.6.4}
 \contentsline {chapter}{\chapternumberline {7}Discussion}{59}{chapter.7}
@@ -86,4 +87,4 @@
 \cftpagenumbersoff {chapter}
 \contentsline {appendix}{\chapternumberline {A}Pak kufferten}{67}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}Mindmap}{69}{appendix.B}
-\contentsline {section}{\numberline {B.1}Questionnaire}{70}{section.B.1}
+\contentsline {appendix}{\chapternumberline {C}Questionnaire}{71}{appendix.C}
