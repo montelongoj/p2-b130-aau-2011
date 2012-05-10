@@ -36,7 +36,7 @@
 \contentsline {subsection}{\numberline {3.2.5}Almost worst fit (AWF)}{17}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}First fit decreasing(FFD)}{18}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}Best fit decreasing(BFD)}{18}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Round up}{18}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.8}Summing up}{18}{subsection.3.2.8}
 \contentsline {chapter}{\chapternumberline {4}Design}{19}{chapter.4}
 \contentsline {section}{\numberline {4.1}Specification Requirements}{19}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
@@ -48,45 +48,46 @@
 \contentsline {subsection}{\numberline {4.3.3}Program for the computer}{22}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Choice of solution}{22}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Program planning}{23}{section.4.4}
-\contentsline {section}{\numberline {4.5}GUI Description}{25}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}3D-viewer}{28}{subsection.4.5.1}
-\contentsline {section}{\numberline {4.6}The Packing Algorithm}{29}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Optimization of weight}{29}{subsection.4.6.1}
-\contentsline {subsection}{\numberline {4.6.2}Description of the algorithm}{30}{subsection.4.6.2}
-\contentsline {subsection}{\numberline {4.6.3}Summing up}{32}{subsection.4.6.3}
-\contentsline {chapter}{\chapternumberline {5}Development}{33}{chapter.5}
-\contentsline {section}{\numberline {5.1}How the program handles different forms}{33}{section.5.1}
-\contentsline {section}{\numberline {5.2}The Development of The Packing Algorithm}{34}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Classes}{34}{subsection.5.2.1}
-\contentsline {subsubsection}{The Class "luggage"}{34}{section*.10}
-\contentsline {subsubsection}{The class "luggage\_item"}{35}{section*.11}
-\contentsline {subsubsection}{Using the Classes}{36}{section*.12}
-\contentsline {subsection}{\numberline {5.2.2}Description of the Code}{36}{subsection.5.2.2}
-\contentsline {subsubsection}{Reset and Sorting}{36}{section*.13}
-\contentsline {subsubsection}{Weight Distribution}{37}{section*.14}
-\contentsline {subsubsection}{Checking For Fit in Pivot Points}{38}{section*.15}
-\contentsline {subsubsection}{Placing the item}{38}{section*.16}
-\contentsline {subsubsection}{When Every Item is Packed}{39}{section*.17}
-\contentsline {subsection}{\numberline {5.2.3}Summing up}{39}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Color Assignment Function}{41}{section.5.3}
-\contentsline {section}{\numberline {5.4}How the Program Handles 3D}{43}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Shape3D Class}{43}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Polygon Class}{45}{subsection.5.4.2}
-\contentsline {section}{\numberline {5.5}Function to draw cubes}{46}{section.5.5}
-\contentsline {section}{\numberline {5.6}Rotate 3D-view with the mouse}{51}{section.5.6}
-\contentsline {section}{\numberline {5.7}File Serialize function}{52}{section.5.7}
-\contentsline {section}{\numberline {5.8}Instruction manual}{53}{section.5.8}
-\contentsline {chapter}{\chapternumberline {6}Testing}{55}{chapter.6}
-\contentsline {section}{\numberline {6.1}Choice of Survey Method}{55}{section.6.1}
-\contentsline {section}{\numberline {6.2}The First Round of Tests}{56}{section.6.2}
-\contentsline {section}{\numberline {6.3}The Second Round of Tests}{56}{section.6.3}
-\contentsline {section}{\numberline {6.4}Conclusion on the Tests}{57}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Discussion}{59}{chapter.7}
-\contentsline {section}{\numberline {7.1}Discussion}{59}{section.7.1}
-\contentsline {section}{\numberline {7.2}Perspectivation}{61}{section.7.2}
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{63}{chapter.8}
-\contentsline {chapter}{Bibliography}{65}{section*.19}
+\contentsline {section}{\numberline {4.5}Sketches before programming of GUI}{25}{section.4.5}
+\contentsline {section}{\numberline {4.6}GUI Description}{32}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}3D-viewer}{36}{subsection.4.6.1}
+\contentsline {section}{\numberline {4.7}The Packing Algorithm}{38}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Optimization of weight}{38}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Description of the algorithm}{38}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}Summing up}{41}{subsection.4.7.3}
+\contentsline {chapter}{\chapternumberline {5}Development}{43}{chapter.5}
+\contentsline {section}{\numberline {5.1}How the program handles different forms}{43}{section.5.1}
+\contentsline {section}{\numberline {5.2}The Development of The Packing Algorithm}{44}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Classes}{44}{subsection.5.2.1}
+\contentsline {subsubsection}{The Class "luggage"}{44}{section*.10}
+\contentsline {subsubsection}{The class "luggage\_item"}{45}{section*.11}
+\contentsline {subsubsection}{Using the Classes}{46}{section*.12}
+\contentsline {subsection}{\numberline {5.2.2}Description of the Code}{46}{subsection.5.2.2}
+\contentsline {subsubsection}{Reset and Sorting}{46}{section*.13}
+\contentsline {subsubsection}{Weight Distribution}{47}{section*.14}
+\contentsline {subsubsection}{Checking For Fit in Pivot Points}{48}{section*.15}
+\contentsline {subsubsection}{Placing the item}{48}{section*.16}
+\contentsline {subsubsection}{When Every Item is Packed}{49}{section*.17}
+\contentsline {subsection}{\numberline {5.2.3}Summing up}{49}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Color Assignment Function}{51}{section.5.3}
+\contentsline {section}{\numberline {5.4}How the Program Handles 3D}{53}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Shape3D Class}{53}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Polygon Class}{55}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Function to draw cubes}{56}{section.5.5}
+\contentsline {section}{\numberline {5.6}Rotate 3D-view with the mouse}{61}{section.5.6}
+\contentsline {section}{\numberline {5.7}File Serialize function}{62}{section.5.7}
+\contentsline {section}{\numberline {5.8}Instruction manual}{63}{section.5.8}
+\contentsline {chapter}{\chapternumberline {6}Testing}{65}{chapter.6}
+\contentsline {section}{\numberline {6.1}Choice of Survey Method}{65}{section.6.1}
+\contentsline {section}{\numberline {6.2}The First Round of Tests}{66}{section.6.2}
+\contentsline {section}{\numberline {6.3}The Second Round of Tests}{66}{section.6.3}
+\contentsline {section}{\numberline {6.4}Conclusion on the Tests}{67}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}Discussion}{69}{chapter.7}
+\contentsline {section}{\numberline {7.1}Discussion}{69}{section.7.1}
+\contentsline {section}{\numberline {7.2}Perspectivation}{71}{section.7.2}
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{73}{chapter.8}
+\contentsline {chapter}{Bibliography}{75}{section*.19}
 \cftpagenumbersoff {chapter}
-\contentsline {appendix}{\chapternumberline {A}Pak kufferten}{69}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Mindmap}{71}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Questionnaire}{73}{appendix.C}
+\contentsline {appendix}{\chapternumberline {A}Pak kufferten}{79}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Mindmap}{81}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Questionnaire}{83}{appendix.C}
