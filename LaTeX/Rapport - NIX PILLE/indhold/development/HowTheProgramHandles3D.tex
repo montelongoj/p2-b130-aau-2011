@@ -2,6 +2,8 @@
 \label{sec:3DHandler}
 The 3D in this program is handled by objects called Shape3D. A Shape3D object contains an array of Polygons objects. A Polygon object contains an array of Vector objects and a Pen. A Vector object contains three integers: x, y and z, which are the coordinates of the Vector. 
 
+Instead of programming the whole 3D part ourselves, an existing solution was found and developed further. The original solution \citep{orgcode} was only a demonstration on how to draw a cube, an axis and a more advanced polygon using C\#. This solution was further developed to support drawing cubes of different sizes. Along the development, unnecessary features like drawing an axis was removed. The interface of the 3D was also improved, so that no GUI elements where created directly in the code that handled the 3D.
+
 \subsection{Shape3D Class}
 A Shape3D object contains four methods: Draw, Rotate, ScaleSize and RePaint.
 
