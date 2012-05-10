@@ -43,7 +43,7 @@
 \BOOKMARK [1][-]{section.4.5}{The Packing Algorithm}{chapter.4}% 43
 \BOOKMARK [2][-]{subsection.4.5.1}{Optimization of weight}{section.4.5}% 44
 \BOOKMARK [2][-]{subsection.4.5.2}{Description of the algorithm}{section.4.5}% 45
-\BOOKMARK [2][-]{subsection.4.5.3}{Round up}{section.4.5}% 46
+\BOOKMARK [2][-]{subsection.4.5.3}{Summing up}{section.4.5}% 46
 \BOOKMARK [0][-]{chapter.5}{Development}{}% 47
 \BOOKMARK [1][-]{section.5.1}{How the program handles different forms}{chapter.5}% 48
 \BOOKMARK [1][-]{section.5.2}{The Development of The Packing Algorithm}{chapter.5}% 49
@@ -57,15 +57,16 @@
 \BOOKMARK [1][-]{section.5.5}{Function to draw cubes}{chapter.5}% 57
 \BOOKMARK [1][-]{section.5.6}{Rotate 3D-view with the mouse}{chapter.5}% 58
 \BOOKMARK [1][-]{section.5.7}{File Serialize function}{chapter.5}% 59
-\BOOKMARK [0][-]{chapter.6}{Testing}{}% 60
-\BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 61
-\BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 62
-\BOOKMARK [1][-]{section.6.3}{The Second Round of Tests}{chapter.6}% 63
-\BOOKMARK [1][-]{section.6.4}{Conclusion on the Tests}{chapter.6}% 64
-\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 65
-\BOOKMARK [1][-]{section.7.1}{Perspectivation}{chapter.7}% 66
-\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 67
-\BOOKMARK [0][-]{section*.19}{Bibliography}{}% 68
-\BOOKMARK [0][-]{appendix.A}{Pak kufferten}{}% 69
-\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 70
-\BOOKMARK [1][-]{section.B.1}{Questionnaire}{appendix.B}% 71
+\BOOKMARK [1][-]{section.5.8}{Instruction manual}{chapter.5}% 60
+\BOOKMARK [0][-]{chapter.6}{Testing}{}% 61
+\BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 62
+\BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 63
+\BOOKMARK [1][-]{section.6.3}{The Second Round of Tests}{chapter.6}% 64
+\BOOKMARK [1][-]{section.6.4}{Conclusion on the Tests}{chapter.6}% 65
+\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 66
+\BOOKMARK [1][-]{section.7.1}{Perspectivation}{chapter.7}% 67
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 68
+\BOOKMARK [0][-]{section*.19}{Bibliography}{}% 69
+\BOOKMARK [0][-]{appendix.A}{Pak kufferten}{}% 70
+\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 71
+\BOOKMARK [0][-]{appendix.C}{Questionnaire}{}% 72
