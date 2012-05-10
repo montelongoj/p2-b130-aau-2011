@@ -41,18 +41,19 @@
 \contentsline {section}{\numberline {4.1}Specification Requirements}{19}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Optional Features}{20}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Solution suggestions}{21}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Application for smartphones}{21}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Extension for an existing program}{21}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Program for the computer}{22}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Choise of solution}{22}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Program planning}{23}{section.4.3}
-\contentsline {section}{\numberline {4.4}GUI Description}{24}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}3D-viewer}{28}{subsection.4.4.1}
-\contentsline {section}{\numberline {4.5}The Packing Algorithm}{29}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Optimization of weight}{29}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Description of the algorithm}{30}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Summing up}{32}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.2}Partner analysis}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}Solution suggestions}{21}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Application for smartphones}{21}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Extension for an existing program}{22}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Program for the computer}{22}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Choice of solution}{22}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Program planning}{23}{section.4.4}
+\contentsline {section}{\numberline {4.5}GUI Description}{25}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}3D-viewer}{28}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}The Packing Algorithm}{29}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Optimization of weight}{29}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Description of the algorithm}{30}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Summing up}{32}{subsection.4.6.3}
 \contentsline {chapter}{\chapternumberline {5}Development}{33}{chapter.5}
 \contentsline {section}{\numberline {5.1}How the program handles different forms}{33}{section.5.1}
 \contentsline {section}{\numberline {5.2}The Development of The Packing Algorithm}{34}{section.5.2}
@@ -67,10 +68,10 @@
 \contentsline {subsubsection}{Placing the item}{38}{section*.16}
 \contentsline {subsubsection}{When Every Item is Packed}{39}{section*.17}
 \contentsline {subsection}{\numberline {5.2.3}Summing up}{39}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Color assignment function}{41}{section.5.3}
+\contentsline {section}{\numberline {5.3}Color Assignment Function}{41}{section.5.3}
 \contentsline {section}{\numberline {5.4}How the Program Handles 3D}{43}{section.5.4}
 \contentsline {subsection}{\numberline {5.4.1}Shape3D Class}{43}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Polygon Class}{44}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.2}Polygon Class}{45}{subsection.5.4.2}
 \contentsline {section}{\numberline {5.5}Function to draw cubes}{46}{section.5.5}
 \contentsline {section}{\numberline {5.6}Rotate 3D-view with the mouse}{51}{section.5.6}
 \contentsline {section}{\numberline {5.7}File Serialize function}{52}{section.5.7}
@@ -81,10 +82,11 @@
 \contentsline {section}{\numberline {6.3}The Second Round of Tests}{56}{section.6.3}
 \contentsline {section}{\numberline {6.4}Conclusion on the Tests}{57}{section.6.4}
 \contentsline {chapter}{\chapternumberline {7}Discussion}{59}{chapter.7}
-\contentsline {section}{\numberline {7.1}Perspectivation}{59}{section.7.1}
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{61}{chapter.8}
-\contentsline {chapter}{Bibliography}{63}{section*.19}
+\contentsline {section}{\numberline {7.1}Discussion}{59}{section.7.1}
+\contentsline {section}{\numberline {7.2}Perspectivation}{61}{section.7.2}
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{63}{chapter.8}
+\contentsline {chapter}{Bibliography}{65}{section*.19}
 \cftpagenumbersoff {chapter}
-\contentsline {appendix}{\chapternumberline {A}Pak kufferten}{67}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Mindmap}{69}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Questionnaire}{71}{appendix.C}
+\contentsline {appendix}{\chapternumberline {A}Pak kufferten}{69}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Mindmap}{71}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Questionnaire}{73}{appendix.C}
