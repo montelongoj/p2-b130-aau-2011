@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  11 MAY 2012 14:39
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  11 MAY 2012 14:53
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2523,22 +2523,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /discussion/Discussion.tex"
 
-! Package FiXme Error: 'ref til specification requirements' fatal error left in
- final version.
+LaTeX Warning: Reference `sec:spec' on page 69 undefined on input line 2.
 
-See the FiXme package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...fxfatal{ref til specification requirements}
-                                                   is integrated in the prod...
-
-? 
-Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
-line 2.
 [69] [70])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
-/discussion/Perspectivation.tex") [71] [72]
+/discussion/Perspectivation.tex" [71]) [72]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
 a/Conclusion.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
@@ -2559,7 +2548,7 @@ x/forslag.tex" [77
 
 ])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
-x/mindmap.tex" [78] <billeder/mindmap.png, id=1419, 328.8285pt x 478.78876pt>
+x/mindmap.tex" [78] <billeder/mindmap.png, id=1420, 328.8285pt x 478.78876pt>
 File: billeder/mindmap.png Graphic file (type png)
 
 <use billeder/mindmap.png>
@@ -2584,13 +2573,17 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
 (rerunfilecheck)             Checksum: 7E011E849365B54360D26C70FFAA37C4;5047.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 23349 strings out of 494049
- 413683 string characters out of 3146054
+ 23348 strings out of 494049
+ 413673 string characters out of 3146054
  555607 words of memory out of 3000000
- 25545 multiletter control sequences out of 15000+200000
+ 25544 multiletter control sequences out of 15000+200000
  29574 words of font info for 83 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  43i,20n,60p,1842b,2138s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2615,9 +2608,9 @@ m-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ub
 kd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
 
-Output written on Rapport.pdf (91 pages, 2096460 bytes).
+Output written on Rapport.pdf (91 pages, 2097289 bytes).
 PDF statistics:
- 1600 PDF objects out of 1728 (max. 8388607)
+ 1601 PDF objects out of 1728 (max. 8388607)
  474 named destinations out of 1000 (max. 500000)
  831 words of extra memory for PDF output out of 10000 (max. 10000000)
 
