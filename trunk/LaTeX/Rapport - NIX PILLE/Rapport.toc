@@ -88,6 +88,6 @@
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{73}{chapter.8}
 \contentsline {chapter}{Bibliography}{75}{section*.19}
 \cftpagenumbersoff {chapter}
-\contentsline {appendix}{\chapternumberline {A}Pak kufferten}{79}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Mindmap}{81}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Questionnaire}{83}{appendix.C}
+\contentsline {appendix}{\chapternumberline {A}Pak kufferten}{77}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Mindmap}{79}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Questionnaire}{81}{appendix.C}
