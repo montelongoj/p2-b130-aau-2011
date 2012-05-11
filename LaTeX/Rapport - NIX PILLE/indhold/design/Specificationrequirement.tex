@@ -1,49 +1,52 @@
 \section{Specification Requirements}
 \label{sec:Spec}
-Through the problem analysis it has been documented that there are some strict rules regarding some forms of public transportation when going on vacation. Based on this research a list of features has been composed, which the program must fulfill to meet the base requirements.
-Furthermore another list has also been made composed of some additional features that would make the program better and more user friendly. They are not needed for the base requirements, but rather as improvements to make the program even more ideal for the user.
+Through the problem analysis (see chapter \ref{chap:problem} it has been documented that there are strict rules regarding some forms of public transportation when going on vacation \ref{sec:LugRules}. Based on this research a list of features has been composed, which the program must fulfill to meet the base requirements \ref{sec:thesis}. Furthermore another list has also been composed of some additional features that would make the program better and more user friendly. They are not needed for the base requirements, but rather as improvements to make the program even more ideal for the user.
 
-To help the user get started on the program, there will be a guide included in the program. The guide gives an explanation on how to use the program. The guide will be short and well formulated so the user with ease can read and understand the guide.
-The project description states that the program must be written in C\#.
-The program itself needs to have a few features for it to solve the problem that is the focus of this project. The program needs to make sure that the weight is evenly distributed in the bags and that it does not exceed the bags weight limits. The program also needs to distribute the space of the bags to make sure that the program does not fill a bag more than there is physical room for.
-When the user is on the trip the program needs to have a function that allows the user to edit the list of items that are in the bag, so that if the user buys some souvenirs or throws something away, the list of items will be updated and thereby a new way to pack the luggage is given.
-The program also needs a function to help the user see where the items are placed in the luggage, so that the user can actually pack the suitcase(s).
-The program will also have to check that the suitcases are below the limits set for weight and size.
+Since it sometimes can be hard to use a new program, it is necessarily to have a guide or some instructions to the user to help them use the program the way it was designed. The guide should be short and well formulated so the user with ease can understand what to do in the program.
+The group has chosen to make it a requirement that the program should be written in C\#, since this is the language thought this semester.
+From the problem analysis it was concluded that some people have a tendency to pack their suitcase(s) too heavily and then getting fined when using transportation with limits on how much the luggage are allowed \ref{sec:overweight}. 
+This will be solved in the program in two ways. 
+Firstly the program will pack the suitcases using weight optimization - it will, if more suitcases are available, try to spread the items evenly between the suitcases. 
+Secondly a function must be made that makes it possible for the user to set a max weight for the luggage. This can help on the problem that some airplane companies have a maximum weight limit for luggage and will fine people carrying too heavy luggage. The reason that the program is not programmed to just follow a standard rule about how much the suitcase(s) are allowed to weight is because different companies have different rules.
+The program also needs to pack the best way according to the size of the suitcase(s) and item(s) so as many items as possible will be packed in the program, and that the program will not place any items outside the suitcase(s). This will help on the problem that some people have a problem with packing their suitcase(s) so everything will fit in the suitcase(s).
+To make the program more user friendly a list of all the items to be packed should be included and be able to be edited so the user can get a better overview on what they are asking the program to pack.
+To help the user through the process of packing the suitcase(s) the program will need to show the user where to put the items in the suitcase(s). This is a very essential feature in the program since if the user is not able to see or get a description of where where to put the items, the program will not in any way help the problem.
+Another thing that is essential for the program is that the user will be able to update the program and the lists while away on a trip. This will be needed if the user, while away, buy anything new and/or throws anything away. This can be solved by making a save/load function so the user is able to save his/her lists on their computer and later load them. This will also enable more than one user to use the same program without having to start all over again with putting in data every time.  
 
-There are some features that not are essential for the program to work but will improve the program. One of these features is to handle changeable shape of items e.g. a T-shirt or other forms of clothing. This makes the program able to pack more efficient. This means that to program can handle like solid, liquid and bendable shapes. But this may not be in the program at the start since this will be hard to develop and implement.
-To help packing better and plan ahead, the program needs a list of different trip types which can help the user pack the luggage for a given type of trip.
-Another nice feature to have is to allocate space for possible souvenirs the user might buys on the trip. These features means that the user does not need to check if there is room for the souvenirs before buying it.
+There are some features that are not essential for the program to work but will improve the program. 
+One of these features is to handle changeable shape of items e.g. a T-shirt or other forms of clothing. This makes the program able to pack more efficiently. This means that the program can handle solid, liquid and bendable shapes. But this may not be in the program at the beginning since this will be hard to develop and implement.
+To help get a better packing and plan ahead, the program needs a list of different trip types which can help the user pack the luggage for a given type of trip.
+Another nice feature to have is to allocate space for possible souvenirs the user might buy on the trip. These features means that the user does not need to check if there are room for the souvenirs before buying it.
 
 \subsection{Targeted Features}
-These are the essential features that the program will have.\newline
+These are the essential features that the program will have.
 
-\textbf{Program language is C\#}:
-The program need to written in C\# since the requirements for this project is that the program is written in C\#.
+\textbf{Program Language is C\#}:
+The program will be written in C\# since this is the programming language the group is learning this semester.
+\newline
 
-\textbf{Guide the user}:
+\textbf{Guide the User}:
 The program will have a small "read me" file, or another form of guide, which will tell the user how to use the program.
 \newline
 
-\textbf{Distribute weight}:
-The program must be able to distribute weight of items between multiple suitcases if there are more than one suitcase.
+\textbf{Distribute Weight}:
+The program must be able to distribute the weight of all the items between multiple suitcases if there are more than one suitcase.
 \newline
 
-\textbf{Distribute space}:
-The program also needs to distribute the items by space. The whole idea of the program, is that it should be able to tell the user how to pack the suitcase, and be able to tell if there is enough space for eventual souvenirs. Lastly it should inform the user how much space, if any, is left.
-\fxfatal{Men den fortæller jo ikke hvor meget plads der er tilbage og om der kan være souvenirs!}
+\textbf{Distribute Space}:
+The program also needs to distribute the items by space. The whole idea behind this program and project is to make a program able to pack a suitcase the best possible way with as little as possible wasted space.
 \newline
 
-\textbf{On the road}:
-The program will be able to tell you, while you are on the trip, if there is enough space for a souvenirs, if you input the dimensions and weight of that item. And if you want to remove an item from your luggage it can this as well.
+\textbf{On the Road}:
+The program will need to be able to be updated while away on a trip since if the user buys more or throws something away they will have the possibility to update the list and get the program to pack the suitcase(s) with the new item(s).
 \newline
 
-\textbf{Baggage rules}:
-The program will need to know basic baggage rules. For example the luggage must not weigh too much, and it must be below certain dimensions.
-\fxfatal{Der er da intet med basis regler i programmet eller noget om dimensioner!}
+\textbf{Baggage Rules}:
+The program will need to have a feature that allows the user to set a weight limit, so the bag will not extend the rules about how much the suitcase(s) are allowed to weight.
 \newline
 
-\textbf{Structure of packing}:
-When the user asks the program if an item will fit in the suitcase, the program will show exactly where in the suitcase the item will fit.
+\textbf{Structure of Packing}:
+The program will need a way of showing the user where to put all the items to pack.
 \newline
 
 \textbf{Packing list}:
@@ -51,7 +54,7 @@ To make it easier for the user to know what will be packed an editable lists wil
 \newline
 
 \textbf{Save/Load function}:
-To make the program easy to use on a trip, there is need for a function that can keep the data safe when the user closes the program.
+To save time a function to save and load lists of items and suitcases will be needed. This will make the program easier and faster to use since the user will not have to put in all the data about every item or suitcase every time he/she wants to use the program. It also enables more users to use the same program since they can save their own lists.
 \newline
 
 \subsection{Optional Features}
