@@ -44,19 +44,19 @@
 \contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Optional Features}{21}{subsection.4.1.2}
 \contentsline {section}{\numberline {4.2}Partner analysis}{21}{section.4.2}
-\contentsline {section}{\numberline {4.3}Solution suggestions}{21}{section.4.3}
+\contentsline {section}{\numberline {4.3}Solution suggestions}{22}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Application for smartphones}{22}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Extension for an existing program}{22}{subsection.4.3.2}
 \contentsline {subsection}{\numberline {4.3.3}Program for the computer}{22}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Choice of solution}{23}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Program planning}{23}{section.4.4}
-\contentsline {section}{\numberline {4.5}Sketches before programming of GUI}{25}{section.4.5}
-\contentsline {section}{\numberline {4.6}GUI Description}{32}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}3D-viewer}{36}{subsection.4.6.1}
-\contentsline {section}{\numberline {4.7}The Packing Algorithm}{38}{section.4.7}
-\contentsline {subsection}{\numberline {4.7.1}Optimization of weight}{38}{subsection.4.7.1}
-\contentsline {subsection}{\numberline {4.7.2}Description of the algorithm}{38}{subsection.4.7.2}
-\contentsline {subsection}{\numberline {4.7.3}Summing up}{41}{subsection.4.7.3}
+\contentsline {section}{\numberline {4.5}Sketches before programming of GUI}{26}{section.4.5}
+\contentsline {section}{\numberline {4.6}GUI Description}{33}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}3D-viewer}{37}{subsection.4.6.1}
+\contentsline {section}{\numberline {4.7}The Packing Algorithm}{39}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Optimization of weight}{39}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Description of the algorithm}{39}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}Summing up}{42}{subsection.4.7.3}
 \contentsline {chapter}{\chapternumberline {5}Development}{43}{chapter.5}
 \contentsline {section}{\numberline {5.1}How the program handles different forms}{43}{section.5.1}
 \contentsline {section}{\numberline {5.2}The Development of The Packing Algorithm}{44}{section.5.2}
