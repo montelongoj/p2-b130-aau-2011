@@ -12,10 +12,10 @@
 \contentsline {subsubsection}{Summing Up}{5}{section*.6}
 \contentsline {section}{\numberline {2.2}Luggage rules}{5}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Luggage table}{5}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Charter trips on air planes}{6}{subsection.2.2.2}
-\contentsline {subsubsection}{Checked-in luggage}{6}{section*.7}
-\contentsline {subsubsection}{Carry on}{6}{section*.8}
-\contentsline {subsection}{\numberline {2.2.3}Rules on trains}{7}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.2}Charter Trips on Air Planes}{6}{subsection.2.2.2}
+\contentsline {subsubsection}{Checked-in Luggage}{6}{section*.7}
+\contentsline {subsubsection}{Carry On}{6}{section*.8}
+\contentsline {subsection}{\numberline {2.2.3}Rules on Trains}{7}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {2.2.4}Rules on cruise ships}{7}{subsection.2.2.4}
 \contentsline {section}{\numberline {2.3}Luggage allowance}{7}{section.2.3}
 \contentsline {section}{\numberline {2.4}Solutions on the market}{8}{section.2.4}
