@@ -16,6 +16,8 @@ Warning--empty  in binpackingsource
 while executing---line 1495 of file bibtex/harvard.bst
 0 is an integer literal, not a string, for entry nphardnist
 while executing---line 1495 of file bibtex/harvard.bst
+0 is an integer literal, not a string, for entry airstat
+while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty year in rulestrain
 Warning--empty year in rulestrain
 1 is an integer literal, not a string, for entry rulestrain
@@ -52,8 +54,6 @@ Warning--empty year in Cruise
 1 is an integer literal, not a string, for entry Cruise
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in Cruise
-0 is an integer literal, not a string, for entry airstat
-while executing---line 1495 of file bibtex/harvard.bst
 0 is an integer literal, not a string, for entry binpackinggsu
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--can't use both author and editor fields in appofdismath

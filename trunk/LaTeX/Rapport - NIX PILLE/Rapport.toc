@@ -3,24 +3,24 @@
 \contentsline {chapter}{Prolog}{vii}{chapter*.1}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problem Analysis}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Problem of packing}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Packing}{4}{subsection.2.1.1}
-\contentsline {subsubsection}{Fees regarding luggage by flight}{4}{section*.2}
-\contentsline {subsubsection}{Different Transport Methods}{5}{section*.3}
-\contentsline {subsubsection}{Souvenirs on Vacation}{5}{section*.4}
-\contentsline {subsubsection}{Packing as a family}{5}{section*.5}
-\contentsline {subsubsection}{Round Up}{5}{section*.6}
-\contentsline {section}{\numberline {2.2}Luggage rules}{6}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Luggage table}{6}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.1}Problem with Packing a Suitcase}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Packing}{3}{subsection.2.1.1}
+\contentsline {subsubsection}{Fees Regarding Luggage by Flight}{4}{section*.2}
+\contentsline {subsubsection}{Different Transport Methods}{4}{section*.3}
+\contentsline {subsubsection}{Souvenirs on Vacation}{4}{section*.4}
+\contentsline {subsubsection}{Packing as a Family}{5}{section*.5}
+\contentsline {subsubsection}{Summing Up}{5}{section*.6}
+\contentsline {section}{\numberline {2.2}Luggage rules}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Luggage table}{5}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Charter trips on air planes}{6}{subsection.2.2.2}
 \contentsline {subsubsection}{Checked-in luggage}{6}{section*.7}
-\contentsline {subsubsection}{Carry on}{7}{section*.8}
+\contentsline {subsubsection}{Carry on}{6}{section*.8}
 \contentsline {subsection}{\numberline {2.2.3}Rules on trains}{7}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Rules on cruise ships}{8}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Luggage allowance}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Rules on cruise ships}{7}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Luggage allowance}{7}{section.2.3}
 \contentsline {section}{\numberline {2.4}Solutions on the market}{8}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}App - Packing Pro}{9}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}App - Checkmark Packlist}{10}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.1}App - Packing Pro}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}App - Checkmark Packlist}{9}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Online check/tip list}{10}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}The e-Commerce shipping calculator}{11}{subsection.2.4.4}
 \contentsline {subsection}{\numberline {2.4.5}Recapitulation}{11}{subsection.2.4.5}
