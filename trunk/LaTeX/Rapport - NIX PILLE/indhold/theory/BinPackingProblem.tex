@@ -1,41 +1,41 @@
-\section{Bin packing problem}
+\section{Bin Packing Problem}
 \label{sec:binpacking}
 
-The bin packing problem is an NP-hard problem when it is formulated as an optimization problem \citep{binpackinggsu}. This means that the problem is, in it self, harder than those that can be solved by a nondeterministic Turing machine in polynomial time \citep{nphardnist}.
+%The bin packing problem is an NP-hard problem when it is formulated as an optimization problem \citep{binpackinggsu}. This means that the problem is, in it self, harder than those that can be solved by a nondeterministic Turing machine in polynomial time \citep{nphardnist}.
 
-The problem consists of fitting objects of different sizes into bins of identical sizes \citep{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases. The only difference is the size, but basically are they the same. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations show how the packing algorithms work in one dimension - but it gives a basic understanding of the algorithms. Figure \ref{bpini} is an illustration of the unpacked elements:
-\figur{0.7}{initial.png}{Initial elements (Source: \citep{binpackingsource})}{bpini}
+The problem consists of fitting objects of different sizes into bins of identical sizes \citep{appofdismath}. This could for example be fitting various packages into shipping containers. There are various approaches to solve the bin packing problem. Bin packing problem is focusing on bins instead of suitcases. The only difference is the size, but basically they are the same. Some of the popular methods will be described in the following section. To describe these packing algorithms, illustrations will be used. The illustrations only show how the packing algorithms work in one dimension - but it gives a basic understanding of the algorithms. Figure \ref{bpini} is an illustration of the unpacked elements:
+\figur{0.7}{initial.png}{Initial elements (Source: \citep{binpackingsource}).}{bpini}
 
 Given below are examples of different fitting methods used when packing bins.
 
-\subsection{First fit (FF)}
-The first fit algorithm creates a list of the objects needed to be fitted into bins. It then runs through the list, checking if an item can fit in each bin. If it cannot fit in the first bin, it will check if it can fit in the second bin and so on. If it does not fit in any bins, it opens a new bin, and fits the object there. Figure \ref{bpff} is an illustration of the elements packed with the First fit algorithm.
-\figur{0.7}{ff.png}{Elements after FF has been applied (Source: \citep{binpackingsource})}{bpff}
+\subsection{First Fit (FF)}
+The First Fit algorithm creates a list of the objects needed to be fitted into bins. It then runs through the list, checking if an item can fit in each bin. If it cannot fit in the first bin, it will check if it can fit in the second bin and so on. If it does not fit in any bins, it opens a new bin, and fits the object there. Figure \ref{bpff} is an illustration of the elements packed with the First Fit algorithm.
+\figur{0.7}{ff.png}{Elements after FF has been applied (Source: \citep{binpackingsource}).}{bpff}
 
-\subsection{Best fit (BF)}
-The best fit algorithm is much the same as the first fit algorithm, except it does not fit the object into the first bin that can contain it, the algorithm compares it to each open bin, where the object fits. It will then place the object in the bin which will have the least space left when the object is packed. Figure \ref{bpbf} is an illustration of the elements packed with the Best fit algorithm.
-\figur{0.7}{bf.png}{Elements after BF has been applied (Source: \citep{binpackingsource})}{bpbf}
+\subsection{Best Fit (BF)}
+The Best Fit algorithm is much the same as the first fit algorithm, except it does not fit the object into the first bin that can contain it, the algorithm compares it to each open bin, where the object fits. It will then place the object in the bin which will have the least space left when the object is packed. Figure \ref{bpbf} is an illustration of the elements packed with the Best Fit algorithm.
+\figur{0.7}{bf.png}{Elements after BF has been applied (Source: \citep{binpackingsource}).}{bpbf}
 
-\subsection{Last fit (LF)}
-This algorithm packs the object in the last open bin which has room for it. This algorithm is thereby the opposite of the first fit algorithm. Figure \ref{bplf} is an illustration of the elements packed with the Last fit algorithm.
-\figur{0.7}{lf.png}{Elements after LF has been applied (Source: \citep{binpackingsource})}{bplf}
+\subsection{Last Fit (LF)}
+This algorithm packs the object in the last open bin which has room for it. This algorithm is thereby the opposite of the First Fit algorithm. Figure \ref{bplf} is an illustration of the elements packed with the Last Fit algorithm.
+\figur{0.7}{lf.png}{Elements after LF has been applied (Source: \citep{binpackingsource}).}{bplf}
 
-\subsection{Worst fit (WF)}
-The algorithm checks all the bins, and packs the object in the bin which has most empty space. As its name suggest, this algorithm is the opposite of the Best fit algorithm. Figure \ref{bpwf} is an illustration of the elements packed with the Worst fit algorithm. As the figure shows, the worst fit algorithm is in fact more effective than its name might suggest. 
-\figur{0.7}{wf.png}{Elements after WF has been applied (Source: \citep{binpackingsource})}{bpwf}
+\subsection{Worst Fit (WF)}
+The algorithm checks all the bins, and packs the object in the bin which has most empty space. As its name suggest, this algorithm is the opposite of the Best Fit algorithm. Figure \ref{bpwf} is an illustration of the elements packed with the Worst Fit algorithm. As the figure shows, the worst fit algorithm is in fact more effective than its name might suggest. 
+\figur{0.7}{wf.png}{Elements after WF has been applied (Source: \citep{binpackingsource}).}{bpwf}
 
-\subsection{Almost worst fit (AWF)}
-Similar to the worst fit algorithm, but the almost worst fit algorithm packs the object in the second most empty bin.  Figure \ref{bpawf} is an illustration of the elements packed with the almost worst fit algorithm.
-\figur{0.7}{awf.png}{Elements after AWF has been applied (Source: \citep{binpackingsource})}{bpawf}
+\subsection{Almost Worst Fit (AWF)}
+Similar to the Worst Fit algorithm, but the almost worst fit algorithm packs the object in the second most empty bin.  Figure \ref{bpawf} is an illustration of the elements packed with the almost Worst Fit algorithm.
+\figur{0.7}{awf.png}{Elements after AWF has been applied (Source: \citep{binpackingsource}).}{bpawf}
 
-\subsection{First fit decreasing(FFD)}
+\subsection{First Fit Decreasing(FFD)}
 The algorithms above are very ineffective because the biggest objects might be placed at the end of the list, and thus be packed in the end, where it is more effective to first pack these large objects.
-The first fit decreasing algorithms takes this into account and sorts the list before attempting to pack the items. This way the biggest items will be packed first.
+The First Fit Decreasing algorithm takes this into account and sorts the list before attempting to pack the items. This way the biggest items will be packed first.
 
-\subsection{Best fit decreasing(BFD)}
-Again this is the same as the best fit algorithm, but with the list being sorted before attempting to pack the objects.
+\subsection{Best Fit Decreasing(BFD)}
+Again this is the same as the Best Fit algorithm, but with the list being sorted before attempting to pack the objects.
 
-\subsection{Summing up}
-It seems that it is more effective to sort the lists before attempting to pack objects into bins. This way bigger objects are packed first, and the smaller objects can then be fitted around the bigger objects. However in some situations it is necessary to use unsorted lists. For example in a factory with continuous production, it is never possible to have the complete list of objects, and thus never possible to sort the list. This theory can be used to form the algorithm of this project, and use the others mathematical experiences as a benefit.
-
+\subsection{Summing Up}
+It seems that it is more effective to sort by decreasing size the lists before attempting to pack objects into bins. This way bigger objects are packed first, and the smaller objects can then be fitted around the bigger objects. However in some situations it is necessary to use unsorted lists. For example in a factory with continuous production, it is never possible to have the complete list of objects, and thus never possible to sort the list. This theory can be used to form the algorithm of this project, and use the others mathematical experiences as a benefit.
+\section{Comparison between Knapsack Problem and Binpacking Problem.}
 The main difference between the knapsack problem, see section \ref{sec:knapsack}, and the bin packing problem, is that with the knapsack problem a list of items. Each item with its own weight and value, must be fit into a fixed-size knapsack, so that the combined weight of the items are as low as possible, where the combined values must be as high as possible. In the bin packing problem, a list of items, each with given dimensions, each item must be packed into bins of a given capacity, so that a minimal number of bins are used. In this project the focus will be on the bin packing problem, because the goal is to pack items with given dimensions into suitcases (bins) of a given size. In other words, each item does not have a specific value - each item must be packed, which is why the bin packing problem have been chosen over the knapsack problem.

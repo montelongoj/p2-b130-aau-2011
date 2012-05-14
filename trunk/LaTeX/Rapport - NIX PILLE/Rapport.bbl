@@ -1,4 +1,4 @@
-\begin{thebibliography}{20}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -31,18 +31,6 @@
 \newblock Henrik Baumgarten.
 \newblock \textit{Det solgte de danske chartarbureauer sidste aar}, 2012.
 \newblock URL \url{http://www.takeoff.dk/news/22548}.
-
-\bibitem[Black(2010)]{nphardnist}
-\textbf{Black}, \textbf{October 2010}.
-\newblock Paul~E. Black.
-\newblock \textit{NP-hard}.
-\newblock website, 2010.
-\newblock URL \url{http://xlinux.nist.gov/dads/HTML/nphard.html}.
-\newblock Algorithms and Theory of Computation Handbook, CRC Press LLC, 1999,
-  "NP-hard", in Dictionary of Algorithms and Data Structures [online], Paul E.
-  Black, ed., U.S. National Institute of Standards and Technology. 25 October
-  2010. (accessed TODAY) Available from:
-  http://www.nist.gov/dads/HTML/nphard.html.
 
 \bibitem[{Bureau of Transportation Statistics (RITA)}(2012)]{airstat}
 \textbf{{Bureau of Transportation Statistics (RITA)}}, \textbf{23 jan 2012}.
@@ -103,13 +91,6 @@
 \newblock \textit{Cruise luggage}.
 \newblock URL
   \url{http://www.msccruises.dk/dk\_da/Krydstogtsguide/For-afrejsen.aspx}.
-
-\bibitem[Prasad(1999)]{binpackinggsu}
-\textbf{Prasad}, \textbf{May 1999}.
-\newblock Prof. Sushil~K. Prasad.
-\newblock \textit{Bin Packing Problem}.
-\newblock website, 1999.
-\newblock URL \url{http://www.cs.gsu.edu/~cscskp/Algorithms/NP/node11.html}.
 
 \bibitem[Rosen(1991)]{appofdismath}
 \textbf{Rosen}, \textbf{1991}.
