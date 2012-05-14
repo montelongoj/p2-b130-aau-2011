@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.7.2.
+% This file was created with JabRef 2.7.
 % Encoding: Cp1252
 
 @MISC{SAS,
@@ -102,6 +102,16 @@
   url = {http://www.roadandtravel.com/traveladvice/luggagepackingtips.htm}
 }
 
+@MISC{tspsource,
+  author = {{Georgia Institute of Technology}},
+  title = {Traveling Salesman Problem: The Problem},
+  month = {January},
+  year = {2007},
+  owner = {lewindows},
+  timestamp = {2012.04.27},
+  url = {http://www.tsp.gatech.edu/problem/index.html}
+}
+
 @MISC{checkpacklist,
   author = {GreenbeanSoft},
   title = {Checkmark Packlist},
@@ -203,16 +213,6 @@
   owner = {Aleksander},
   timestamp = {2012.02.22},
   url = {http://solvingmaze.com/demo}
-}
-
-@MISC{tspsource,
-  author = {Georgia Institute of Technology},
-  title = {Traveling Salesman Problem: The Problem},
-  month = {January},
-  year = {2007},
-  owner = {lewindows},
-  timestamp = {2012.04.27},
-  url = {http://www.tsp.gatech.edu/problem/index.html}
 }
 
 @MISC{packingpro,
