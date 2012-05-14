@@ -38,8 +38,6 @@ Warning--empty year in onlinecheck
 1 is an integer literal, not a string, for entry onlinecheck
 while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty  in onlinecheck
-1 is an integer literal, not a string, for entry checkpacklist
-while executing---line 1495 of file bibtex/harvard.bst
 Warning--empty year in idianrules
 Warning--empty year in idianrules
 1 is an integer literal, not a string, for entry idianrules
@@ -70,4 +68,4 @@ Warning--empty  in solvingmaze
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry Stricter_rules
 while executing---line 1495 of file bibtex/harvard.bst
-(There were 21 error messages)
+(There were 20 error messages)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{20}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -69,14 +69,6 @@
 \newblock Smart Travel press.
 \newblock URL
   \url{http://www.roadandtravel.com/traveladvice/luggagepackingtips.htm}.
-
-\bibitem[GreenbeanSoft(2010)]{checkpacklist}
-\textbf{GreenbeanSoft}, \textbf{2010}.
-\newblock GreenbeanSoft.
-\newblock \textit{Checkmark Packlist}.
-\newblock Andriodzoom, 2010.
-\newblock URL
-  \url{http://www.androidzoom.com/android\_applications/travel\_and\_local/checkmark-packlist\_sbut.html}.
 
 \bibitem[{Indian Railways}()]{idianrules}
 \textbf{\textbf{{Indian Railways}}}.
