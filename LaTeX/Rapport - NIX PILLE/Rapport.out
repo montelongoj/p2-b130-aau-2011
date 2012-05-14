@@ -20,57 +20,58 @@
 \BOOKMARK [1][-]{section.2.6}{Method}{chapter.2}% 20
 \BOOKMARK [0][-]{chapter.3}{Theory}{}% 21
 \BOOKMARK [1][-]{section.3.1}{Knapsack Problems}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.2}{Bin packing problem}{chapter.3}% 23
-\BOOKMARK [2][-]{subsection.3.2.1}{First fit \(FF\)}{section.3.2}% 24
-\BOOKMARK [2][-]{subsection.3.2.2}{Best fit \(BF\)}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.3}{Last fit \(LF\)}{section.3.2}% 26
-\BOOKMARK [2][-]{subsection.3.2.4}{Worst fit \(WF\)}{section.3.2}% 27
-\BOOKMARK [2][-]{subsection.3.2.5}{Almost worst fit \(AWF\)}{section.3.2}% 28
-\BOOKMARK [2][-]{subsection.3.2.6}{First fit decreasing\(FFD\)}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.7}{Best fit decreasing\(BFD\)}{section.3.2}% 30
-\BOOKMARK [2][-]{subsection.3.2.8}{Summing up}{section.3.2}% 31
-\BOOKMARK [0][-]{chapter.4}{Design}{}% 32
-\BOOKMARK [1][-]{section.4.1}{Specification Requirements}{chapter.4}% 33
-\BOOKMARK [2][-]{subsection.4.1.1}{Targeted Features}{section.4.1}% 34
-\BOOKMARK [2][-]{subsection.4.1.2}{Optional Features}{section.4.1}% 35
-\BOOKMARK [1][-]{section.4.2}{Partner analysis}{chapter.4}% 36
-\BOOKMARK [1][-]{section.4.3}{Solution suggestions}{chapter.4}% 37
-\BOOKMARK [2][-]{subsection.4.3.1}{Application for smartphones}{section.4.3}% 38
-\BOOKMARK [2][-]{subsection.4.3.2}{Extension for an existing program}{section.4.3}% 39
-\BOOKMARK [2][-]{subsection.4.3.3}{Program for the computer}{section.4.3}% 40
-\BOOKMARK [2][-]{subsection.4.3.4}{Choice of solution}{section.4.3}% 41
-\BOOKMARK [1][-]{section.4.4}{Program planning}{chapter.4}% 42
-\BOOKMARK [1][-]{section.4.5}{Sketches before programming of GUI}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.6}{GUI Description}{chapter.4}% 44
-\BOOKMARK [2][-]{subsection.4.6.1}{3D-viewer}{section.4.6}% 45
-\BOOKMARK [1][-]{section.4.7}{The Packing Algorithm}{chapter.4}% 46
-\BOOKMARK [2][-]{subsection.4.7.1}{Optimization of weight}{section.4.7}% 47
-\BOOKMARK [2][-]{subsection.4.7.2}{Description of the algorithm}{section.4.7}% 48
-\BOOKMARK [2][-]{subsection.4.7.3}{Summing up}{section.4.7}% 49
-\BOOKMARK [0][-]{chapter.5}{Development}{}% 50
-\BOOKMARK [1][-]{section.5.1}{How the program handles different forms}{chapter.5}% 51
-\BOOKMARK [1][-]{section.5.2}{The Development of The Packing Algorithm}{chapter.5}% 52
-\BOOKMARK [2][-]{subsection.5.2.1}{Classes}{section.5.2}% 53
-\BOOKMARK [2][-]{subsection.5.2.2}{Description of the Code}{section.5.2}% 54
-\BOOKMARK [2][-]{subsection.5.2.3}{Summing up}{section.5.2}% 55
-\BOOKMARK [1][-]{section.5.3}{Color Assignment Function}{chapter.5}% 56
-\BOOKMARK [1][-]{section.5.4}{How the Program Handles 3D}{chapter.5}% 57
-\BOOKMARK [2][-]{subsection.5.4.1}{Shape3D Class}{section.5.4}% 58
-\BOOKMARK [2][-]{subsection.5.4.2}{Polygon Class}{section.5.4}% 59
-\BOOKMARK [1][-]{section.5.5}{Function to draw cubes}{chapter.5}% 60
-\BOOKMARK [1][-]{section.5.6}{Rotate 3D-view with the mouse}{chapter.5}% 61
-\BOOKMARK [1][-]{section.5.7}{File Serialize function}{chapter.5}% 62
-\BOOKMARK [1][-]{section.5.8}{Instruction manual}{chapter.5}% 63
-\BOOKMARK [0][-]{chapter.6}{Testing}{}% 64
-\BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 65
-\BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 66
-\BOOKMARK [1][-]{section.6.3}{The Second Round of Tests}{chapter.6}% 67
-\BOOKMARK [1][-]{section.6.4}{Conclusion on the Tests}{chapter.6}% 68
-\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 69
-\BOOKMARK [1][-]{section.7.1}{Discussion}{chapter.7}% 70
-\BOOKMARK [1][-]{section.7.2}{Perspectivation}{chapter.7}% 71
-\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 72
-\BOOKMARK [0][-]{section*.18}{Bibliography}{}% 73
-\BOOKMARK [0][-]{appendix.A}{Pak kufferten}{}% 74
-\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 75
-\BOOKMARK [0][-]{appendix.C}{Questionnaire}{}% 76
+\BOOKMARK [1][-]{section.3.2}{Bin Packing Problem}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.2.1}{First Fit \(FF\)}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.2}{Best Fit \(BF\)}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.3}{Last Fit \(LF\)}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.4}{Worst Fit \(WF\)}{section.3.2}% 27
+\BOOKMARK [2][-]{subsection.3.2.5}{Almost Worst Fit \(AWF\)}{section.3.2}% 28
+\BOOKMARK [2][-]{subsection.3.2.6}{First Fit Decreasing\(FFD\)}{section.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.2.7}{Best Fit Decreasing\(BFD\)}{section.3.2}% 30
+\BOOKMARK [2][-]{subsection.3.2.8}{Summing Up}{section.3.2}% 31
+\BOOKMARK [1][-]{section.3.3}{Comparison between Knapsack Problem and Binpacking Problem}{chapter.3}% 32
+\BOOKMARK [0][-]{chapter.4}{Design}{}% 33
+\BOOKMARK [1][-]{section.4.1}{Specification Requirements}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.1.1}{Targeted Features}{section.4.1}% 35
+\BOOKMARK [2][-]{subsection.4.1.2}{Optional Features}{section.4.1}% 36
+\BOOKMARK [1][-]{section.4.2}{Partner analysis}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.3}{Solution suggestions}{chapter.4}% 38
+\BOOKMARK [2][-]{subsection.4.3.1}{Application for smartphones}{section.4.3}% 39
+\BOOKMARK [2][-]{subsection.4.3.2}{Extension for an existing program}{section.4.3}% 40
+\BOOKMARK [2][-]{subsection.4.3.3}{Program for the computer}{section.4.3}% 41
+\BOOKMARK [2][-]{subsection.4.3.4}{Choice of solution}{section.4.3}% 42
+\BOOKMARK [1][-]{section.4.4}{Program planning}{chapter.4}% 43
+\BOOKMARK [1][-]{section.4.5}{Sketches before programming of GUI}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.6}{GUI Description}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.6.1}{3D-viewer}{section.4.6}% 46
+\BOOKMARK [1][-]{section.4.7}{The Packing Algorithm}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.7.1}{Optimization of weight}{section.4.7}% 48
+\BOOKMARK [2][-]{subsection.4.7.2}{Description of the algorithm}{section.4.7}% 49
+\BOOKMARK [2][-]{subsection.4.7.3}{Summing up}{section.4.7}% 50
+\BOOKMARK [0][-]{chapter.5}{Development}{}% 51
+\BOOKMARK [1][-]{section.5.1}{How the program handles different forms}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.2}{The Development of The Packing Algorithm}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.2.1}{Classes}{section.5.2}% 54
+\BOOKMARK [2][-]{subsection.5.2.2}{Description of the Code}{section.5.2}% 55
+\BOOKMARK [2][-]{subsection.5.2.3}{Summing up}{section.5.2}% 56
+\BOOKMARK [1][-]{section.5.3}{Color Assignment Function}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.4}{How the Program Handles 3D}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.4.1}{Shape3D Class}{section.5.4}% 59
+\BOOKMARK [2][-]{subsection.5.4.2}{Polygon Class}{section.5.4}% 60
+\BOOKMARK [1][-]{section.5.5}{Function to draw cubes}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.6}{Rotate 3D-view with the mouse}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.7}{File Serialize function}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.8}{Instruction manual}{chapter.5}% 64
+\BOOKMARK [0][-]{chapter.6}{Testing}{}% 65
+\BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 67
+\BOOKMARK [1][-]{section.6.3}{The Second Round of Tests}{chapter.6}% 68
+\BOOKMARK [1][-]{section.6.4}{Conclusion on the Tests}{chapter.6}% 69
+\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 70
+\BOOKMARK [1][-]{section.7.1}{Discussion}{chapter.7}% 71
+\BOOKMARK [1][-]{section.7.2}{Perspectivation}{chapter.7}% 72
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 73
+\BOOKMARK [0][-]{section*.18}{Bibliography}{}% 74
+\BOOKMARK [0][-]{appendix.A}{Pak kufferten}{}% 75
+\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 76
+\BOOKMARK [0][-]{appendix.C}{Questionnaire}{}% 77
