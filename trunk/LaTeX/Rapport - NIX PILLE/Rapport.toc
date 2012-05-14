@@ -24,20 +24,21 @@
 \contentsline {subsection}{\numberline {2.4.2}Online check/tip list}{9}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}The e-Commerce shipping calculator}{10}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}Summing Up}{11}{subsection.2.4.4}
-\contentsline {section}{\numberline {2.5}Problem Statement}{12}{section.2.5}
+\contentsline {section}{\numberline {2.5}Problem Statement}{11}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}Sub Statements}{12}{subsection.2.5.1}
 \contentsline {section}{\numberline {2.6}Method}{13}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}Theory}{15}{chapter.3}
 \contentsline {section}{\numberline {3.1}Knapsack Problems}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Bin packing problem}{16}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}First fit (FF)}{16}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Best fit (BF)}{16}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Last fit (LF)}{17}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Worst fit (WF)}{17}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Almost worst fit (AWF)}{17}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}First fit decreasing(FFD)}{18}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Best fit decreasing(BFD)}{18}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Summing up}{18}{subsection.3.2.8}
+\contentsline {section}{\numberline {3.2}Bin Packing Problem}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}First Fit (FF)}{16}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Best Fit (BF)}{16}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Last Fit (LF)}{17}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Worst Fit (WF)}{17}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Almost Worst Fit (AWF)}{17}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}First Fit Decreasing(FFD)}{18}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Best Fit Decreasing(BFD)}{18}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Summing Up}{18}{subsection.3.2.8}
+\contentsline {section}{\numberline {3.3}Comparison between Knapsack Problem and Binpacking Problem}{18}{section.3.3}
 \contentsline {chapter}{\chapternumberline {4}Design}{19}{chapter.4}
 \contentsline {section}{\numberline {4.1}Specification Requirements}{19}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
