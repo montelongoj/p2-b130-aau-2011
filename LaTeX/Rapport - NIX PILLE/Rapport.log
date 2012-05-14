@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  14 MAY 2012 15:17
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  14 MAY 2012 15:19
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -1963,12 +1963,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
-[20]
+
 Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
  []
 
-
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
@@ -2496,7 +2496,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
 Here is how much of TeX's memory you used:
  23345 strings out of 494049
  413499 string characters out of 3146054
- 556192 words of memory out of 3000000
+ 557192 words of memory out of 3000000
  25540 multiletter control sequences out of 15000+200000
  29574 words of font info for 83 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
@@ -2522,7 +2522,7 @@ m-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ub
 kd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
 
-Output written on Rapport.pdf (91 pages, 2060413 bytes).
+Output written on Rapport.pdf (91 pages, 2060377 bytes).
 PDF statistics:
  1609 PDF objects out of 1728 (max. 8388607)
  475 named destinations out of 1000 (max. 500000)
