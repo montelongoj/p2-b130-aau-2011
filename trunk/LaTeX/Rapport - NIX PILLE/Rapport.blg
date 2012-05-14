@@ -2,6 +2,12 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Rapport.aux
 The style file: bibtex/harvard.bst
 url: is an unknown function---line 330 of file bibtex/harvard.bst
 Database file #1: BibTeX/sources.bib
+Warning--I didn't find a database entry for "DangerousGoods"
+Warning--empty year in SAS
+Warning--empty year in SAS
+1 is an integer literal, not a string, for entry SAS
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in SAS
 Warning--empty year in Prohibited_luggage
 Warning--empty year in Prohibited_luggage
 1 is an integer literal, not a string, for entry Prohibited_luggage
@@ -68,4 +74,4 @@ Warning--empty  in solvingmaze
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry Stricter_rules
 while executing---line 1495 of file bibtex/harvard.bst
-(There were 20 error messages)
+(There were 21 error messages)
