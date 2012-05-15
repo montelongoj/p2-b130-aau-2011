@@ -1,8 +1,13 @@
+//If the packing is done, show the 3D-Viewer
 if (finish_packing)
 {
+    //Parse the lists to the 3D-Viewer
     frm3DViewer frm3D = new frm3DViewer(luggage_items_to_pack, luggages_to_pack, this);
+    //Timer stops when the packing is done
     tmrCheckForFinishPacking.Enabled = false;
+    //Prepares for a new packing
     finish_packing = false;
+    //Show the 3D-Viewer
     frm3D.ShowDialog(this);
     
 }

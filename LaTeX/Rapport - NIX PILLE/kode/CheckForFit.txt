@@ -1,10 +1,15 @@
+// Set the check_for_fit variable to true. If the item cannot by packed in one or more points, it will be set to false.
 bool check_for_fit = true;
+// Loop which will run through every implicated z-point
 for (int count_z = pivot_test_point.z; count_z < pivot_test_point.z + test_item.height; count_z++)
 {
+    // Loop which will run through every implicated y-point
     for (int count_y = pivot_test_point.y; count_y < pivot_test_point.y + test_item.depth; count_y++)
     {
+        // Loop which will run through every implicated x-point
         for (int count_x = pivot_test_point.x; count_x < pivot_test_point.x + test_item.width; count_x++)
         {
+            // If there are placed an item in this point, set check_for_fit to false
             if (value[count_x, count_y, count_z] != 0)
             {
                 check_for_fit = false;
@@ -12,4 +17,5 @@ for (int count_z = pivot_test_point.z; count_z < pivot_test_point.z + test_item.
         }
     }
 }
+
 return check_for_fit;

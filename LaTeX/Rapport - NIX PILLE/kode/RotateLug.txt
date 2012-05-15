@@ -1,5 +1,7 @@
 //Rotate so width is the longest side
 int temp;
+
+//If the depth is higher than the width, switch the values
 if (depth > width)
 {
     temp = depth;
@@ -7,6 +9,7 @@ if (depth > width)
     width = temp;
 }
 
+//If the height is higher than the depth, switch the values
 if (height > depth)
 {
     temp = height;
@@ -14,6 +17,7 @@ if (height > depth)
     depth = temp;
 }
 
+//If the depth is higher than the width, switch the values
 if (depth > width)
 {
     temp = depth;

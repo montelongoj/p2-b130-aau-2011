@@ -1,6 +1,10 @@
-this.weight   = info.GetInt32  ("weight");
-this.width    = info.GetInt32  ("width");
-this.height   = info.GetInt32  ("height");
-this.depth    = info.GetInt32  ("depth");
-this.name     = info.GetString ("name");
-this.number_of_items = info.GetInt32("number");
+/*here the info for the class is made for the FileSerializer to open and read the file*/
+private luggage_item(SerializationInfo info, StreamingContext ctxt)
+{
+    this.weight   = info.GetInt32  ("weight");
+    this.width    = info.GetInt32  ("width");
+    this.height   = info.GetInt32  ("height");
+    this.depth    = info.GetInt32  ("depth");
+    this.name     = info.GetString ("name");
+    this.number_of_items = info.GetInt32("number");
+}

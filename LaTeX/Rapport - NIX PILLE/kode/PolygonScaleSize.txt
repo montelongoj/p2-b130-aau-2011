@@ -1,8 +1,11 @@
+   //B130 method to scale vectors
 public Polygon ScaleSize(float d)
 {
 	int count=0;
 	Vector[] retVec=new Vector[Len];
+       //For each Vector in the polygon, call the ScaleSize method from the vector class on the vector
 	foreach (Vector vec in vectors)
 		retVec[count++]=vec.ScaleSize(d);
+       //Return the new polygon. 
 	return new Polygon(ZVal,Zero,retVec);		
 }

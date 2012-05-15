@@ -1,13 +1,14 @@
 if (Not_Packed_Items.Count > 0)
 {
-    string error_message;
+    //Start the error_message string
+    string error_message = "All your items could not be packed. This could be because of lack of space or too heavy items. The rest of the items, has been packed. The items are:\r\n";
 
-    error_message = "All your items could not be packed. This could be because of lack of space or too heavy items. The rest of the items, has been packed. The items are:\r\n";
-
+    //Add each not packed item to the string
     foreach (luggage_item not_packed_item in Not_Packed_Items)
     {
         error_message += not_packed_item.name + "\r\n";
     }
 
+    //Print the error message in a MessageBox
     MessageBox.Show(error_message, "Fatal error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 }

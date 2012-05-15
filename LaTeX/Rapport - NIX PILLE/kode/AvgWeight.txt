@@ -1,4 +1,9 @@
-if (stop_check_for_avg_weight == true || (luggages_to_pack[lug_id].weight + luggage_items_to_pack[lug_items_counter].weight <= weight_per_luggage))
+if (stop_check_for_avg_weight == true || 
+    (luggages_to_pack[lug_id].weight + 
+     luggage_items_to_pack[lug_items_counter].weight <= 
+     weight_per_luggage))
 {
-    if (luggages_to_pack[lug_id].weight + luggage_items_to_pack[lug_items_counter].weight < luggages_to_pack[lug_id].max_weight)
+    if (luggages_to_pack[lug_id].weight + 
+        luggage_items_to_pack[lug_items_counter].weight < 
+        luggages_to_pack[lug_id].max_weight)
     {

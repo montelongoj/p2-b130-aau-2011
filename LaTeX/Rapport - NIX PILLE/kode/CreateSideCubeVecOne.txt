@@ -1,1 +1,2 @@
+//Calculate the first point in the cube
 points1[0] = new Vector(item_point_x - lug_half_width, item_point_z + lug_half_height, item_point_y + lug_half_depth).ScaleSize(zoom_factor);

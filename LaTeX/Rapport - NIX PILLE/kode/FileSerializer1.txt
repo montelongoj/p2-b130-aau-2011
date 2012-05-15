@@ -1,6 +1,10 @@
-info.AddValue("weight",this.weight);
-info.AddValue("width", this.width);
-info.AddValue("height", this.height);
-info.AddValue("depth", this.depth);
-info.AddValue("name", this.name);
-info.AddValue("number", this.number_of_items);
+/*here the info for the class is made for the FileSerializer so it can make the file*/
+public void GetObjectData(SerializationInfo info, StreamingContext context)
+{
+    info.AddValue("weight",this.weight);
+    info.AddValue("width", this.width);
+    info.AddValue("height", this.height);
+    info.AddValue("depth", this.depth);
+    info.AddValue("name", this.name);
+    info.AddValue("number", this.number_of_items);
+}

@@ -1,3 +1,4 @@
+//Create a polygon from the four calculated points, and add it to the polygon array
 poly_array[poly_counter] = new Polygon(1000, z, points1);
 poly_array[poly_counter].MyPen = new Pen(itempen.Color, itempen.Width);
 poly_counter++;
