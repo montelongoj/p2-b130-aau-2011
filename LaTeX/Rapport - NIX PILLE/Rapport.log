@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 14:36
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 15:19
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2420,7 +2420,7 @@ userotate.txt"))
 /development/FileSerializerFunction.tex"
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Fi
 leSerializer1.txt")
-Underfull \vbox (badness 1014) has occurred while \output is active []
+Underfull \vbox (badness 1275) has occurred while \output is active []
 
  [61]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Fi
@@ -2504,7 +2504,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
 Here is how much of TeX's memory you used:
  24409 strings out of 494049
  435957 string characters out of 3146054
- 585383 words of memory out of 3000000
+ 585418 words of memory out of 3000000
  26612 multiletter control sequences out of 15000+200000
  26098 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
@@ -2531,7 +2531,7 @@ blic/cm-super/sftt0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/cm-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/book
 man/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8
 a.pfb>
-Output written on Rapport.pdf (89 pages, 6284703 bytes).
+Output written on Rapport.pdf (89 pages, 6284771 bytes).
 PDF statistics:
  1615 PDF objects out of 1728 (max. 8388607)
  474 named destinations out of 1000 (max. 500000)
