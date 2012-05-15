@@ -40,5 +40,38 @@
 \BOOKMARK [2][-]{subsection.4.3.2}{Extension for an existing program}{section.4.3}% 40
 \BOOKMARK [2][-]{subsection.4.3.3}{Program for the computer}{section.4.3}% 41
 \BOOKMARK [2][-]{subsection.4.3.4}{Choice of solution}{section.4.3}% 42
-\BOOKMARK [1][-]{section.4.4}{Program planning}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.5}{Sketches before programming of GUI}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.4}{The Planning of the Packing Algorithm}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.1}{Optimization by weight}{section.4.4}% 44
+\BOOKMARK [2][-]{subsection.4.4.2}{Description of the algorithm}{section.4.4}% 45
+\BOOKMARK [2][-]{subsection.4.4.3}{Summing up}{section.4.4}% 46
+\BOOKMARK [1][-]{section.4.5}{Program planning}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.6}{Sketches before programming of GUI}{chapter.4}% 48
+\BOOKMARK [0][-]{chapter.5}{Development}{}% 49
+\BOOKMARK [1][-]{section.5.1}{GUI Description}{chapter.5}% 50
+\BOOKMARK [2][-]{subsection.5.1.1}{3D-viewer}{section.5.1}% 51
+\BOOKMARK [1][-]{section.5.2}{How the program handles different forms}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.3}{The Development of The Packing Algorithm}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.3.1}{Classes}{section.5.3}% 54
+\BOOKMARK [2][-]{subsection.5.3.2}{Description of the Code}{section.5.3}% 55
+\BOOKMARK [2][-]{subsection.5.3.3}{Summing up}{section.5.3}% 56
+\BOOKMARK [1][-]{section.5.4}{Color Assignment Function}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.5}{How the Program Handles 3D}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.5.1}{Shape3D Class}{section.5.5}% 59
+\BOOKMARK [2][-]{subsection.5.5.2}{Polygon Class}{section.5.5}% 60
+\BOOKMARK [1][-]{section.5.6}{Function to draw cubes}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.7}{Rotate 3D-view with the mouse}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.8}{File Serialize function}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.9}{Instruction manual}{chapter.5}% 64
+\BOOKMARK [0][-]{chapter.6}{Testing}{}% 65
+\BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 67
+\BOOKMARK [1][-]{section.6.3}{The Second Round of Tests}{chapter.6}% 68
+\BOOKMARK [1][-]{section.6.4}{Conclusion on the Tests}{chapter.6}% 69
+\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 70
+\BOOKMARK [1][-]{section.7.1}{Discussion}{chapter.7}% 71
+\BOOKMARK [1][-]{section.7.2}{Perspectivation}{chapter.7}% 72
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 73
+\BOOKMARK [0][-]{section*.18}{Bibliography}{}% 74
+\BOOKMARK [0][-]{appendix.A}{Pak kufferten}{}% 75
+\BOOKMARK [0][-]{appendix.B}{Mindmap}{}% 76
+\BOOKMARK [0][-]{appendix.C}{Questionnaire}{}% 77
