@@ -25,7 +25,7 @@ When the points has been loaded into the new Vector, the vector is scaled by a f
 
 These calculations are shown on Listing \ref{lst:vectorone}
 
-\kode{Calculate the points of the first vector}{vectorone}{CreateSideCubeVecOne.txt}
+\kode{Calculates the points of the first vector}{vectorone}{CreateSideCubeVecOne.txt}
 
 From the calculations above the first Vectors coordinates are as follows (-50, 25, 40), and can be seen on Figure  \ref{fig:imageoffirstpointoffirstvector}.
 \figur{0.7}{3.PNG}{First point of the first side of the example item}{fig:imageoffirstpointoffirstvector}
@@ -35,7 +35,7 @@ The common point of the first and the second Vector is the x point.
 The y coordinate of the second Vector is calculated by subtracting the item depth from the item's y-coordinate and then adding half of the suitcase height. With the example item, this gives an y-coordinate of the second vector of -15 (-0 - 40 + (50/2)).
 The z-coordinate of the second Vector is calculated by adding the y-coordinate of the item to half of the suitcase depth. This gives a z-point of the second vector of 40 (-0 + (80/2)). The calculations can be seen on Listing \ref{lst:vectortwo}.
 
-\kode{Calculate the points of the second vector}{vectortwo}{CreateSideCubeVecTwo.txt}
+\kode{Calculates the points of the second vector}{vectortwo}{CreateSideCubeVecTwo.txt}
 
 The second Vector thereby becomes [-50; -15; 40], and can be seen on Figure \ref{fig:imageoffirstpointofsecondvector}.
 \figur{0.7}{4.PNG}{First point of the first side of the example item}{fig:imageoffirstpointofsecondvector}
@@ -43,7 +43,7 @@ The second Vector thereby becomes [-50; -15; 40], and can be seen on Figure \ref
 Now for calculating the third Vector. The third Vector has both the y- and z- coordinates in common with the second Vector. These are thereby accordingly -15 and 40. 
 To calculate the x-coordinate, the x-point of the item is added to the width of the item, while the half of the width of the suitcase is subtracted from this. To continue the example, the x-coordinate of the third Vector would thereby become: 20 (0 + 70 - (100/2)). The calculations can be seen on Listing \ref{lst:vectorthree}.
 
-\kode{Calculate the points of the third vector}{vectorthree}{CreateSideCubeVecThree.txt}
+\kode{Calculates the points of the third vector}{vectorthree}{CreateSideCubeVecThree.txt}
 
 The third Vector thereby becomes [20; -15; 40], and can be seen on Figure \ref{fig:imageoffirstpointofthirdvector}.
 \figur{0.7}{5.PNG}{First point of the first side of the example item}{fig:imageoffirstpointofthirdvector}
@@ -51,7 +51,7 @@ The third Vector thereby becomes [20; -15; 40], and can be seen on Figure \ref{f
 
 The fourth Vector has both the x- and z-coordinate in common with the third Vector, while having the y-coordinate in common with the first Vector. The calculations can be seen on Listing \ref{lst:vectorfour}.
 
-\kode{Calculate the points of the fourth vector}{vectorfour}{CreateSideCubeVecFour.txt}
+\kode{Calculates the points of the fourth vector}{vectorfour}{CreateSideCubeVecFour.txt}
 
 The fourth Vector thereby becomes (20, 25, 50), and can be seen on Figure \ref{fig:imageoffirstpointoffourthvector}.
 \figur{0.7}{6.PNG}{First point of the first side of the example item}{fig:imageoffirstpointoffourthvector}
@@ -62,7 +62,7 @@ By drawing a line between these four points, it is clear that these forms a squa
 
 When the four Vectors has been calculated, the Vectors are inserted into a new Polygon, which is inserted into an array of polygons.  Next the current Polygon (the one just created), is assigned a Pen. The Pen contains the color and the width of the Polygon. This can be seen on Listing \ref{lst:addtopolyandaddtoarrayandassignpen}
 
-\kode{Calculate the points of the fourth vector}{addtopolyandaddtoarrayandassignpen}{AddVecToPolyArray.txt}
+\kode{Calculates the points of the fourth vector}{addtopolyandaddtoarrayandassignpen}{AddVecToPolyArray.txt}
 
 This was the first side of the item, it is basically the the same for the rest of the sides. 
 
