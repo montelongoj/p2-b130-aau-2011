@@ -50,21 +50,21 @@
 \contentsline {subsection}{\numberline {4.3.3}Program for the computer}{23}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Choice of solution}{23}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}The Planning of the Packing Algorithm}{24}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Optimization by weight}{24}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Description of the algorithm}{24}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Summing up}{26}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.1}Optimization by Weight}{24}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Description of the Algorithm}{24}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Summing Up}{26}{subsection.4.4.3}
 \contentsline {section}{\numberline {4.5}Program planning}{26}{section.4.5}
 \contentsline {section}{\numberline {4.6}Sketches before programming of GUI}{28}{section.4.6}
 \contentsline {chapter}{\chapternumberline {5}Development}{37}{chapter.5}
 \contentsline {section}{\numberline {5.1}GUI Description}{37}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}3D-viewer}{41}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.1}3D-viewer}{42}{subsection.5.1.1}
 \contentsline {section}{\numberline {5.2}How the program handles different forms}{42}{section.5.2}
 \contentsline {section}{\numberline {5.3}The Development of The Packing Algorithm}{43}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Classes}{43}{subsection.5.3.1}
-\contentsline {subsubsection}{The Class "luggage"}{43}{section*.9}
-\contentsline {subsubsection}{The class "luggage\_item"}{44}{section*.10}
+\contentsline {subsubsection}{The Class "luggage"}{44}{section*.9}
+\contentsline {subsubsection}{The class "luggage\_item"}{45}{section*.10}
 \contentsline {subsubsection}{Using the Classes}{45}{section*.11}
-\contentsline {subsection}{\numberline {5.3.2}Description of the Code}{45}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.2}Description of the Code}{46}{subsection.5.3.2}
 \contentsline {subsubsection}{Reset and Sorting}{46}{section*.12}
 \contentsline {subsubsection}{Weight Distribution}{46}{section*.13}
 \contentsline {subsubsection}{Checking For Fit in Pivot Points}{47}{section*.14}
