@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -38,6 +38,13 @@
 \newblock \textit{Baggage fees by airline}, 2012.
 \newblock URL
   \url{http://www.bts.gov/programs/airline\_information/baggage\_fees/}.
+
+\bibitem[CPH()]{DangerousGoods}
+\textbf{\textbf{CPH}}.
+\newblock CPH.
+\newblock \textit{Farligt Gods}.
+\newblock URL
+  \url{http://www.cph.dk/CPH/DK/MAIN/Foer+afrejse/Bagage/Forbudt+i+h%C3%A5ndbagage.htm?WT.ac=Link-t-CPH-fra-farligt-gods}.
 
 \bibitem[DSB()]{rulestrain}
 \textbf{\textbf{DSB}}.
@@ -111,9 +118,9 @@
 \newblock \textit{The e-Commerce shipping Calculator demo}.
 \newblock URL \url{http://solvingmaze.com/demo}.
 
-\bibitem[{Top Iphone Application}(2011)]{packingpro}
-\textbf{{Top Iphone Application}}, \textbf{february 2011}.
-\newblock {Top Iphone Application}.
+\bibitem[{Top iPhone Application}(2011)]{packingpro}
+\textbf{{Top iPhone Application}}, \textbf{february 2011}.
+\newblock {Top iPhone Application}.
 \newblock \textit{Luggage packing app}, 2011.
 \newblock URL \url{http://www.topiphoneapplication.com/luggage-packing-app/}.
 
