@@ -1,39 +1,26 @@
 \section{Function to draw cubes}
 \label{sec:cube}
 The function called "DrawSomething" is the function which basically converts dimensions and coordinates into the vectors that are to be drawn.
-"DrawSomething" takes 11 input parameters. Simply put, these inputs are the dimensions and coordinates of the cube to be drawn represented as floats. Next the function takes 3 integers which are: The number of the suitcase, the item to be drawn lies in, the factor of zoom that should be applied to the item, and the index of the array of polygons that has currently been reached. Lastly, the function takes a Vector and a Pen as input.
+"DrawSomething" takes 11 input parameters. These inputs are the dimensions and coordinates of the cube to be drawn represented as floats. Next the function takes 3 integers which are: The number of the suitcase, the item to be drawn lies in, the factor of zoom that should be applied to the item, and the index of the array of polygons that has currently been reached. Lastly, the function takes a Vector and a Pen as input.
 
-The "Pen" represents the color and width of the cube to be drawn. For example the function could draw a red cube with 5 pixel lines. The Vector is essentially a dummy-vector, because the polygon class requires a vector in its constructor, but the Vector is set to zero in the class.
-
-In the beginning of the function some variables are defined. These are the start location of the drawing. Four Vector arrays are created each holding 4 Vectors, which together form a square.
-
+The "Pen" represents the color and width of the cube to be drawn. For example the function could draw a red cube with 5 pixel lines. In the beginning of the function some variables are defined. These are the start location of the drawing. Four Vector arrays are created each holding 4 Vectors, which together form a square.
 Three floats are defined, they will contain half of each of the dimensions of the item.
 The current items y and z coordinate is inverted, because of the way the Vectors will be calculated later. 
+The function contains a conditional expression which checks which type of cube the function should generate. This is because the function can be used to generate a suitcase, the items in the suitcase, and a small cube(which represents the [0;0;0] point of the suitcase). 
 
-The function contains a conditional expression which checks which type of cube the function should generate. This is because the function can be used to generate a suitcase, the items in the suitcase, and a small cube(which represents the 0,0,0 point of the suitcase). 
-
-The expressions checks on the lug\_num variable which is really the number of the suitcase the item lies in. But if the lug\_num is set to -1, it means that the function should draw a suitcase instead of an item. And because the drawing should rotate around itself, it has to take the coordinates of each item and subtract half of the suitcase dimension. This in turn makes sure that the 0,0,0 point of the coordinates systems will be placed in the middle of the suitcase, allowing the user to rotate the suitcase around itself, but the small cube is still placed in the suitcase's 0,0,0 point.
-
+The expressions checks on the lug\_num variable which is really the number of the suitcase the item lies in. But if the lug\_num is set to -1, it means that the function should draw a suitcase instead of an item. And because the drawing should rotate around itself, it has to take the coordinates of each item and subtract half of the suitcase dimension. This in turn makes sure that the [0;0;0] point of the coordinates systems will be placed in the middle of the suitcase, allowing the user to rotate the suitcase around itself, but the small cube is still placed in the suitcase's [0;0;0] point.
 So if the function has to draw a suitcase, it sets the suitcase dimensions to the half of the dimensions received as input.
-
 If the function is to draw an item in the suitcase, the function will find the item's dimensions and half of the suitcase's dimensions, and use these to manipulate the start point of the current item. This is to place the item correctly inside the suitcase in the drawing, while allowing the user to rotate the suitcase around itself. 
-
-If the function receives -2 as the lug\_num, it means that it should draw a small cube with dimensions 0.5 x 0.5 x 0.5 at the suitcase's 0,0,0 point.
+If the function receives -2 as the lug\_num, it means that it should draw a small cube with dimensions 0.5 × 0.5 × 0.5 at the suitcase's [0;0;0] point.
 
 After the conditional expression, the dimensions of the input item is subtracted by 0.01. This is so no item touch another item, allowing the user to identify each item easily. 
-
 The next part of the function is where the Vectors are calculated and put together into a Polygon and inserted into the array of Polygons. Only the part where the first Polygon is calculated will be explained, because the three next is essentially the same, but with the vectors pointing in other directions, forming the other side of the cube which will be drawn.
-
 A Vector contains three points, x, y and z. It is these points that now will be calculated. Earlier four Vector arrays were created: points1, points2, points3, and points4. Each of these Vector arrays contains four vectors to form 1 side of the cube to be drawn. 
-
 Keep in mind that the y and z coordinates of the item to be drawn was inverted earlier. 
+To calculate the x-point of the first vector of the first side, the function takes the x-coordinate and subtracts half of the suitcase's width. This is again because the [0;0;0] point of the drawing must be in the middle of the suitcase. The y and z point of the first vector is essentially the same, but adding half of the width and depth of the suitcase.
 
-To calculate the x-point of the first vector of the first side, the function takes the x-coordinate and subtracts half of the suitcase's width. This is again because the 0,0,0 point of the drawing must be in the middle of the suitcase. The y and z point of the first vector is essentially the same, but adding half of the width and depth of the suitcase.
-
-For example if the program has a suitcase with the dimensions 50x100x80 (height x width x depth), an item with the dimensions 40x70x30 that resides in point 0,0,0 of the suitcase, the first x-point of the item would lie in point -50 (0-(100/2)). 
-
+For example if the program has a suitcase with the dimensions 50×100×80 (height × width × depth), an item with the dimensions 40×70×30 that resides in point [0;0;0] of the suitcase, the first x-point of the item would lie in point -50 (0-(100/2)). 
 The y-point of the first vector is calculated by adding half of the depth of the suitcase in this case 25 (0+(50/2)). And the z-coordinate of the first vector in the example item would then lie in point 40 (0+(80/2)).
-
 When the points has been loaded into the new Vector, the vector is scaled by a factor of "zoom\_factor". This also happens when zooming in and out, but of course with different values. See section \ref{sec:3DHandler} to see how the function "ScaleSize" works. 
 
 These calculations are shown on Listing \ref{lst:vectorone}
@@ -46,21 +33,19 @@ From the calculations above the first Vectors coordinates are as follows (-50, 2
 Naturally the second vector of the side needs to have at least one point in common with the first vector. Else the side would not be a complete square. 
 The common point of the first and the second Vector is the x point. 
 The y coordinate of the second Vector is calculated by subtracting the item depth from the item's y-coordinate and then adding half of the suitcase height. With the example item, this gives an y-coordinate of the second vector of -15 (-0 - 40 + (50/2)).
-
 The z-coordinate of the second Vector is calculated by adding the y-coordinate of the item to half of the suitcase depth. This gives a z-point of the second vector of 40 (-0 + (80/2)). The calculations can be seen on Listing \ref{lst:vectortwo}.
 
 \kode{Calculate the points of the second vector}{vectortwo}{CreateSideCubeVecTwo.txt}
 
-The second Vector thereby becomes (-50, -15, 40), and can be seen on Figure \ref{fig:imageoffirstpointofsecondvector}.
+The second Vector thereby becomes [-50; -15; 40], and can be seen on Figure \ref{fig:imageoffirstpointofsecondvector}.
 \figur{0.7}{4.PNG}{First point of the first side of the example item}{fig:imageoffirstpointofsecondvector}
 
 Now for calculating the third Vector. The third Vector has both the y- and z- coordinates in common with the second Vector. These are thereby accordingly -15 and 40. 
-
 To calculate the x-coordinate, the x-point of the item is added to the width of the item, while the half of the width of the suitcase is subtracted from this. To continue the example, the x-coordinate of the third Vector would thereby become: 20 (0 + 70 - (100/2)). The calculations can be seen on Listing \ref{lst:vectorthree}.
 
 \kode{Calculate the points of the third vector}{vectorthree}{CreateSideCubeVecThree.txt}
 
-The third Vector thereby becomes (20, -15, 40), and can be seen on Figure \ref{fig:imageoffirstpointofthirdvector}.
+The third Vector thereby becomes [20; -15; 40], and can be seen on Figure \ref{fig:imageoffirstpointofthirdvector}.
 \figur{0.7}{5.PNG}{First point of the first side of the example item}{fig:imageoffirstpointofthirdvector}
 
 
