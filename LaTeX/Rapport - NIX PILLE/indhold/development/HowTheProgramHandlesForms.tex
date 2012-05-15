@@ -1,11 +1,11 @@
 \section{How the program handles different forms}
-The program is aimed at families who pack their suitcases together, and are not bothered by having other than their own items in their suitcase. 
+%The program is aimed at families who pack their suitcases together, and are not bothered by having other than their own items in their suitcase. 
 
 Because the program has different forms with different functions, it is often necessary to parse variables from one form to another. This is done by creating a new instance of the form, and parsing some inputs to the form. Just like one would create a new object and parse inputs to a constructor. An example is the form that shows the 3D-drawing of the suitcase. This should be automatically opened when the packing algorithm has packed all the items in the suitcases. The exact trigger that opens the new form, is the frm3D.ShowDialog(this); This can be seen on Listing \ref{lst:trolololo}. 
 
 \kode{Open the 3D-viewer when all items are packed. Source: frmMain.cs}{trolololo}{open3dform.txt}
 
-It is clear that three variables are parsed; the list of the items that has been packed, the list of the suitcases, and finally the "frmMain" form is also parsed to the "frm3DViewer" form. Naturally the "frm3DViewer" form needs to know the different items and suitcases. The reason why the "frmMain" form is parsed, is that the "frm3DViewer" form resets the progress bar when the "frm3DViewer" is closed. 
+It is clear that three variables are parsed; the list of the items that has been packed, the list of the suitcases, and finally the "frmMain" form is also parsed to the "frm3DViewer" form. Naturally the "frm3DViewer" form needs to know the different items and suitcases. The reason why the "frmMain" form is parsed, is that the "frm3DViewer" form resets the progress bar when the "frm3DViewer" is closed. The tmrCheckForFinishPacking is a timer, which in every call checks if the packing is finished, and is disabled after packing.
 
 Let's take a look at how the "frm3DViewer" receives these inputs. The inputs lies as input parameters in the "frm3DViewer" method within "frm3DViewer" as seen on listing \ref{lst:SWAG}
 
