@@ -1,0 +1,12 @@
+/// <summary>
+///A test for luggage Constructor
+///</summary>
+[TestMethod()]
+public void frmMain_luggageConstructorTest1()
+{
+    //Initiate new suitcase
+    frmMain.luggage target = new frmMain.luggage();
+    
+    //Check if the initiated suitcase is not null
+    Assert.IsNotNull(target);
+}

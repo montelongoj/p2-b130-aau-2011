@@ -1,11 +1,11 @@
 public virtual void Draw(Graphics g, Pen MyPen)
 {
 	for (int count=0;count<Len-1;count++)
-       
+              //Draw all the vertical lines
            g.DrawLine(MyPen,
 		           X2D(vectors[count])  ,Y2D(vectors[count])  ,
 		           X2D(vectors[count+1]),Y2D(vectors[count+1]));
-       
+               //Draw all the horizontal lines
            g.DrawLine(MyPen,
 		           X2D(vectors[Len-1])  ,Y2D(vectors[Len-1])  ,
 		           X2D(vectors[0])      ,Y2D(vectors[0]));

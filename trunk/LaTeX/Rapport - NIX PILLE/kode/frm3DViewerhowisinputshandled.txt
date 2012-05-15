@@ -1,2 +1,3 @@
+//The 3D-Viewer, recieves the list of suitcases, the list of items, and the frmMain form as inputs
 public frm3DViewer(List<frmMain.luggage_item> input_lug_items, List<frmMain.luggage> input_lugs, frmMain input_form_main)
 {

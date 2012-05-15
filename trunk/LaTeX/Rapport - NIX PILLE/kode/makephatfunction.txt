@@ -1,11 +1,14 @@
+//If the color of the current polygon is red, the polygon will be marked thicker.
 if (p.MyPen.Color == Color.Red)
 {
-    newP[count] = p;
-    newP[count].MyPen.Width = 2;
-    counter++;
+    newP[polygon_counter] = p;
+    //Make the width of the line thicker
+    newP[polygon_counter].MyPen.Width = 2;
+    shape_counter++;
 
-    if (counter == 4)
+    //All four sides in the polygon must be marked thicker. 
+    if (shape_counter == 4)
     {
-        counter = 0;
+        shape_counter = 0;
         element_counter++;
     }
