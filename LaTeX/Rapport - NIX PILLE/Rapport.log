@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 15:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 17:37
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2415,10 +2415,7 @@ leSerializer2.txt"))
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-Underfull \vbox (badness 2189) has occurred while \output is active []
-
- [64])
-[65] [66
+[64]) [65] [66
 
 ]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
@@ -2426,17 +2423,20 @@ Underfull \vbox (badness 2189) has occurred while \output is active []
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /discussion/Discussion.tex"
 
-LaTeX Warning: Reference `sec:spec' on page 67 undefined on input line 2.
+LaTeX Warning: Reference `sec:spec' on page 67 undefined on input line 16.
 
-[67] [68])
+
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+ [67])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
-/discussion/Perspectivation.tex" [69]) [70]
+/discussion/Perspectivation.tex" [68]) [69] [70
+
+]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
 a/Conclusion.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
-.bbl" [71
-
-] [72
+.bbl" [71] [72
 
 ] [73]
 Overfull \hbox (32.43227pt too wide) in paragraph at lines 135--141
@@ -2451,7 +2451,7 @@ x/forslag.tex" [75
 
 ])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
-x/mindmap.tex" [76] <billeder/mindmap.png, id=1422, 328.8285pt x 478.78876pt>
+x/mindmap.tex" [76] <billeder/mindmap.png, id=1420, 328.8285pt x 478.78876pt>
 File: billeder/mindmap.png Graphic file (type png)
 
 <use billeder/mindmap.png>
@@ -2484,10 +2484,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 24389 strings out of 494049
- 435344 string characters out of 3146054
- 585099 words of memory out of 3000000
- 26603 multiletter control sequences out of 15000+200000
+ 24398 strings out of 494049
+ 435415 string characters out of 3146054
+ 585153 words of memory out of 3000000
+ 26604 multiletter control sequences out of 15000+200000
  26098 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  40i,20n,60p,1775b,2337s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2513,9 +2513,9 @@ blic/cm-super/sftt0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/cm-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/book
 man/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8
 a.pfb>
-Output written on Rapport.pdf (89 pages, 6169040 bytes).
+Output written on Rapport.pdf (89 pages, 6169269 bytes).
 PDF statistics:
- 1602 PDF objects out of 1728 (max. 8388607)
- 468 named destinations out of 1000 (max. 500000)
+ 1611 PDF objects out of 1728 (max. 8388607)
+ 476 named destinations out of 1000 (max. 500000)
  809 words of extra memory for PDF output out of 10000 (max. 10000000)
 
