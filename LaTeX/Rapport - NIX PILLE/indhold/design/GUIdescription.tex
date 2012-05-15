@@ -19,13 +19,13 @@ Add, delete, or edit suitcases in the Manage Suitcase menu, see Figure \ref{fig:
 The About button which tells who the programmers are, and when the program was made. This can be seen on Figure \ref{fig:About}. The "about" have been made so it no longer is in the main window but is open through the main window with a button. The reason have been mentioned earlier.
 
 \figur{0.5}{AddItem.jpg}{Add item window}{fig:AddItem}
-When the user presses the "Add Item" button in Manage Items, this form can be seen on Figure \ref{fig:AddItem}. In this form there is a text box, where the user types the name of the current item. There are 5 other text boxes which are for the length, width, height, weight, and number of items. The biggest difference between the design and the sketches, see Figure \ref{fig:skitse5done}, is that the 3D image has been completely remove from this section of the program. Another change is that the form itself have gotten smaller because it was unnecessary to use so much space when the 3D image no longer is there.
+When the user presses the "Add Item" button in Manage Items, this form can be seen on Figure \ref{fig:AddItem}. In this form there is a text box, where the user types the name of the current item. There are 5 other text boxes which are for the length, width, height, weight, and number of items. The biggest difference between the design and the sketches, see Figure \ref{fig:skitse5done}, is that the 3D image has been completely remove from this section of the program. Another change is that the form itself have gotten smaller because it was unnecessary to use so much space when the 3D image no longer is there. The "View list" button is unnecessary because the user goes from the "Item list" to the "Add item" form. The "Previous" and "save \& add new" have been made into an "Add item" button. The have also been a drop down list were the user can select pre made items for to add. This is done to spare time for the user when adding items to the list.
 
 \figur{0.3}{AddSuitcase.jpg}{Add suitcase window}{fig:AddSuitcase}
-When the user presses the "Add Suitcase" button in Manage Suitcases, the user can add a new suitcase in a new form. The new form can be seen on Figure \ref{fig:AddSuitcase}. The data needed is the length, width, height, weight, and the maximum weight of the suitcase.
+When the user presses the "Add Suitcase" button in Manage Suitcases, the user can add a new suitcase in a new form. The new form can be seen on Figure \ref{fig:AddSuitcase}. The data needed is the length, width, height, weight, and the maximum weight of the suitcase. The changes between the design, see Figure \ref{fig:AddSuitcase}, and the sketch, see Figure \ref{fig:skitse4done}, is almost the same as with "Add item" form except the drop down list and some properties.
 
 \figur{0.3}{EditItem.jpg}{Edit item window}{fig:EditItem}
-If the user wants to edit an item, he/she can press the "Edit Item" button in Manage Items, see Figure \ref{fig:EditItem}. In the form there are 6 text boxes for each input parameter, and a button saying "Edit", which saves the changes the user has made and closes the form.
+If the user wants to edit an item, he/she can press the "Edit Item" button in Manage Items, see Figure \ref{fig:EditItem}. In the form there are 6 text boxes for each input parameter, and a button saying "Edit", which saves the changes the user has made and closes the form. This form have been added directly to the program without any sketches because of different program structure.
 
 \figur{0.3}{EditSuitcase.jpg}{Edit suitcase window}{fig:EditSuitcase}
 In "Manage Suitcase", there is a button called "Edit Suitcase" which opens a new form. The new form can be seen on Figure \ref{fig:EditSuitcase}. It allows the user to change the data of a suitcase, if e.g. the measurements are wrong, or the user wants to use another suitcase, which do not have the same measurements.
@@ -40,9 +40,12 @@ The 3D-viewer shows how the program have packed the different items in the suitc
 \figur{0.6}{frm3DViewer2.jpg}{3D Viewer window}{fig:3dViewer}
 
 This, see Figure \ref{fig:3dViewer}, is the first thing the user will see when the packing starts. It shows how the items are placed in the suitcase.
-The image can be dragged, moved, and zoomed with the mouse, as seen below. When the user clicks on an item in the list on the right side, the marked item will be highlighted in the image. Below the list are the xyz-points to see where the item is supposed to be placed, and the current suitcase's weight.
+The image can be dragged, moved, and zoomed with the mouse, as seen below. When the user clicks on an item in the list on the right side, the marked item will be highlighted in the image. Below the list are the x-, y-, z-points to see where the item is supposed to be placed, and the current suitcase's weight.
+
+To highlight an item in the suitcase the user select the item in the item list. This is not a part of the sketch but the plan was that the user could use two buttons that can go through the list back and forth.
 
 On the left side of the window are two buttons, zoom in and zoom out. On the lower left side of the window is a check box called "Zoom limit". It sets the limit for how close and how far the user can zoom the image. The buttons have been made in the case the user does not have a mouse with a scrolling wheel or is on laptop. The track bar on the left is a tool to adjust the speed when the user rotates the image. The reset button resets the track bar. Below the reset button is a drop-down list containing the suitcases the user has packed items into.
 
 The reason why it looks like it does is because it gives a good overview with the item list on the right, the 3D-image in the middle, and the image options (zoom in, zoom out, reset etc.) on the left.
 In the 3D-image a small box has been made in point(0;0;0) to indicate where it is, so the user easier can navigate through the items.
+The sketch of the 3D viewer can be seen on Figure %\ref{fig:}.
