@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 11:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 12:23
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2212,20 +2212,16 @@ File: billeder/Mainwindow.jpg Graphic file (type jpg)
 <use billeder/Mainwindow.jpg>
 Package pdftex.def Info: billeder/Mainwindow.jpg used on input line 6.
 (pdftex.def)             Requested size: 340.8013pt x 290.33768pt.
-
-
-LaTeX Warning: Reference `skitse1done' on page 37 undefined on input line 9.
-
-[37 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bill
-eder/Mainwindow.jpg>]
-<billeder/ManageItems.jpg, id=863, 542.77782pt x 350.05782pt>
+ [37 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/Mainwindow.jpg>]
+<billeder/ManageItems.jpg, id=864, 542.77782pt x 350.05782pt>
 File: billeder/ManageItems.jpg Graphic file (type jpg)
 
 <use billeder/ManageItems.jpg>
 Package pdftex.def Info: billeder/ManageItems.jpg used on input line 12.
 (pdftex.def)             Requested size: 340.8013pt x 219.8058pt.
 
-<billeder/ManageSuitcase.jpg, id=866, 551.05875pt x 350.05782pt>
+<billeder/ManageSuitcase.jpg, id=867, 551.05875pt x 350.05782pt>
 File: billeder/ManageSuitcase.jpg Graphic file (type jpg)
 
 <use billeder/ManageSuitcase.jpg>
@@ -2235,18 +2231,14 @@ Package pdftex.def Info: billeder/ManageSuitcase.jpg used on input line 15.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
-leder/ManageItems.jpg>]
-
-LaTeX Warning: Reference `skitse3done' on page 39 undefined on input line 16.
-
-<billeder/About.jpg, id=874, 290.58563pt x 229.60782pt>
+leder/ManageItems.jpg>] <billeder/About.jpg, id=876, 290.58563pt x 229.60782pt>
 File: billeder/About.jpg Graphic file (type jpg)
 
 <use billeder/About.jpg>
 Package pdftex.def Info: billeder/About.jpg used on input line 18.
 (pdftex.def)             Requested size: 213.0pt x 168.306pt.
 
-<billeder/AddItem.jpg, id=876, 265.74281pt x 249.93375pt>
+<billeder/AddItem.jpg, id=878, 265.74281pt x 249.93375pt>
 File: billeder/AddItem.jpg Graphic file (type jpg)
 
 <use billeder/AddItem.jpg>
@@ -2258,14 +2250,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [39 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/ManageSuitcase.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Ra
 pport - NIX PILLE/billeder/About.jpg>]
-<billeder/AddSuitcase.jpg, id=887, 197.98969pt x 249.93375pt>
+<billeder/AddSuitcase.jpg, id=889, 197.98969pt x 249.93375pt>
 File: billeder/AddSuitcase.jpg Graphic file (type jpg)
 
 <use billeder/AddSuitcase.jpg>
 Package pdftex.def Info: billeder/AddSuitcase.jpg used on input line 24.
 (pdftex.def)             Requested size: 127.8013pt x 161.33379pt.
 
-<billeder/EditItem.jpg, id=891, 169.38281pt x 250.68657pt>
+<billeder/EditItem.jpg, id=893, 169.38281pt x 250.68657pt>
 File: billeder/EditItem.jpg Graphic file (type jpg)
 
 <use billeder/EditItem.jpg>
@@ -2274,14 +2266,14 @@ Package pdftex.def Info: billeder/EditItem.jpg used on input line 27.
  [40 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/AddItem.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport -
  NIX PILLE/billeder/AddSuitcase.jpg>]
-<billeder/EditSuitcase.jpg, id=900, 191.21437pt x 274.77657pt>
+<billeder/EditSuitcase.jpg, id=902, 191.21437pt x 274.77657pt>
 File: billeder/EditSuitcase.jpg Graphic file (type jpg)
 
 <use billeder/EditSuitcase.jpg>
 Package pdftex.def Info: billeder/EditSuitcase.jpg used on input line 30.
 (pdftex.def)             Requested size: 127.8013pt x 183.65071pt.
 
-<billeder/frm3DViewer2.jpg, id=903, 548.80031pt x 397.485pt>
+<billeder/frm3DViewer2.jpg, id=905, 548.80031pt x 397.485pt>
 File: billeder/frm3DViewer2.jpg Graphic file (type jpg)
 
 <use billeder/frm3DViewer2.jpg>
@@ -2302,14 +2294,14 @@ en3dform.txt")
 m3DViewerhowisinputshandled.txt"))
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /development/ThePackingAlgorithmCode.tex" [43]
-<billeder/LuggageClass.jpg, id=944, 171.64125pt x 602.25pt>
+<billeder/LuggageClass.jpg, id=946, 171.64125pt x 602.25pt>
 File: billeder/LuggageClass.jpg Graphic file (type jpg)
 
 <use billeder/LuggageClass.jpg>
 Package pdftex.def Info: billeder/LuggageClass.jpg used on input line 11.
 (pdftex.def)             Requested size: 127.8013pt x 448.42409pt.
 
-<billeder/LuggageItemClass.jpg, id=947, 171.64125pt x 489.32813pt>
+<billeder/LuggageItemClass.jpg, id=949, 171.64125pt x 489.32813pt>
 File: billeder/LuggageItemClass.jpg Graphic file (type jpg)
 
 <use billeder/LuggageItemClass.jpg>
@@ -2328,7 +2320,7 @@ gWeight.txt")
 eckForFit.txt") [47]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Er
 rorMessage.txt")
-<billeder/FlowOfAlgorithmFull.jpg, id=1037, 507.39563pt x 776.14969pt>
+<billeder/FlowOfAlgorithmFull.jpg, id=1039, 507.39563pt x 776.14969pt>
 File: billeder/FlowOfAlgorithmFull.jpg Graphic file (type jpg)
 
 <use billeder/FlowOfAlgorithmFull.jpg>
@@ -2363,7 +2355,7 @@ lygonScaleSize.txt"))
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /development/FunctionDrawCubes.tex" [55]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecOne.txt") <billeder/3.PNG, id=1218, 447.17062pt x 311.66437pt>
+eateSideCubeVecOne.txt") <billeder/3.PNG, id=1220, 447.17062pt x 311.66437pt>
 File: billeder/3.PNG Graphic file (type png)
 
 <use billeder/3.PNG>
@@ -2374,7 +2366,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [56]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1229, 445.665pt x 311.66437pt>
+eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1231, 445.665pt x 311.66437pt>
 File: billeder/4.PNG Graphic file (type png)
 
 <use billeder/4.PNG>
@@ -2386,7 +2378,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [57 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/3.PNG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecThree.txt") <billeder/5.PNG, id=1242, 356.532pt x 249.3315pt>
+eateSideCubeVecThree.txt") <billeder/5.PNG, id=1244, 356.532pt x 249.3315pt>
 File: billeder/5.PNG Graphic file (type png)
 
 <use billeder/5.PNG>
@@ -2398,13 +2390,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [58 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/4.PNG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecFour.txt") <billeder/6.PNG, id=1254, 356.532pt x 249.3315pt>
+eateSideCubeVecFour.txt") <billeder/6.PNG, id=1256, 356.532pt x 249.3315pt>
 File: billeder/6.PNG Graphic file (type png)
 
 <use billeder/6.PNG>
 Package pdftex.def Info: billeder/6.PNG used on input line 72.
 (pdftex.def)             Requested size: 298.1987pt x 208.55437pt.
- <billeder/7.PNG, id=1256, 356.532pt x 249.3315pt>
+ <billeder/7.PNG, id=1258, 356.532pt x 249.3315pt>
 File: billeder/7.PNG Graphic file (type png)
 
 <use billeder/7.PNG>
@@ -2473,7 +2465,7 @@ x/forslag.tex" [75
 
 ])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
-x/mindmap.tex" [76] <billeder/mindmap.png, id=1431, 328.8285pt x 478.78876pt>
+x/mindmap.tex" [76] <billeder/mindmap.png, id=1433, 328.8285pt x 478.78876pt>
 File: billeder/mindmap.png Graphic file (type png)
 
 <use billeder/mindmap.png>
@@ -2506,10 +2498,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 24411 strings out of 494049
- 435996 string characters out of 3146054
+ 24409 strings out of 494049
+ 435970 string characters out of 3146054
  584222 words of memory out of 3000000
- 26613 multiletter control sequences out of 15000+200000
+ 26611 multiletter control sequences out of 15000+200000
  26098 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  41i,20n,60p,1775b,2333s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2535,9 +2527,9 @@ blic/cm-super/sftt0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/cm-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/book
 man/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8
 a.pfb>
-Output written on Rapport.pdf (89 pages, 4132365 bytes).
+Output written on Rapport.pdf (89 pages, 4132538 bytes).
 PDF statistics:
- 1614 PDF objects out of 1728 (max. 8388607)
+ 1616 PDF objects out of 1728 (max. 8388607)
  475 named destinations out of 1000 (max. 500000)
  827 words of extra memory for PDF output out of 10000 (max. 10000000)
 
