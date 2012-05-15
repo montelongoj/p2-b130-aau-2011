@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  14 MAY 2012 16:16
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  14 MAY 2012 16:41
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -1969,12 +1969,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--59
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
@@ -1983,21 +1983,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--74
-
- []
-
 )
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /design/partneranalysis.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 75--1
+Underfull \hbox (badness 10000) in paragraph at lines 71--1
 
  []
 
 )
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
-/design/Solutionsuggestions.tex" [21] [22])
+/design/Solutionsuggestions.tex" [21]
+
+LaTeX Warning: Reference `ShippingCal' on page 22 undefined on input line 8.
+
+[22])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /design/programplanning.tex" [23]
 <billeder/FlowOfProgram.jpg, id=721, 260.47313pt x 345.54094pt>
@@ -2510,13 +2509,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 23345 strings out of 494049
- 413499 string characters out of 3146054
+ 23346 strings out of 494049
+ 413512 string characters out of 3146054
  556192 words of memory out of 3000000
- 25540 multiletter control sequences out of 15000+200000
+ 25541 multiletter control sequences out of 15000+200000
  29574 words of font info for 83 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
- 43i,20n,60p,1842b,2138s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,20n,60p,1774b,2138s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:
 /Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
@@ -2538,7 +2537,7 @@ m-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ub
 kd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
 
-Output written on Rapport.pdf (91 pages, 2058226 bytes).
+Output written on Rapport.pdf (91 pages, 2057959 bytes).
 PDF statistics:
  1611 PDF objects out of 1728 (max. 8388607)
  475 named destinations out of 1000 (max. 500000)
