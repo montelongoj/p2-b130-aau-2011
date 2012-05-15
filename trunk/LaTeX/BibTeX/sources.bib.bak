@@ -61,6 +61,14 @@
   url = {http://www.bts.gov/programs/airline\_information/baggage\_fees/}
 }
 
+@MISC{DangerousGoods,
+  author = {CPH},
+  title = {Farligt Gods},
+  owner = {Kasper},
+  timestamp = {2012.05.14},
+  url = {http://www.cph.dk/CPH/DK/MAIN/Foer+afrejse/Bagage/Forbudt+i+h%C3%A5ndbagage.htm?WT.ac=Link-t-CPH-fra-farligt-gods}
+}
+
 @MISC{newrules,
   author = {Crete-Kreta},
   title = {New rules for hand luggage at all EU airports},
@@ -215,6 +223,14 @@
   owner = {Aleksander},
   timestamp = {2012.02.14},
   url = {http://www.sas.dk/Alt-om-rejsen/Bagage/Bagageovervagt/?WT.ac=AOR-DK-bg-overvaegt}
+}
+
+@MISC{FileSeria,
+  author = {sdktsg},
+  title = {Custom Serialization  Example},
+  owner = {Kasper},
+  timestamp = {2012.05.15},
+  url = {www.codeproject.com}
 }
 
 @MISC{solvingmaze,
