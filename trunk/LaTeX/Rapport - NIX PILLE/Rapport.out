@@ -42,26 +42,26 @@
 \BOOKMARK [2][-]{subsection.4.3.4}{Choice of solution}{section.4.3}% 42
 \BOOKMARK [1][-]{section.4.4}{Program planning}{chapter.4}% 43
 \BOOKMARK [1][-]{section.4.5}{Sketches before programming of GUI}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.6}{GUI Description}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.6.1}{3D-viewer}{section.4.6}% 46
-\BOOKMARK [1][-]{section.4.7}{The Packing Algorithm}{chapter.4}% 47
-\BOOKMARK [2][-]{subsection.4.7.1}{Optimization of weight}{section.4.7}% 48
-\BOOKMARK [2][-]{subsection.4.7.2}{Description of the algorithm}{section.4.7}% 49
-\BOOKMARK [2][-]{subsection.4.7.3}{Summing up}{section.4.7}% 50
-\BOOKMARK [0][-]{chapter.5}{Development}{}% 51
-\BOOKMARK [1][-]{section.5.1}{How the program handles different forms}{chapter.5}% 52
-\BOOKMARK [1][-]{section.5.2}{The Development of The Packing Algorithm}{chapter.5}% 53
-\BOOKMARK [2][-]{subsection.5.2.1}{Classes}{section.5.2}% 54
-\BOOKMARK [2][-]{subsection.5.2.2}{Description of the Code}{section.5.2}% 55
-\BOOKMARK [2][-]{subsection.5.2.3}{Summing up}{section.5.2}% 56
-\BOOKMARK [1][-]{section.5.3}{Color Assignment Function}{chapter.5}% 57
-\BOOKMARK [1][-]{section.5.4}{How the Program Handles 3D}{chapter.5}% 58
-\BOOKMARK [2][-]{subsection.5.4.1}{Shape3D Class}{section.5.4}% 59
-\BOOKMARK [2][-]{subsection.5.4.2}{Polygon Class}{section.5.4}% 60
-\BOOKMARK [1][-]{section.5.5}{Function to draw cubes}{chapter.5}% 61
-\BOOKMARK [1][-]{section.5.6}{Rotate 3D-view with the mouse}{chapter.5}% 62
-\BOOKMARK [1][-]{section.5.7}{File Serialize function}{chapter.5}% 63
-\BOOKMARK [1][-]{section.5.8}{Instruction manual}{chapter.5}% 64
+\BOOKMARK [1][-]{section.4.6}{The Packing Algorithm}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.6.1}{Optimization of weight}{section.4.6}% 46
+\BOOKMARK [2][-]{subsection.4.6.2}{Description of the algorithm}{section.4.6}% 47
+\BOOKMARK [2][-]{subsection.4.6.3}{Summing up}{section.4.6}% 48
+\BOOKMARK [0][-]{chapter.5}{Development}{}% 49
+\BOOKMARK [1][-]{section.5.1}{GUI Description}{chapter.5}% 50
+\BOOKMARK [2][-]{subsection.5.1.1}{3D-viewer}{section.5.1}% 51
+\BOOKMARK [1][-]{section.5.2}{How the program handles different forms}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.3}{The Development of The Packing Algorithm}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.3.1}{Classes}{section.5.3}% 54
+\BOOKMARK [2][-]{subsection.5.3.2}{Description of the Code}{section.5.3}% 55
+\BOOKMARK [2][-]{subsection.5.3.3}{Summing up}{section.5.3}% 56
+\BOOKMARK [1][-]{section.5.4}{Color Assignment Function}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.5}{How the Program Handles 3D}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.5.1}{Shape3D Class}{section.5.5}% 59
+\BOOKMARK [2][-]{subsection.5.5.2}{Polygon Class}{section.5.5}% 60
+\BOOKMARK [1][-]{section.5.6}{Function to draw cubes}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.7}{Rotate 3D-view with the mouse}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.8}{File Serialize function}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.9}{Instruction manual}{chapter.5}% 64
 \BOOKMARK [0][-]{chapter.6}{Testing}{}% 65
 \BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 66
 \BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 67
