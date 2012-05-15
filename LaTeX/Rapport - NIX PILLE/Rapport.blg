@@ -65,6 +65,11 @@ Warning--can't use both author and editor fields in appofdismath
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry altombag
 while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty year in FileSeria
+Warning--empty year in FileSeria
+1 is an integer literal, not a string, for entry FileSeria
+while executing---line 1495 of file bibtex/harvard.bst
+Warning--empty  in FileSeria
 Warning--empty year in solvingmaze
 Warning--empty year in solvingmaze
 1 is an integer literal, not a string, for entry solvingmaze
@@ -74,4 +79,4 @@ Warning--empty  in solvingmaze
 while executing---line 1495 of file bibtex/harvard.bst
 1 is an integer literal, not a string, for entry Stricter_rules
 while executing---line 1495 of file bibtex/harvard.bst
-(There were 20 error messages)
+(There were 21 error messages)
