@@ -84,7 +84,7 @@
 \contentsline {section}{\numberline {6.4}Conclusion on the Tests}{65}{section.6.4}
 \contentsline {chapter}{\chapternumberline {7}Discussion}{67}{chapter.7}
 \contentsline {section}{\numberline {7.1}Discussion}{67}{section.7.1}
-\contentsline {section}{\numberline {7.2}Perspectivation}{69}{section.7.2}
+\contentsline {section}{\numberline {7.2}Perspectivation}{68}{section.7.2}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{71}{chapter.8}
 \contentsline {chapter}{Bibliography}{73}{section*.17}
 \cftpagenumbersoff {chapter}

@@ -1,29 +1,23 @@
 \section{Discussion}
-The focus in this discussion is to see if the product is in conjunction with the problem analysis seen on Chapter \ref{chap:problem} and to see if the different requirements, see section \ref{sec:spec} is integrated in the product.
+%The focus in this discussion is to see if the product is in conjunction with the problem analysis seen on Chapter \ref{chap:problem} and to see if the different requirements, see section \ref{sec:spec} is integrated in the product.
 
-In the problem analysis there was stated the following requirements for the program:
+%From the problem analysis there was stated the following requirements for the program:
 
-\begin{itemize}
-\item Program language is C\#.
-\item Guide the user.
-\item Distribute weight.
-\item Distribute space.
-\item On the road.
-\item Baggage rules.
-\item Structure of packing.
-\item Packing list.
-\item save/load function.
-\end{itemize}
+%\begin{itemize}
+%\item Guide the user.
+%\item Distribute weight.
+%\item Distribute space.
+%\item On the road.
+%\item Baggage rules.
+%\item Structure of packing.
+%\item Packing list.
+%\item Save/load function.
+%\end{itemize}
+All the requirements (see section \ref{sec:spec}) have been meet, which can be seen as a success. The program can deal with many of the problems found in the process analysis. The program can help the user in the process of packing a suitcase, and will by a simple interface pack the suitcase, where the user did have a problem packing it by their own.
 
-And there also were some optional features that if there where time left, they might be implemented in the program:
-\begin{itemize}
-\item Solid/liquid/bendable shapes.
-\item Type of trip.
-\end{itemize}
+%The whole program have been design in visual studio and the language that have been used is C\#. C\# is used because it suits the idea of how the program should work and also the developing environment, in this case Microsoft Visual Studio. Thereby the first requirement is fulfilled.
 
-The whole program have been design in visual studio and the language that have been used is C\#. C\# is used because it suits the idea of how the program should work and also the developing environment, in this case Microsoft Visual Studio. Thereby the first requirement is fulfilled.
-
-In section \ref{sec:devalgorithm} the algorithm is explained. The algorithm distribute the items in the suitcase(s) evenly by weight and space. The algorithm also ensures that the weight limit is not exceeded. Yet the algorithm can not pack as good as a person might be able to do. One reason that a person might be better at packing, is that the program handles all the items as boxes and do not take into account, that some items might be able to be fold and bend in different shapes. This algorithm takes both weight and space into account and that way the program is capable of distributing both the weight and the space.
+%In section \ref{sec:devalgorithm} the algorithm is explained. The algorithm distribute the items in the suitcase(s) evenly by weight and space. The algorithm also ensures that the weight limit is not exceeded. Yet the algorithm can not pack as good as a person might be able to do. One reason that a person might be better at packing, is that the program handles all the items as boxes and do not take into account, that some items might be able to be fold and bend in different shapes. This algorithm takes both weight and space into account and that way the program is capable of distributing both the weight and the space.
 
 To help the user to get a better visual understanding on how to pack the suitcase a 3D-image is made for the user that can rotate, zoom and be dragged. In the right side of the 3D-form a list is displayed. This list shows all the packed items in the selected suitcase. By selecting an item it will be marked in the 3D-image so the user will easily be able to identify any given item. An explanation of this function can be seen in section \ref{sec:3DHandler}. To help the user furthermore an algorithm has been made that makes sure that any two items next to each other will have different colors, so they are easier to identify from each other. The function and a description of it can be seen in section \ref{sec:ColorGiver}.
 It is easy to get a good overview in the program, because the maximum number of buttons is 5 in all the different windows and no unnecessary features are in the windows. The 3D-viewer is very user friendly because the user can use the mouse to zoom and rotate the 3D-image of the suitcase containing the packed items. The GUI is described in section \ref{sec:GUI}.
@@ -37,6 +31,6 @@ So the program is based on the requirements and has been improved by using the r
 So the product includes all the important requirement but the optional features have not been included because of the lack of time to work on these optional features. It was decided that it was more important to make the targeted features as perfect as possible, before working on optional features. The program is capable of packing one or more bags based on data on the bags and a list of items that should be packed. But the program unfortunately does not provide a packing solution as the human brain can. The reason for this is that the program does not allow object to be flexible. On the other hand the program takes weight into account which can be hard to remember when packing. The program does also remember items from last time which can save time for the user because he/she does not need to start from scratch.
 
 % ret her, skrevet extra
-The optional features have not been covered because of the lack of time. The program has been made from the requirements and thereby gives a solution to the problem. The problem lets the user add both items and suitcases to the program which then packs the suitcases with the items in a weight/space optimizing way. The result are then presented to the user, who then can see what has been packed and were. The items which have not been packed are shown to the user through a message box. So the program provide the user with a solution to the packing problem and thereby the program fulfills the project requirement, which can seen in appendix \ref{chap:forslag}.
+The problem lets the user add both items and suitcases to the program which then packs the suitcases with the items in a weight/space optimizing way. The result are then presented to the user, who then can see what has been packed and were. The items which have not been packed are shown to the user through a message box. So the program provide the user with a solution to the packing problem and thereby the program fulfills the project requirement, which can seen in appendix \ref{chap:forslag}.
 % end
 In the following section, Perspectivation, the experience will be reflected upon and try to related processes in the project to the real world outside the project. There will also be thoughts on how user will use the program.
