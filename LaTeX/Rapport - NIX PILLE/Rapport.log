@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 12:52
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  15 MAY 2012 13:22
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
 .tex
@@ -2317,11 +2317,11 @@ gWeight.txt")
 eckForFit.txt") [47]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Er
 rorMessage.txt")
-<billeder/FlowOfAlgorithmFull.jpg, id=1034, 507.39563pt x 776.14969pt>
+<billeder/FlowOfAlgorithmFull.jpg, id=1035, 507.39563pt x 776.14969pt>
 File: billeder/FlowOfAlgorithmFull.jpg Graphic file (type jpg)
 
 <use billeder/FlowOfAlgorithmFull.jpg>
-Package pdftex.def Info: billeder/FlowOfAlgorithmFull.jpg used on input line 44
+Package pdftex.def Info: billeder/FlowOfAlgorithmFull.jpg used on input line 46
 .
 (pdftex.def)             Requested size: 426.0pt x 651.66522pt.
 )
@@ -2355,7 +2355,7 @@ lygonScaleSize.txt"))
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
 /development/FunctionDrawCubes.tex" [55]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecOne.txt") <billeder/3.PNG, id=1215, 447.17062pt x 311.66437pt>
+eateSideCubeVecOne.txt") <billeder/3.PNG, id=1216, 447.17062pt x 311.66437pt>
 File: billeder/3.PNG Graphic file (type png)
 
 <use billeder/3.PNG>
@@ -2366,7 +2366,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [56]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1226, 445.665pt x 311.66437pt>
+eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1227, 445.665pt x 311.66437pt>
 File: billeder/4.PNG Graphic file (type png)
 
 <use billeder/4.PNG>
@@ -2378,7 +2378,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [57 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/3.PNG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecThree.txt") <billeder/5.PNG, id=1239, 356.532pt x 249.3315pt>
+eateSideCubeVecThree.txt") <billeder/5.PNG, id=1240, 356.532pt x 249.3315pt>
 File: billeder/5.PNG Graphic file (type png)
 
 <use billeder/5.PNG>
@@ -2390,13 +2390,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [58 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
 leder/4.PNG>]
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
-eateSideCubeVecFour.txt") <billeder/6.PNG, id=1251, 356.532pt x 249.3315pt>
+eateSideCubeVecFour.txt") <billeder/6.PNG, id=1252, 356.532pt x 249.3315pt>
 File: billeder/6.PNG Graphic file (type png)
 
 <use billeder/6.PNG>
 Package pdftex.def Info: billeder/6.PNG used on input line 72.
 (pdftex.def)             Requested size: 298.1987pt x 208.55437pt.
- <billeder/7.PNG, id=1253, 356.532pt x 249.3315pt>
+ <billeder/7.PNG, id=1254, 356.532pt x 249.3315pt>
 File: billeder/7.PNG Graphic file (type png)
 
 <use billeder/7.PNG>
@@ -2465,7 +2465,7 @@ x/forslag.tex" [75
 
 ])
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
-x/mindmap.tex" [76] <billeder/mindmap.png, id=1428, 328.8285pt x 478.78876pt>
+x/mindmap.tex" [76] <billeder/mindmap.png, id=1429, 328.8285pt x 478.78876pt>
 File: billeder/mindmap.png Graphic file (type png)
 
 <use billeder/mindmap.png>
@@ -2500,7 +2500,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
 Here is how much of TeX's memory you used:
  24407 strings out of 494049
  435936 string characters out of 3146054
- 584222 words of memory out of 3000000
+ 584226 words of memory out of 3000000
  26610 multiletter control sequences out of 15000+200000
  26098 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
@@ -2527,9 +2527,9 @@ blic/cm-super/sftt0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/cm-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/book
 man/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8
 a.pfb>
-Output written on Rapport.pdf (89 pages, 4132002 bytes).
+Output written on Rapport.pdf (89 pages, 4132214 bytes).
 PDF statistics:
- 1610 PDF objects out of 1728 (max. 8388607)
+ 1611 PDF objects out of 1728 (max. 8388607)
  474 named destinations out of 1000 (max. 500000)
  819 words of extra memory for PDF output out of 10000 (max. 10000000)
 
