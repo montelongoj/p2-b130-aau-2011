@@ -1,0 +1,96 @@
+\input{preamble}
+\begin{document}
+\mainmatter
+\begin{center}
+\textbf{\HUGE Process analysis P2-project}\\
+{\Large Group B130}\\
+University of Aalborg, Second semester, Spring 2012\\
+
+
+Mette Thomsen Pedersen\\
+Christian Jødal O'Keeffe\\
+Rasmus Fischer Gadensgaard\\
+Niels Brøndum Pedersen\\
+Kasper Plejdrup\\
+Aleksander Sørensen Nilsson\\
+Dag Toft Børresen Pedersen\\
+\end{center}
+\newpage
+
+
+\setlength\parskip{0ex} % Fjerner den vertikale afstand mellem hver linie i indholdsfortegnelse
+\tableofcontents* % Indholdsfortegnelsen 
+\setlength{\parskip}{3mm} % Aktiverer afstanden igen for resten af rapporten (afstem med preamble!)
+
+
+
+ % Hovedindhold - nummereres fra side 1
+\makeevenfoot{custom}{Page \thepage~of \pageref{LastPage}}{}{}	% Definerer lige siders sidefod efter modellen \makeevenfoot{Navn}{Venstre}{Center}{Højre}
+\makeoddfoot{custom}{}{}{Page \thepage~of \pageref{LastPage}}% Definerer ulige siders sidefod efter modellen \makeoddfoot{Navn}{Venstre}{Center}{Højre}		
+\pagestyle{custom}
+
+\input{intro.tex}
+
+%styring
+\chapter{Projectplanning}
+\input{indhold/planning/intoprojectplanning.tex}
+\input{indhold/planning/Administration.tex}
+\input{indhold/planning/Workcoordinating.tex}
+\input{indhold/planning/timeschedule.tex}
+\input{indhold/planning/Log.tex}
+\input{indhold/planning/decisionmaking.tex}
+
+%gruppen
+\chapter{Group Work}
+\input{indhold/group/groupintro.tex}
+\input{indhold/group/valuesandvisionsgroupcollaboration.tex}
+\input{indhold/group/groupcontract.tex}
+\input{indhold/group/roles.tex}
+%\input{indhold/group/conflicthandling.tex}
+\input{indhold/group/meetingculture.tex}
+\input{indhold/group/MorningmeetingsandFridaysmeetings.tex}
+\input{indhold/group/summary.tex}
+\input{indhold/group/OBHmodellen.tex}
+
+
+
+%vejleder
+\chapter{Collaboration with Supervisors}
+\input{indhold/supervisor/introsupervisor.tex}
+\input{indhold/supervisor/valuesvisionsandprofessionalcontact.tex}
+\input{indhold/supervisor/supervisors.tex}
+\input{indhold/supervisor/Supervisortypology.tex}
+
+
+
+
+%læringsprocess
+\chapter{Process of Learning}
+\input{indhold/learn/introlearn.tex}
+\input{indhold/learn/valuesandvisionslearningprocess.tex}
+\input{indhold/learn/goalsofthissemester.tex}
+\input{indhold/learn/problembasedsolving.tex}
+\input{indhold/learn/ResponsibilityforownlearningslashMutualresponsibilityforlearning.tex}
+\input{indhold/learn/workenvironment.tex}
+\input{indhold/learn/knowlegdesharing.tex}
+\input{indhold/learn/bloomstaxonomy.tex}
+
+%afslut
+\input{indhold/discussionandperspektivering.tex}
+\input{indhold/conclusionprocessanalyse.tex}
+
+\appendix	% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
+
+\aliaspagestyle{chapter}{empty}	 % Fjernelse af nummerering på bilagenes chaptersider
+\pagestyle{empty}	%	Fjernelse af nummerering i bilag
+\addtocontents{toc}{\protect\cftpagenumbersoff{chapter}} % Fjernelse af nummerering af bilag i TOC
+\pagestyle{custom}
+%\settocdepth{chapter}	% Sætter dybden af indholdsfortegnelsen til chapter for bilagene
+
+
+%%%% Appendiks %%%%
+
+\input{indhold/appendix/Groupcontractapp.tex}
+\input{indhold/appendix/Timescheduleapp.tex}
+
+\end{document}
