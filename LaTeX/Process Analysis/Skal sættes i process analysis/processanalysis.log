@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  21 MAY 2012 09:48
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  21 MAY 2012 13:10
 entering extended mode
 **C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Process*Analysis/Skal*sætt
 es*i*process*analysis/processanalysis.tex
@@ -1691,8 +1691,6 @@ es i process analysis\ProjectPlanning/introprojectplanning.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Process Analysis\Skal sætt
 es i process analysis\ProjectPlanning/Administration.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Process Analysis\Skal sætt
-es i process analysis\ProjectPlanning/WorkCoordinating.tex")
-("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Process Analysis\Skal sætt
 es i process analysis\ProjectPlanning/TimeSchedule.tex")
 ("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Process Analysis\Skal sætt
 es i process analysis\ProjectPlanning/DecisionMaking.tex" [5]) [6]
@@ -1791,17 +1789,17 @@ es i process analysis\processanalysis.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `processanalysis.out' has not changed.
-(rerunfilecheck)             Checksum: 515589B72ACAC7BD88E6C80529229688;1614.
+(rerunfilecheck)             Checksum: E3775C6D451836466A8134C47D2FF3C4;1549.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
  ) 
 Here is how much of TeX's memory you used:
- 22887 strings out of 494049
- 407620 string characters out of 3146054
+ 22880 strings out of 494049
+ 407226 string characters out of 3146054
  471355 words of memory out of 3000000
- 25665 multiletter control sequences out of 15000+200000
+ 25662 multiletter control sequences out of 15000+200000
  20315 words of font info for 58 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
- 38i,11n,60p,1087b,841s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,12n,60p,1086b,841s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:
 /Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
@@ -1813,9 +1811,9 @@ TeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/urw/bookman/ubkl8a.pfb>
-Output written on processanalysis.pdf (22 pages, 199444 bytes).
+Output written on processanalysis.pdf (22 pages, 198365 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
