@@ -3,17 +3,17 @@
 \BOOKMARK [0][-]{chapter.2}{Problem Analysis}{}% 3
 \BOOKMARK [1][-]{section.2.1}{Problems with Packing a Suitcase}{chapter.2}% 4
 \BOOKMARK [2][-]{subsection.2.1.1}{Packing}{section.2.1}% 5
-\BOOKMARK [1][-]{section.2.2}{Luggage rules}{chapter.2}% 6
-\BOOKMARK [2][-]{subsection.2.2.1}{Luggage table}{section.2.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Luggage Rules}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Luggage Table}{section.2.2}% 7
 \BOOKMARK [2][-]{subsection.2.2.2}{Charter Trips on Air Planes}{section.2.2}% 8
 \BOOKMARK [2][-]{subsection.2.2.3}{Rules on Trains}{section.2.2}% 9
-\BOOKMARK [2][-]{subsection.2.2.4}{Rules on cruise ships}{section.2.2}% 10
-\BOOKMARK [2][-]{subsection.2.2.5}{Summing up}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.4}{Rules on Cruise Ships}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.5}{Summing Up}{section.2.2}% 11
 \BOOKMARK [1][-]{section.2.3}{Luggage Allowance}{chapter.2}% 12
 \BOOKMARK [1][-]{section.2.4}{Solutions on the Market}{chapter.2}% 13
 \BOOKMARK [2][-]{subsection.2.4.1}{App - Packing Pro}{section.2.4}% 14
-\BOOKMARK [2][-]{subsection.2.4.2}{Online check/tip list}{section.2.4}% 15
-\BOOKMARK [2][-]{subsection.2.4.3}{The e-Commerce shipping calculator}{section.2.4}% 16
+\BOOKMARK [2][-]{subsection.2.4.2}{Online Check/Tip List}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.3}{The E-Commerce Shipping Calculator}{section.2.4}% 16
 \BOOKMARK [2][-]{subsection.2.4.4}{Summing Up}{section.2.4}% 17
 \BOOKMARK [1][-]{section.2.5}{Problem Statement}{chapter.2}% 18
 \BOOKMARK [2][-]{subsection.2.5.1}{Sub Statements}{section.2.5}% 19
@@ -34,21 +34,21 @@
 \BOOKMARK [1][-]{section.4.1}{Specification Requirements}{chapter.4}% 34
 \BOOKMARK [2][-]{subsection.4.1.1}{Targeted Features}{section.4.1}% 35
 \BOOKMARK [2][-]{subsection.4.1.2}{Optional Features}{section.4.1}% 36
-\BOOKMARK [1][-]{section.4.2}{Partner analysis}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.2}{Partner Analysis}{chapter.4}% 37
 \BOOKMARK [1][-]{section.4.3}{Solution suggestions}{chapter.4}% 38
-\BOOKMARK [2][-]{subsection.4.3.1}{Application for smartphones}{section.4.3}% 39
-\BOOKMARK [2][-]{subsection.4.3.2}{Extension for an existing program}{section.4.3}% 40
-\BOOKMARK [2][-]{subsection.4.3.3}{Program for the computer}{section.4.3}% 41
-\BOOKMARK [2][-]{subsection.4.3.4}{Choice of solution}{section.4.3}% 42
+\BOOKMARK [2][-]{subsection.4.3.1}{Application for Smartphones}{section.4.3}% 39
+\BOOKMARK [2][-]{subsection.4.3.2}{Extension for an Existing Program}{section.4.3}% 40
+\BOOKMARK [2][-]{subsection.4.3.3}{Program for the Computer}{section.4.3}% 41
+\BOOKMARK [2][-]{subsection.4.3.4}{Choice of Solution}{section.4.3}% 42
 \BOOKMARK [1][-]{section.4.4}{The Planning of the Packing Algorithm}{chapter.4}% 43
 \BOOKMARK [2][-]{subsection.4.4.1}{Optimization by Weight}{section.4.4}% 44
 \BOOKMARK [2][-]{subsection.4.4.2}{Description of the Algorithm}{section.4.4}% 45
 \BOOKMARK [2][-]{subsection.4.4.3}{Summing Up}{section.4.4}% 46
-\BOOKMARK [1][-]{section.4.5}{Program planning}{chapter.4}% 47
-\BOOKMARK [1][-]{section.4.6}{Sketches before programming of GUI}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.5}{Program Planning}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.6}{Sketches Before Programming of GUI}{chapter.4}% 48
 \BOOKMARK [0][-]{chapter.5}{Development}{}% 49
 \BOOKMARK [1][-]{section.5.1}{GUI Description}{chapter.5}% 50
-\BOOKMARK [1][-]{section.5.2}{How the program handles different forms}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.2}{How the Program Handles Different Forms}{chapter.5}% 51
 \BOOKMARK [1][-]{section.5.3}{The Development of The Packing Algorithm}{chapter.5}% 52
 \BOOKMARK [2][-]{subsection.5.3.1}{Classes}{section.5.3}% 53
 \BOOKMARK [2][-]{subsection.5.3.2}{Description of the Code}{section.5.3}% 54
@@ -57,19 +57,19 @@
 \BOOKMARK [1][-]{section.5.5}{How the Program Handles 3D}{chapter.5}% 57
 \BOOKMARK [2][-]{subsection.5.5.1}{Shape3D Class}{section.5.5}% 58
 \BOOKMARK [2][-]{subsection.5.5.2}{Polygon Class}{section.5.5}% 59
-\BOOKMARK [1][-]{section.5.6}{Function to draw cubes}{chapter.5}% 60
-\BOOKMARK [1][-]{section.5.7}{Rotate 3D-view with the mouse}{chapter.5}% 61
-\BOOKMARK [1][-]{section.5.8}{File Serialize function}{chapter.5}% 62
-\BOOKMARK [1][-]{section.5.9}{Instruction manual}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.6}{Function to Draw Cubes}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.7}{Rotate 3D-view with the Mouse}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.8}{File Serialize Function}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.9}{Instruction Manual}{chapter.5}% 63
 \BOOKMARK [0][-]{chapter.6}{Testing}{}% 64
 \BOOKMARK [1][-]{section.6.1}{Choice of Survey Method}{chapter.6}% 65
-\BOOKMARK [1][-]{section.6.2}{The First Round of Tests}{chapter.6}% 66
-\BOOKMARK [1][-]{section.6.3}{The Second Round of Tests}{chapter.6}% 67
-\BOOKMARK [1][-]{section.6.4}{Conclusion on the Tests}{chapter.6}% 68
+\BOOKMARK [1][-]{section.6.2}{The First Round of User Tests}{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.3}{The Second Round of User Tests}{chapter.6}% 67
+\BOOKMARK [1][-]{section.6.4}{Conclusion on the User Tests}{chapter.6}% 68
 \BOOKMARK [1][-]{section.6.5}{Unit Tests}{chapter.6}% 69
 \BOOKMARK [0][-]{chapter.7}{Discussion}{}% 70
 \BOOKMARK [1][-]{section.7.1}{Discussion}{chapter.7}% 71
-\BOOKMARK [1][-]{section.7.2}{Perspectivation}{chapter.7}% 72
+\BOOKMARK [1][-]{section.7.2}{Perspectives}{chapter.7}% 72
 \BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 73
 \BOOKMARK [0][-]{section*.17}{Bibliography}{}% 74
 \BOOKMARK [0][-]{appendix.A}{Pak kufferten}{}% 75
