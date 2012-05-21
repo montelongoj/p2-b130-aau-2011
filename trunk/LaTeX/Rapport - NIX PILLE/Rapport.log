@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.3.28)  16 MAY 2012 10:20
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.2)  21 MAY 2012 14:00
 entering extended mode
-**Rapport.tex
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+**C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport*-*NIX*PILLE/Rapport
+.tex
+
+("C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/Rapport
+.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
 lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
@@ -13,8 +16,8 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-(C:\Users\lewindows\Desktop\P2\LaTeX\preamble.tex
-("C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+(C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\preamble.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
 Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -23,18 +26,18 @@ ment class
 \@memcnta=\count79
 \c@@memmarkcntra=\count80
 \l@nohyphenation=\language70
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty"
 Package: ifetex 2011/12/15 v1.2 ifetex
 
-("C:\Program Files\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -43,15 +46,15 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fleqn.clo"
 File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count81
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
 File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
@@ -350,22 +353,22 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\memoir\mempatch.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mempatch.sty"
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -515,7 +518,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -546,7 +549,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -570,19 +573,19 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
 Language: english 2005/03/30 v3.3o English support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count138
 \U@D=\dimen148
@@ -591,35 +594,35 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count139
 )
@@ -633,10 +636,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip185
@@ -654,15 +657,15 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip197
 \JustifyingParindent=\skip198
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
 Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -734,13 +737,13 @@ File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
-Package: pdfpages 2012/03/08 v0.4r Insert pages of external PDF documents (AM)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count140
 \calc@Bcount=\count141
@@ -753,26 +756,26 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count142
 \calc@Cskip=\skip201
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
-Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks24
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -780,20 +783,20 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
-File: pppdftex.def 2012/03/08 v0.4r Pdfpages driver for pdfTeX (AM)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box29
 \AM@toc@title=\toks25
 \c@AM@survey=\count143
 \AM@templatesizebox=\box30
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
 LaTeX Info: Redefining \textsubscript on input line 424.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count144
 \lst@gtempboxa=\box31
 \lst@token=\toks26
@@ -807,21 +810,21 @@ LaTeX Info: Redefining \textsubscript on input line 424.
 \lst@lineno=\count149
 \lst@maxwidth=\dimen156
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 \c@lstnumber=\count150
 \lst@skipnumbers=\count151
 \lst@framebox=\box32
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \c@r@tfl@t=\count152
 \rotFPtop=\skip202
@@ -829,24 +832,24 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \rot@float@box=\box33
 \rot@mess@toks=\toks27
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip204
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks28
 \ex@=\dimen157
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen158
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count153
@@ -887,23 +890,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.sty"
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -918,7 +921,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 42.
 )
@@ -985,10 +988,10 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
-Package: mathtools 2011/04/06 v1.11 mathematical typesetting tools
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
+Package: mathtools 2012/04/24 v1.12 mathematical typesetting tools
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 \g_MT_multlinerow_int=\count165
@@ -996,31 +999,35 @@ Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 \origjot=\skip207
 \l_MT_shortvdotswithinadjustabove_dim=\dimen167
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen168
+\l_MT_above_intertext_dim=\dimen169
+\l_MT_below_intertext_dim=\dimen170
+\l_MT_above_shortintertext_dim=\dimen171
+\l_MT_below_shortintertext_dim=\dimen172
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3names.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3bootstrap.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3names.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3bootstrap.sty"
 Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
 )
-Package: l3names 2011/12/30 v3113 L3 Experimental namespace for primitives
+Package: l3names 2012/03/04 v3494 L3 Experimental namespace for primitives
 )
-Package: expl3 2012/02/26 v3471 L3 Experimental code bundle wrapper
+Package: expl3 2012/04/23 v3570 L3 Experimental code bundle wrapper
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3basics.sty"
-Package: l3basics 2012/02/26 v3460 L3 Experimental basic definitions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3basics.sty"
+Package: l3basics 2012/03/04 v3491 L3 Experimental basic definitions
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3expan.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3expan.sty"
 Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3tl.sty"
-Package: l3tl 2012/02/26 v3460 L3 Experimental token lists
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3tl.sty"
+Package: l3tl 2012/03/04 v3490 L3 Experimental token lists
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3seq.sty"
-Package: l3seq 2012/01/09 v3158 L3 Experimental sequences and stacks
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3seq.sty"
+Package: l3seq 2012/03/04 v3490 L3 Experimental sequences and stacks
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3int.sty"
-Package: l3int 2012/02/26 v3460 L3 Experimental integers
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3int.sty"
+Package: l3int 2012/03/04 v3490 L3 Experimental integers
 \c_max_int=\count166
 \l_tmpa_int=\count167
 \l_tmpb_int=\count168
@@ -1028,27 +1035,27 @@ Package: l3int 2012/02/26 v3460 L3 Experimental integers
 \g_tmpa_int=\count170
 \g_tmpb_int=\count171
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3quark.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3quark.sty"
 Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3prg.sty"
-Package: l3prg 2012/02/26 v3464 L3 Experimental control structures
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3prg.sty"
+Package: l3prg 2012/03/04 v3490 L3 Experimental control structures
 \g_prg_map_int=\count172
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3clist.sty"
-Package: l3clist 2012/02/26 v3460 L3 Experimental comma separated lists
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3clist.sty"
+Package: l3clist 2012/03/04 v3490 L3 Experimental comma separated lists
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3token.sty"
-Package: l3token 2012/02/26 v3460 L3 Experimental token manipulation
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3token.sty"
+Package: l3token 2012/03/04 v3491 L3 Experimental token manipulation
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3prop.sty"
-Package: l3prop 2012/02/26 v3460 L3 Experimental property lists
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3prop.sty"
+Package: l3prop 2012/03/04 v3490 L3 Experimental property lists
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3msg.sty"
-Package: l3msg 2012/02/26 v3470 L3 Experimental messages
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3msg.sty"
+Package: l3msg 2012/04/23 v3568 L3 Experimental messages
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3file.sty"
-Package: l3file 2012/02/26 v3464 L3 Experimental file and I/O operations
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3file.sty"
+Package: l3file 2012/03/09 v3520 L3 Experimental file and I/O operations
 \l_iow_stream_int=\count173
 \l_iow_line_length_int=\count174
 \l_iow_target_length_int=\count175
@@ -1056,13 +1063,13 @@ Package: l3file 2012/02/26 v3464 L3 Experimental file and I/O operations
 \l_iow_current_word_int=\count177
 \l_iow_current_indentation_int=\count178
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3skip.sty"
-Package: l3skip 2012/02/26 v3460 L3 Experimental dimensions and skips
-\l_tmpa_dim=\dimen169
-\l_tmpb_dim=\dimen170
-\l_tmpc_dim=\dimen171
-\g_tmpa_dim=\dimen172
-\g_tmpb_dim=\dimen173
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3skip.sty"
+Package: l3skip 2012/03/05 v3499 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen173
+\l_tmpb_dim=\dimen174
+\l_tmpc_dim=\dimen175
+\g_tmpa_dim=\dimen176
+\g_tmpb_dim=\dimen177
 Normal \skip register pool exhausted, switching to extended pool.
 \l_tmpa_skip=\skip256
 \l_tmpb_skip=\skip257
@@ -1070,13 +1077,13 @@ Normal \skip register pool exhausted, switching to extended pool.
 \g_tmpa_skip=\skip259
 \g_tmpb_skip=\skip260
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3keys.sty"
-Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3keys.sty"
+Package: l3keys 2012/03/03 v3487 L3 Experimental key-value interfaces
 \g_keyval_level_int=\count179
 \l_keys_choice_int=\count180
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3fp.sty"
-Package: l3fp 2012/02/06 v3315 L3 Experimental floating-point operations
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3fp.sty"
+Package: l3fp 2012/03/04 v3490 L3 Experimental floating-point operations
 \c_one_million=\count181
 \c_one_hundred_million=\count182
 \c_five_hundred_million=\count183
@@ -1130,81 +1137,81 @@ Normal \count register pool exhausted, switching to extended pool.
 \l_fp_trig_sign_int=\count310
 \l_fp_trig_decimal_int=\count311
 \l_fp_trig_extended_int=\count312
-\l_fp_internal_dim=\dimen174
+\l_fp_internal_dim=\dimen178
 \l_fp_internal_skip=\skip261
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3box.sty"
-Package: l3box 2012/02/18 v3432 L3 Experimental boxes
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3box.sty"
+Package: l3box 2012/03/04 v3490 L3 Experimental boxes
 \l_tmpb_box=\box36
-\l_box_top_dim=\dimen175
-\l_box_bottom_dim=\dimen176
-\l_box_left_dim=\dimen177
-\l_box_right_dim=\dimen178
-\l_box_top_new_dim=\dimen179
-\l_box_bottom_new_dim=\dimen180
-\l_box_left_new_dim=\dimen181
-\l_box_right_new_dim=\dimen182
+\l_box_top_dim=\dimen179
+\l_box_bottom_dim=\dimen180
+\l_box_left_dim=\dimen181
+\l_box_right_dim=\dimen182
+\l_box_top_new_dim=\dimen183
+\l_box_bottom_new_dim=\dimen184
+\l_box_left_new_dim=\dimen185
+\l_box_right_new_dim=\dimen186
 \l_box_internal_box=\box37
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3coffins.sty"
-Package: l3coffins 2012/02/26 v3460 L3 Experimental coffin code layer
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3coffins.sty"
+Package: l3coffins 2012/03/03 v3482 L3 Experimental coffin code layer
 \l_coffin_internal_box=\box38
-\l_coffin_internal_dim=\dimen183
-\l_coffin_offset_x_dim=\dimen184
-\l_coffin_offset_y_dim=\dimen185
-\l_coffin_x_dim=\dimen186
-\l_coffin_y_dim=\dimen187
-\l_coffin_x_prime_dim=\dimen188
-\l_coffin_y_prime_dim=\dimen189
-\l_coffin_Depth_dim=\dimen190
-\l_coffin_Height_dim=\dimen191
-\l_coffin_TotalHeight_dim=\dimen192
-\l_coffin_Width_dim=\dimen193
+\l_coffin_internal_dim=\dimen187
+\l_coffin_offset_x_dim=\dimen188
+\l_coffin_offset_y_dim=\dimen189
+\l_coffin_x_dim=\dimen190
+\l_coffin_y_dim=\dimen191
+\l_coffin_x_prime_dim=\dimen192
+\l_coffin_y_prime_dim=\dimen193
+\l_coffin_Depth_dim=\dimen194
+\l_coffin_Height_dim=\dimen195
+\l_coffin_TotalHeight_dim=\dimen196
+Normal \dimen register pool exhausted, switching to extended pool.
+\l_coffin_Width_dim=\dimen256
 \c_empty_coffin=\box39
 \l_coffin_aligned_coffin=\box40
 \l_coffin_aligned_internal_coffin=\box41
-\l_coffin_bounding_shift_dim=\dimen194
-\l_coffin_left_corner_dim=\dimen195
-\l_coffin_right_corner_dim=\dimen196
-Normal \dimen register pool exhausted, switching to extended pool.
-\l_coffin_bottom_corner_dim=\dimen256
-\l_coffin_top_corner_dim=\dimen257
-\l_coffin_scaled_total_height_dim=\dimen258
-\l_coffin_scaled_width_dim=\dimen259
+\l_coffin_bounding_shift_dim=\dimen257
+\l_coffin_left_corner_dim=\dimen258
+\l_coffin_right_corner_dim=\dimen259
+\l_coffin_bottom_corner_dim=\dimen260
+\l_coffin_top_corner_dim=\dimen261
+\l_coffin_scaled_total_height_dim=\dimen262
+\l_coffin_scaled_width_dim=\dimen263
 \l_coffin_display_coffin=\box42
 \l_coffin_display_coord_coffin=\box43
 \l_coffin_display_pole_coffin=\box44
-\l_coffin_display_offset_dim=\dimen260
-\l_coffin_display_x_dim=\dimen261
-\l_coffin_display_y_dim=\dimen262
+\l_coffin_display_offset_dim=\dimen264
+\l_coffin_display_x_dim=\dimen265
+\l_coffin_display_y_dim=\dimen266
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3color.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3color.sty"
 Package: l3color 2011/09/07 v2776 L3 Experimental colour support
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3luatex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3luatex.sty"
 Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
 \g_cctab_allocate_int=\count313
 \g_cctab_stack_int=\count314
 ))
-Package: siunitx 2012/01/26 v2.4j A comprehensive (SI) units package
+Package: siunitx 2012/05/03 v2.5c A comprehensive (SI) units package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
-Package: xparse 2012/02/26 v3471 L3 Experimental document command parser
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2012/04/23 v3570 L3 Experimental document command parser
 \l_xparse_current_arg_int=\count315
 \l_xparse_m_args_int=\count316
 \l_xparse_mandatory_args_int=\count317
 \l_xparse_processor_int=\count318
 \l_xparse_v_nesting_int=\count319
 )
-Package: l3keys2e 2012/02/26 v3471 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2012/04/23 v3570 LaTeX2e option processing using LaTeX3 keys
 )
 \l_siunitx_tmp_box=\box45
-\l_siunitx_tmp_dim=\dimen263
+\l_siunitx_tmp_dim=\dimen267
 \l_siunitx_tmp_int=\count320
-Variant \prop_get:NVNT already defined; not changing it on line 363
-Variant \prop_get:NVNF already defined; not changing it on line 364
-Variant \prop_get:NVNTF already defined; not changing it on line 365
+Variant \prop_get:NVNT already defined; not changing it on line 360
+Variant \prop_get:NVNF already defined; not changing it on line 361
+Variant \prop_get:NVNTF already defined; not changing it on line 362
 \l_siunitx_number_mantissa_length_int=\count321
 \l_siunitx_number_uncert_length_int=\count322
 \l_siunitx_round_int=\count323
@@ -1216,8 +1223,8 @@ Variant \prop_get:NVNTF already defined; not changing it on line 365
 \l_siunitx_group_min_int=\count329
 \l_siunitx_angle_marker_box=\box46
 \l_siunitx_angle_unit_box=\box47
-\l_siunitx_angle_marker_dim=\dimen264
-\l_siunitx_angle_unit_dim=\dimen265
+\l_siunitx_angle_marker_dim=\dimen268
+\l_siunitx_angle_unit_dim=\dimen269
 \l_siunitx_unit_int=\count330
 \l_siunitx_unit_denominator_int=\count331
 \l_siunitx_unit_numerator_int=\count332
@@ -1227,15 +1234,15 @@ Variant \prop_get:NVNTF already defined; not changing it on line 365
 \l_siunitx_number_product_int=\count336
 \c_siunitx_one_fill_skip=\skip262
 \l_siunitx_table_unit_align_skip=\skip263
-\l_siunitx_table_exponent_dim=\dimen266
-\l_siunitx_table_integer_dim=\dimen267
-\l_siunitx_table_mantissa_dim=\dimen268
-\l_siunitx_table_marker_dim=\dimen269
-\l_siunitx_table_result_dim=\dimen270
-\l_siunitx_table_uncert_dim=\dimen271
-\l_siunitx_table_fill_pre_dim=\dimen272
-\l_siunitx_table_fill_post_dim=\dimen273
-\l_siunitx_table_fill_mid_dim=\dimen274
+\l_siunitx_table_exponent_dim=\dimen270
+\l_siunitx_table_integer_dim=\dimen271
+\l_siunitx_table_mantissa_dim=\dimen272
+\l_siunitx_table_marker_dim=\dimen273
+\l_siunitx_table_result_dim=\dimen274
+\l_siunitx_table_uncert_dim=\dimen275
+\l_siunitx_table_fill_pre_dim=\dimen276
+\l_siunitx_table_fill_post_dim=\dimen277
+\l_siunitx_table_fill_mid_dim=\dimen278
 \l_siunitx_table_pre_box=\box48
 \l_siunitx_table_post_box=\box49
 \l_siunitx_table_mantissa_box=\box50
@@ -1246,167 +1253,169 @@ Variant \prop_get:NVNTF already defined; not changing it on line 365
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareBinaryPrefix with arg. spec. 'mmm' on line
-. 6955.
+. 7037.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareSIPostPower with arg. spec. 'mm' on line
-. 6958.
+. 7040.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareSIPrefix with arg. spec. 'mmm' on line
-. 6961.
+. 7043.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareSIPrePower with arg. spec. 'mm' on line
-. 6964.
+. 7046.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareSIQualifier with arg. spec. 'mm' on line
-. 6967.
+. 7049.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareSIUnit with arg. spec. 'O{}mm' on line
-. 6970.
+. 7052.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \DeclareSIUnitWithOptions with arg. spec. 'mmm' on
-. line 6973.
+. line 7055.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \ang with arg. spec. 'o>{\SplitArgument {2}{;}}m'
-. on line 6988.
+. on line 7070.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \num with arg. spec. 'om' on line 6996.
+. Defining document command \num with arg. spec. 'om' on line 7078.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \numlist with arg. spec. 'o>{\SplitList {;}}m' on
-. line 7004.
+. line 7086.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \numrange with arg. spec. 'omm' on line 7012.
+. Defining document command \numrange with arg. spec. 'omm' on line 7094.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \SIlist with arg. spec. 'o>{\SplitList {;}}mm' on
-. line 7023.
+. line 7105.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \SIrange with arg. spec. 'ommm' on line 7034.
+. Defining document command \SIrange with arg. spec. 'ommm' on line 7116.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \SI with arg. spec. 'omom' on line 7045.
+. Defining document command \SI with arg. spec. 'omom' on line 7127.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \sisetup with arg. spec. 'm' on line 7048.
+. Defining document command \sisetup with arg. spec. 'm' on line 7130.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \tablenum with arg. spec. 'om' on line 7060.
+. Defining document command \tablenum with arg. spec. 'om' on line 7142.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \si with arg. spec. 'om' on line 7071.
+. Defining document command \si with arg. spec. 'om' on line 7153.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \siunitx_bookmark_num:w with arg. spec. 'om' on
-. line 7115.
+. line 7197.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \siunitx_bookmark_numrange:w with arg. spec. 'omm'
-. on line 7117.
+. on line 7199.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \siunitx_bookmark_SI:w with arg. spec. 'omom' on
-. line 7119.
+. line 7201.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \siunitx_bookmark_SIlist:w with arg. spec. 'omm'
-. on line 7121.
+. on line 7203.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \siunitx_bookmark_SIrange:w with arg. spec. 'ommm'
-. on line 7123.
+. on line 7205.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \siunitx_bookmark_si:w with arg. spec. 'om' on
-. line 7124.
+. line 7206.
 .................................................
 \g_ior_internal_ior=\read2
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+.sty"
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
-age-mappings.tex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+-language-mappings.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\varioref.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\varioref.sty"
 Package: varioref 2011/10/02 v1.4z package for extended references (FMi)
 \c@vrcnt=\count337
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip266
 \bibsep=\skip267
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count338
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xr.sty"
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen275
-\nom@tempdim=\dimen276
+\nomlabelwidth=\dimen279
+\nom@tempdim=\dimen280
 \nomitemsep=\skip268
 )
 \@nomenclaturefile=\write4
 
 Writing nomenclature file Rapport.nlo
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count339
 \float@exts=\toks33
@@ -1414,13 +1423,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks34
 \@floatcapt=\box53
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
 Package: fixme 2009/09/30 v4.1 Insert fixme notes in your documents
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
 \XKV@toks=\toks35
 \XKV@tempa@toks=\toks36
 \XKV@depth=\count340
@@ -1452,92 +1461,96 @@ Sidefoothsep and sidefootwidth: 7pt and 101pt
 Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2011/12/04 v6.82m Hypertext links for LaTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/02/28 v6.82p Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
-Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
-Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
-Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
 Package hobsub Info: Skipping package `atbegshi' (already loaded).
-Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen277
+\@linkdim=\dimen281
 \Hy@linkcounter=\count346
 \Hy@pagecounter=\count347
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2011/12/04 v6.82m Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/02/28 v6.82p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count348
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 3925.
-Package hyperref Info: Hyper figures OFF on input line 4046.
-Package hyperref Info: Link nesting OFF on input line 4051.
-Package hyperref Info: Hyper index ON on input line 4054.
-Package hyperref Info: Plain pages OFF on input line 4061.
-Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4284.
+Package hyperref Info: Bookmarks ON on input line 4300.
 \c@Hy@tempcnt=\count349
-LaTeX Info: Redefining \url on input line 4637.
+LaTeX Info: Redefining \url on input line 4653.
 \Fld@menulength=\count350
-\Field@Width=\dimen278
-\Fld@charsize=\dimen279
-Package hyperref Info: Hyper figures OFF on input line 5757.
-Package hyperref Info: Link nesting OFF on input line 5762.
-Package hyperref Info: Hyper index ON on input line 5765.
-Package hyperref Info: backreferencing OFF on input line 5772.
-Package hyperref Info: Link coloring ON on input line 5775.
-Package hyperref Info: Link coloring with OCG OFF on input line 5782.
-Package hyperref Info: PDF/A mode OFF on input line 5787.
-LaTeX Info: Redefining \ref on input line 5827.
-LaTeX Info: Redefining \pageref on input line 5831.
+\Field@Width=\dimen282
+\Fld@charsize=\dimen283
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring ON on input line 5791.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
 \Hy@abspage=\count351
 \c@Item=\count352
 \c@Hfootnote=\count353
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty"
 Package: memhfixc 2010/08/17 v1.15 nameref/hyperref package fixes for memoir cl
 ass
 \c@memhycontfloat=\count354
@@ -1545,12 +1558,12 @@ ass
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2011/12/04 v6.82m Hyperref driver for pdfTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/02/28 v6.82p Hyperref driver for pdfTeX
 \Fld@listcount=\count355
 \c@bookmark@seq@number=\count356
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -1559,10 +1572,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 112.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+
+LaTeX Warning: You have requested release `2011/06/27' of LaTeX,
+               but only release `2009/09/24' is available.
+
 Package: lastpage 2011/09/01 v1.2k Refers to last page's name (HMM; JPG)
 ))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.aux")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
+.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -1579,17 +1597,16 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count357
-\scratchdimen=\dimen280
+\scratchdimen=\dimen284
 \scratchbox=\box54
 \nofMPsegments=\count358
 \nofMParguments=\count359
 \everyMPshowfont=\toks37
 \MPscratchCnt=\count360
-\MPscratchDim=\dimen281
+\MPscratchDim=\dimen285
 \MPnumerator=\count361
 \makeMPintoPDFobject=\count362
 \everyMPtoPDFconversion=\toks38
@@ -1598,21 +1615,23 @@ LaTeX Info: Redefining \selectfont on input line 3.
 \AtBeginShipoutBox=\box55
 \c@lstlisting=\count363
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
--basic-dictionary\translator-basic-dictionary-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-abbreviations.cf
-g"
-File: siunitx-abbreviations.cfg 2012/01/26 v2.4j siunitx: Abbreviated units
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-binary.cfg"
-File: siunitx-binary.cfg 2012/01/26 v2.4j siunitx: Binary units
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-abbreviati
+ons.cfg"
+File: siunitx-abbreviations.cfg 2012/05/03 v2.5c siunitx: Abbreviated units
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-binary.cfg
+"
+File: siunitx-binary.cfg 2012/05/03 v2.5c siunitx: Binary units
 )
 Package hyperref Info: Link coloring OFF on input line 3.
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count364
@@ -1624,8 +1643,11 @@ LaTeX Info: Redefining \nameref on input line 3.
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.out")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.out")
+
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
+.out")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
+.out")
 \@outlinefile=\write5
 LaTeX Info: Redefining \Ref on input line 3.
 Package lastpage Info: Please have a look at the pageslts package at
@@ -1637,22 +1659,21 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 3.
 \c_siunitx_mathsf_int=\count365
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd")
 \c_siunitx_mathtt_int=\count366
 
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/forside.tex"
-<billeder/forside.jpg, id=315, 287.0725pt x 401.5pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/forside.tex" <billeder/forside.jpg, id=315, 287.0725pt x 401.5pt>
 File: billeder/forside.jpg Graphic file (type jpg)
 
 <use billeder/forside.jpg>
@@ -1661,12 +1682,12 @@ Package pdftex.def Info: billeder/forside.jpg used on input line 16.
 ) [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/lewindows/Deskto
-p/P2/LaTeX/Rapport - NIX PILLE/billeder/forside.jpg>] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Christian/Docume
+nts/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/billeder/forside.jpg>] [2
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/titelblad.te
-x" <billeder/aaulogo.jpg, id=328, 213.79875pt x 35.13126pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/titelblad.tex" <billeder/aaulogo.jpg, id=328, 213.79875pt x 35.13126pt>
 File: billeder/aaulogo.jpg Graphic file (type jpg)
 
 <use billeder/aaulogo.jpg>
@@ -1702,8 +1723,9 @@ Overfull \hbox (28.45276pt too wide) in paragraph at lines 75--75
 []$[]$ 
  []
 
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/synopsis.tex
-"
+
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/synopsis.tex"
 Underfull \hbox (badness 1436) in paragraph at lines 1--2
 []\T1/cmr/m/n/10 This re-port con-tains doc-u-men-ta-tion of
  []
@@ -1733,12 +1755,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--89
 
  []
 
-) [3 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/aaulogo.
-jpg>] [4
+) [3 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/aaulogo.jpg>] [4
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/Underskrifts
-side.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/Underskriftsside.tex")
 Underfull \hbox (badness 10000) in paragraph at lines 1--13
 
  []
@@ -1886,31 +1908,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--13
 [5] [6
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/prolog.tex"
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")) [7
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/prolog.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd"))
+[7
 
 ] [8
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.toc" [9])
-[10]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/intro.tex")
-[1
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
+.toc" [9]) [10]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/intro.tex") [1
 
 
 ] [2
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/Probl
-emAnalysisIntro.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/probl
-em.tex" [3] [4])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/Lugga
-geRules.tex" [5] [6])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/Lugga
-geAllowance.tex" [7])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/solut
-iononthemarked.tex" <billeder/Iphone.JPG, id=546, 486.31688pt x 367.3725pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/ProblemAnalysisIntro.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/problem.tex" [3] [4])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/LuggageRules.tex" [5] [6])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/LuggageAllowance.tex" [7])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/solutiononthemarked.tex"
+<billeder/Iphone.JPG, id=543, 486.31688pt x 367.3725pt>
 File: billeder/Iphone.JPG Graphic file (type jpg)
 
 <use billeder/Iphone.JPG>
@@ -1920,8 +1944,9 @@ Package pdftex.def Info: billeder/Iphone.JPG used on input line 13.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-[9 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/Iphone.JPG
->] <billeder/shippingcalculator.JPG, id=572, 761.84625pt x 490.08093pt>
+[9 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bille
+der/Iphone.JPG>]
+<billeder/shippingcalculator.JPG, id=569, 761.84625pt x 490.08093pt>
 File: billeder/shippingcalculator.JPG Graphic file (type jpg)
 
 <use billeder/shippingcalculator.JPG>
@@ -1931,65 +1956,68 @@ Package pdftex.def Info: billeder/shippingcalculator.JPG used on input line 52.
 
 Underfull \vbox (badness 2653) has occurred while \output is active []
 
- [10 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/shipping
-calculator.JPG>])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/thesi
-sstatement.tex" [11])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/problem/metho
-d.tex" [12]) [13] [14
+ [10 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/shippingcalculator.JPG>])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/thesisstatement.tex" [11])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/problem/method.tex" [12]) [13] [14
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/theory/Introd
-uctiontheory.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/theory/Knapsa
-ckproblem.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/theory/BinPac
-kingProblem.tex" [15] <billeder/initial.png, id=642, 287.0725pt x 83.31125pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/theory/Introductiontheory.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/theory/Knapsackproblem.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/theory/BinPackingProblem.tex" [15]
+<billeder/initial.png, id=639, 287.0725pt x 83.31125pt>
 File: billeder/initial.png Graphic file (type png)
 
 <use billeder/initial.png>
 Package pdftex.def Info: billeder/initial.png used on input line 7.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- <billeder/ff.png, id=646, 287.0725pt x 83.31125pt>
+ <billeder/ff.png, id=643, 287.0725pt x 83.31125pt>
 File: billeder/ff.png Graphic file (type png)
 
 <use billeder/ff.png>
 Package pdftex.def Info: billeder/ff.png used on input line 13.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- <billeder/bf.png, id=650, 287.0725pt x 83.31125pt>
+ <billeder/bf.png, id=647, 287.0725pt x 83.31125pt>
 File: billeder/bf.png Graphic file (type png)
 
 <use billeder/bf.png>
 Package pdftex.def Info: billeder/bf.png used on input line 17.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- [16 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/initial.
-png> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/ff.png>]
- <billeder/lf.png, id=665, 287.0725pt x 83.31125pt>
+ [16 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/initial.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport -
+ NIX PILLE/billeder/ff.png>]
+<billeder/lf.png, id=662, 287.0725pt x 83.31125pt>
 File: billeder/lf.png Graphic file (type png)
-
-<use billeder/lf.png>
+ <use billeder/lf.png>
 Package pdftex.def Info: billeder/lf.png used on input line 21.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- <billeder/wf.png, id=669, 287.0725pt x 83.31125pt>
-File: billeder/wf.png Graphic file (type png)
 
-<use billeder/wf.png>
+<billeder/wf.png, id=666, 287.0725pt x 83.31125pt>
+File: billeder/wf.png Graphic file (type png)
+ <use billeder/wf.png>
 Package pdftex.def Info: billeder/wf.png used on input line 25.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- <billeder/awf.png, id=673, 287.0725pt x 83.31125pt>
-File: billeder/awf.png Graphic file (type png)
 
-<use billeder/awf.png>
+<billeder/awf.png, id=670, 287.0725pt x 83.31125pt>
+File: billeder/awf.png Graphic file (type png)
+ <use billeder/awf.png>
 Package pdftex.def Info: billeder/awf.png used on input line 29.
 (pdftex.def)             Requested size: 298.1987pt x 86.54248pt.
- [17 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/bf.png> 
-<C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/lf.png> <C:/U
-sers/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/wf.png>]) [18 <C:/
-Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/awf.png>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/Introd
-uctiondesign.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/Specif
-icationrequirement.tex" [19
+
+[17 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bill
+eder/bf.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX P
+ILLE/billeder/lf.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rappor
+t - NIX PILLE/billeder/wf.png>]) [18 <C:/Users/Christian/Documents/Arbejde/UNI/
+P2/LaTeX/Rapport - NIX PILLE/billeder/awf.png>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/Introductiondesign.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/Specificationrequirement.tex" [19
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
@@ -2002,12 +2030,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
  []
 
 )
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/partne
-ranalysis.tex" [21])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/Soluti
-onsuggestions.tex" [22])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/ThePac
-kingAlgorithm.tex"
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/partneranalysis.tex" [21])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/Solutionsuggestions.tex" [22])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/ThePackingAlgorithm.tex"
 Underfull \vbox (badness 1275) has occurred while \output is active []
 
  [23]
@@ -2015,32 +2043,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--22
 
  []
 
-<billeder/FlowOfAlgorithmTheory.jpg, id=738, 320.8788pt x 746.91045pt>
+<billeder/FlowOfAlgorithmTheory.jpg, id=735, 320.8788pt x 746.91045pt>
 File: billeder/FlowOfAlgorithmTheory.jpg Graphic file (type jpg)
 
 <use billeder/FlowOfAlgorithmTheory.jpg>
 Package pdftex.def Info: billeder/FlowOfAlgorithmTheory.jpg used on input line 
 30.
-(pdftex.def)             Requested size: 298.1987pt x 694.11807pt.
+(pdftex.def)             Requested size: 255.6026pt x 594.96486pt.
  [24]
-Overfull \vbox (32.44641pt too high) has occurred while \output is active []
+Underfull \vbox (badness 1931) has occurred while \output is active []
 
-
-[25 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/FlowOfAlg
-orithmTheory.jpg>])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/progra
-mplanning.tex" [26]
-<billeder/FlowOfProgram.jpg, id=769, 267.399pt x 329.0694pt>
+ [25 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/FlowOfAlgorithmTheory.jpg>])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/programplanning.tex" [26]
+<billeder/FlowOfProgram.jpg, id=766, 267.399pt x 329.0694pt>
 File: billeder/FlowOfProgram.jpg Graphic file (type jpg)
 
 <use billeder/FlowOfProgram.jpg>
 Package pdftex.def Info: billeder/FlowOfProgram.jpg used on input line 13.
 (pdftex.def)             Requested size: 298.1987pt x 367.00365pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/FlowOfPr
-ogram.jpg>]
+ [27 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/FlowOfProgram.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
  []
@@ -2066,8 +2090,9 @@ Overfull \hbox (30.79999pt too wide) in paragraph at lines 55--56
  []
 
 )
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/sketch
-description.tex" <billeder/Skitse1.png, id=781, 693.792pt x 390.258pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/sketchdescription.tex"
+<billeder/Skitse1.png, id=778, 693.792pt x 390.258pt>
 File: billeder/Skitse1.png Graphic file (type png)
 
 <use billeder/Skitse1.png>
@@ -2077,23 +2102,23 @@ Package pdftex.def Info: billeder/Skitse1.png used on input line 8.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-<billeder/Skitse2.png, id=789, 693.792pt x 390.258pt>
+<billeder/Skitse2.png, id=786, 693.792pt x 390.258pt>
 File: billeder/Skitse2.png Graphic file (type png)
 
 <use billeder/Skitse2.png>
 Package pdftex.def Info: billeder/Skitse2.png used on input line 14.
 (pdftex.def)             Requested size: 383.3974pt x 215.66083pt.
- [29 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/Skitse1.
-png> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/Skitse2.
-png>]
-<billeder/Skitse3.png, id=799, 693.792pt x 390.258pt>
+ [29 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/Skitse1.png> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport -
+ NIX PILLE/billeder/Skitse2.png>]
+<billeder/Skitse3.png, id=796, 693.792pt x 390.258pt>
 File: billeder/Skitse3.png Graphic file (type png)
 
 <use billeder/Skitse3.png>
 Package pdftex.def Info: billeder/Skitse3.png used on input line 20.
 (pdftex.def)             Requested size: 383.3974pt x 215.66083pt.
 
-<billeder/1skitsedone.jpg, id=802, 803.25093pt x 504.38437pt>
+<billeder/1skitsedone.jpg, id=799, 803.25093pt x 504.38437pt>
 File: billeder/1skitsedone.jpg Graphic file (type jpg)
 
 <use billeder/1skitsedone.jpg>
@@ -2102,41 +2127,40 @@ Package pdftex.def Info: billeder/1skitsedone.jpg used on input line 27.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/Skitse3.
-png>]
-<billeder/2skitsedone.jpg, id=811, 640.794pt x 411.33675pt>
+ [30 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/Skitse3.png>] <billeder/2skitsedone.jpg, id=808, 640.794pt x 411.33675pt>
 File: billeder/2skitsedone.jpg Graphic file (type jpg)
 
 <use billeder/2skitsedone.jpg>
 Package pdftex.def Info: billeder/2skitsedone.jpg used on input line 32.
 (pdftex.def)             Requested size: 383.3974pt x 246.11354pt.
 
-<billeder/3skitsedone.jpg, id=813, 640.19176pt x 392.667pt>
+<billeder/3skitsedone.jpg, id=810, 640.19176pt x 392.667pt>
 File: billeder/3skitsedone.jpg Graphic file (type jpg)
 
 <use billeder/3skitsedone.jpg>
 Package pdftex.def Info: billeder/3skitsedone.jpg used on input line 36.
 (pdftex.def)             Requested size: 383.3974pt x 235.15863pt.
- [31 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/1skitsed
-one.jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/2ski
-tsedone.jpg>]
-<billeder/4skitsedone.jpg, id=822, 800.9925pt x 503.63156pt>
+ [31 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/1skitsedone.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rappo
+rt - NIX PILLE/billeder/2skitsedone.jpg>]
+<billeder/4skitsedone.jpg, id=819, 800.9925pt x 503.63156pt>
 File: billeder/4skitsedone.jpg Graphic file (type jpg)
 
 <use billeder/4skitsedone.jpg>
 Package pdftex.def Info: billeder/4skitsedone.jpg used on input line 40.
 (pdftex.def)             Requested size: 383.3974pt x 241.06413pt.
- [32 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/3skitsed
-one.jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/4ski
-tsedone.jpg>]
-<billeder/5skitsedone.jpg, id=831, 803.25093pt x 500.62032pt>
+ [32 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/3skitsedone.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rappo
+rt - NIX PILLE/billeder/4skitsedone.jpg>]
+<billeder/5skitsedone.jpg, id=828, 803.25093pt x 500.62032pt>
 File: billeder/5skitsedone.jpg Graphic file (type jpg)
 
 <use billeder/5skitsedone.jpg>
 Package pdftex.def Info: billeder/5skitsedone.jpg used on input line 44.
 (pdftex.def)             Requested size: 383.3974pt x 238.95822pt.
 
-<billeder/6skitsedone.jpg, id=833, 642.60075pt x 390.258pt>
+<billeder/6skitsedone.jpg, id=830, 642.60075pt x 390.258pt>
 File: billeder/6skitsedone.jpg Graphic file (type jpg)
 
 <use billeder/6skitsedone.jpg>
@@ -2145,53 +2169,55 @@ Package pdftex.def Info: billeder/6skitsedone.jpg used on input line 48.
 
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
- [33 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/5skitsed
-one.jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/6ski
-tsedone.jpg>] <billeder/7askitsedone.jpg, id=843, 643.80525pt x 386.04225pt>
+ [33 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/5skitsedone.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rappo
+rt - NIX PILLE/billeder/6skitsedone.jpg>]
+<billeder/7askitsedone.jpg, id=840, 643.80525pt x 386.04225pt>
 File: billeder/7askitsedone.jpg Graphic file (type jpg)
 
 <use billeder/7askitsedone.jpg>
 Package pdftex.def Info: billeder/7askitsedone.jpg used on input line 52.
 (pdftex.def)             Requested size: 383.3974pt x 229.90121pt.
 
-<billeder/7bskitse.jpg, id=845, 693.792pt x 433.62pt>
+<billeder/7bskitse.jpg, id=842, 693.792pt x 433.62pt>
 File: billeder/7bskitse.jpg Graphic file (type jpg)
 
 <use billeder/7bskitse.jpg>
 Package pdftex.def Info: billeder/7bskitse.jpg used on input line 56.
 (pdftex.def)             Requested size: 383.3974pt x 239.62315pt.
- [34 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/7askitse
-done.jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/7bs
-kitse.jpg>]
-<billeder/8skitse.jpg, id=854, 278.2395pt x 201.75375pt>
+ [34 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/7askitsedone.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapp
+ort - NIX PILLE/billeder/7bskitse.jpg>]
+<billeder/8skitse.jpg, id=851, 278.2395pt x 201.75375pt>
 File: billeder/8skitse.jpg Graphic file (type jpg)
 
 <use billeder/8skitse.jpg>
 Package pdftex.def Info: billeder/8skitse.jpg used on input line 60.
 (pdftex.def)             Requested size: 170.3974pt x 123.556pt.
-) [35 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/8skitse
-.jpg>] [36
+) [35 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bi
+lleder/8skitse.jpg>] [36
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/d
-evelopmentintro.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/design/GUIdes
-cription.tex" <billeder/Mainwindow.jpg, id=868, 411.78844pt x 350.81062pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/developmentintro.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/design/GUIdescription.tex"
+<billeder/Mainwindow.jpg, id=865, 411.78844pt x 350.81062pt>
 File: billeder/Mainwindow.jpg Graphic file (type jpg)
 
 <use billeder/Mainwindow.jpg>
 Package pdftex.def Info: billeder/Mainwindow.jpg used on input line 6.
 (pdftex.def)             Requested size: 340.8013pt x 290.33768pt.
- [37 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/Mainwind
-ow.jpg>]
-<billeder/ManageItems.jpg, id=876, 542.77782pt x 350.05782pt>
+ [37 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/Mainwindow.jpg>]
+<billeder/ManageItems.jpg, id=873, 542.77782pt x 350.05782pt>
 File: billeder/ManageItems.jpg Graphic file (type jpg)
 
 <use billeder/ManageItems.jpg>
 Package pdftex.def Info: billeder/ManageItems.jpg used on input line 12.
 (pdftex.def)             Requested size: 340.8013pt x 219.8058pt.
 
-<billeder/ManageSuitcase.jpg, id=879, 551.05875pt x 350.05782pt>
+<billeder/ManageSuitcase.jpg, id=876, 551.05875pt x 350.05782pt>
 File: billeder/ManageSuitcase.jpg Graphic file (type jpg)
 
 <use billeder/ManageSuitcase.jpg>
@@ -2200,15 +2226,15 @@ Package pdftex.def Info: billeder/ManageSuitcase.jpg used on input line 15.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/ManageIt
-ems.jpg>]
-<billeder/About.jpg, id=888, 289.08pt x 228.855pt>
+ [38 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/ManageItems.jpg>] <billeder/About.jpg, id=885, 289.08pt x 228.855pt>
 File: billeder/About.jpg Graphic file (type jpg)
- <use billeder/About.jpg>
+
+<use billeder/About.jpg>
 Package pdftex.def Info: billeder/About.jpg used on input line 18.
 (pdftex.def)             Requested size: 213.0pt x 168.62369pt.
 
-<billeder/AddItem.jpg, id=890, 265.74281pt x 249.93375pt>
+<billeder/AddItem.jpg, id=887, 265.74281pt x 249.93375pt>
 File: billeder/AddItem.jpg Graphic file (type jpg)
 
 <use billeder/AddItem.jpg>
@@ -2217,58 +2243,59 @@ Package pdftex.def Info: billeder/AddItem.jpg used on input line 21.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/ManageSu
-itcase.jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/A
-bout.jpg>]
-<billeder/AddSuitcase.jpg, id=901, 197.98969pt x 249.93375pt>
+ [39 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/ManageSuitcase.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Ra
+pport - NIX PILLE/billeder/About.jpg>]
+<billeder/AddSuitcase.jpg, id=898, 197.98969pt x 249.93375pt>
 File: billeder/AddSuitcase.jpg Graphic file (type jpg)
 
 <use billeder/AddSuitcase.jpg>
 Package pdftex.def Info: billeder/AddSuitcase.jpg used on input line 24.
 (pdftex.def)             Requested size: 127.8013pt x 161.33379pt.
 
-<billeder/EditItem.jpg, id=905, 169.38281pt x 250.68657pt>
+<billeder/EditItem.jpg, id=902, 169.38281pt x 250.68657pt>
 File: billeder/EditItem.jpg Graphic file (type jpg)
 
 <use billeder/EditItem.jpg>
 Package pdftex.def Info: billeder/EditItem.jpg used on input line 27.
 (pdftex.def)             Requested size: 127.8013pt x 189.15053pt.
- [40 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/AddItem.
-jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/AddSuitc
-ase.jpg>]
-<billeder/EditSuitcase.jpg, id=914, 191.21437pt x 274.77657pt>
+ [40 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/AddItem.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport -
+ NIX PILLE/billeder/AddSuitcase.jpg>]
+<billeder/EditSuitcase.jpg, id=911, 191.21437pt x 274.77657pt>
 File: billeder/EditSuitcase.jpg Graphic file (type jpg)
 
 <use billeder/EditSuitcase.jpg>
 Package pdftex.def Info: billeder/EditSuitcase.jpg used on input line 30.
 (pdftex.def)             Requested size: 127.8013pt x 183.65071pt.
 
-<billeder/frm3DViewer2.jpg, id=917, 548.0475pt x 398.23781pt>
+<billeder/frm3DViewer2.jpg, id=914, 548.0475pt x 398.23781pt>
 File: billeder/frm3DViewer2.jpg Graphic file (type jpg)
 
 <use billeder/frm3DViewer2.jpg>
 Package pdftex.def Info: billeder/frm3DViewer2.jpg used on input line 39.
 (pdftex.def)             Requested size: 255.6026pt x 185.7377pt.
- [41 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/EditItem
-.jpg> <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/EditSui
-tcase.jpg>])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/H
-owTheProgramHandlesForms.tex" [42 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport 
-- NIX PILLE/billeder/frm3DViewer2.jpg>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/open3dform.txt")
-
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/frm3DViewerhowis
-inputshandled.txt"))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/T
-hePackingAlgorithmCode.tex" [43]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/RotateLug.txt"
-[44])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/AvgWeight.txt")
-[45]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/CheckForFit.txt"
-) [46]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/ErrorMessage.txt
-") <billeder/FlowOfAlgorithmFull.jpg, id=1054, 506.73315pt x 775.57755pt>
+ [41 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/EditItem.jpg> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport 
+- NIX PILLE/billeder/EditSuitcase.jpg>])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/HowTheProgramHandlesForms.tex" [42 <C:/Users/Christian/Documents/A
+rbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/billeder/frm3DViewer2.jpg>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/op
+en3dform.txt")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/fr
+m3DViewerhowisinputshandled.txt"))
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/ThePackingAlgorithmCode.tex" [43]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Ro
+tateLug.txt" [44])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Av
+gWeight.txt") [45]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Ch
+eckForFit.txt") [46]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Er
+rorMessage.txt")
+<billeder/FlowOfAlgorithmFull.jpg, id=1051, 506.73315pt x 775.57755pt>
 File: billeder/FlowOfAlgorithmFull.jpg Graphic file (type jpg)
 
 <use billeder/FlowOfAlgorithmFull.jpg>
@@ -2276,56 +2303,57 @@ Package pdftex.def Info: billeder/FlowOfAlgorithmFull.jpg used on input line 41
 .
 (pdftex.def)             Requested size: 426.0pt x 652.02509pt.
 )
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/C
-olorGiver.tex"
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/ColorGiver.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/FlowOfAl
-gorithmFull.jpg>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/ColorGiverListin
-g1.txt") [49]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/ColorGiverListin
-g2.txt")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/ColorGiverListin
-g3.txt") [50]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/ColorGiverListin
-g4.txt"))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/H
-owTheProgramHandles3D.tex" [51]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/Shape3DRotate.tx
-t")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/makephatfunction
-.txt" [52])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/polygondraw.txt.
-txt.txt.txt.txt.txt" [53])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/PolygonScaleSize
-.txt"))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/F
-unctionDrawCubes.tex" [54]
+ [48 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/FlowOfAlgorithmFull.jpg>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Co
+lorGiverListing1.txt") [49]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Co
+lorGiverListing2.txt")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Co
+lorGiverListing3.txt") [50]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Co
+lorGiverListing4.txt"))
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/HowTheProgramHandles3D.tex" [51]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Sh
+ape3DRotate.txt")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/ma
+kephatfunction.txt" [52])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/po
+lygondraw.txt.txt.txt.txt.txt.txt" [53])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Po
+lygonScaleSize.txt"))
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/FunctionDrawCubes.tex" [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [55]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/CreateSideCubeVe
-cOne.txt") <billeder/3.PNG, id=1253, 447.17062pt x 311.66437pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
+eateSideCubeVecOne.txt") <billeder/3.PNG, id=1250, 447.17062pt x 311.66437pt>
 File: billeder/3.PNG Graphic file (type png)
 
 <use billeder/3.PNG>
 Package pdftex.def Info: billeder/3.PNG used on input line 31.
 (pdftex.def)             Requested size: 298.1987pt x 207.83914pt.
 
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/CreateSideCubeVe
-cTwo.txt") <billeder/4.PNG, id=1256, 445.665pt x 311.66437pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
+eateSideCubeVecTwo.txt") <billeder/4.PNG, id=1253, 445.665pt x 311.66437pt>
 File: billeder/4.PNG Graphic file (type png)
 
 <use billeder/4.PNG>
 Package pdftex.def Info: billeder/4.PNG used on input line 41.
 (pdftex.def)             Requested size: 298.1987pt x 208.53821pt.
- [56 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/3.PNG>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/CreateSideCubeVe
-cThree.txt") <billeder/5.PNG, id=1272, 445.665pt x 311.66437pt>
+ [56 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/3.PNG>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
+eateSideCubeVecThree.txt") <billeder/5.PNG, id=1269, 445.665pt x 311.66437pt>
 File: billeder/5.PNG Graphic file (type png)
 
 <use billeder/5.PNG>
@@ -2334,67 +2362,71 @@ Package pdftex.def Info: billeder/5.PNG used on input line 49.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/4.PNG>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/CreateSideCubeVe
-cFour.txt") <billeder/6.PNG, id=1287, 445.665pt x 311.66437pt>
+ [57 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/4.PNG>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Cr
+eateSideCubeVecFour.txt") <billeder/6.PNG, id=1284, 445.665pt x 311.66437pt>
 File: billeder/6.PNG Graphic file (type png)
 
 <use billeder/6.PNG>
 Package pdftex.def Info: billeder/6.PNG used on input line 57.
 (pdftex.def)             Requested size: 298.1987pt x 208.53821pt.
- <billeder/7.PNG, id=1289, 445.665pt x 311.66437pt>
+ <billeder/7.PNG, id=1286, 445.665pt x 311.66437pt>
 File: billeder/7.PNG Graphic file (type png)
 
 <use billeder/7.PNG>
 Package pdftex.def Info: billeder/7.PNG used on input line 61.
 (pdftex.def)             Requested size: 298.1987pt x 208.53821pt.
- [58 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/5.PNG> <
-C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/6.PNG>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/AddVecToPolyArra
-y.txt"))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/F
-unctionRotateWithMouse.tex" [59 <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - 
-NIX PILLE/billeder/7.PNG>]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/mouserotate.txt"
-))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/F
-ileSerializerFunction.tex"
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/FileSerializer1.
-txt" [60])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/FileSerializer2.
-txt"))
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/development/i
-nstructiondescription.tex") [61] [62
+ [58 <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/bil
+leder/5.PNG> <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX P
+ILLE/billeder/6.PNG>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Ad
+dVecToPolyArray.txt"))
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/FunctionRotateWithMouse.tex" [59 <C:/Users/Christian/Documents/Arb
+ejde/UNI/P2/LaTeX/Rapport - NIX PILLE/billeder/7.PNG>]
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/mo
+userotate.txt"))
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/FileSerializerFunction.tex"
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Fi
+leSerializer1.txt" [60])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/Fi
+leSerializer2.txt"))
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/development/instructiondescription.tex") [61] [62
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/testing/testI
-ntro.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/testing/Tests
-.tex"
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/testing/testIntro.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/testing/Tests.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
 [64])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/testing/unitt
-est.tex"
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\kode/unittest.txt")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/testing/unittest.tex"
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\kode/un
+ittest.txt")
 
 LaTeX Warning: Reference `lst:unittest' on page 65 undefined on input line 5.
 
 ) [65] [66
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/discussion/Di
-scussionIntro.tex")
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/discussion/Di
-scussion.tex" [67])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\indhold/discussion/Pe
-rspectivation.tex" [68]) [69] [70
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/discussion/DiscussionIntro.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/discussion/Discussion.tex" [67])
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\indhold
+/discussion/Perspectivation.tex" [68]) [69] [70
 
 ]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\formalia/Conclusion.t
-ex") ("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.bbl"
-[71] [72
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\formali
+a/Conclusion.tex")
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
+.bbl" [71] [72
 
 ] [73]
 Overfull \hbox (32.43227pt too wide) in paragraph at lines 135--141
@@ -2403,28 +2435,28 @@ ricter-[]rules-[]knives-[]no-[]longer .$
  []
 
 ) [74]
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\appendix/forslag.tex"
-[75
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
+x/forslag.tex" [75
 
 
 ])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\appendix/mindmap.tex"
-[76] <billeder/mindmap.png, id=1496, 328.8285pt x 478.78876pt>
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
+x/mindmap.tex" [76] <billeder/mindmap.png, id=1493, 328.8285pt x 478.78876pt>
 File: billeder/mindmap.png Graphic file (type png)
 
 <use billeder/mindmap.png>
 Package pdftex.def Info: billeder/mindmap.png used on input line 3.
 (pdftex.def)             Requested size: 298.1987pt x 434.20808pt.
 )
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\appendix/Questionnair
-e.tex" [77
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
+x/Questionnaire.tex" [77
 
- <C:/Users/lewindows/Desktop/P2/LaTeX/Rapport - NIX PILLE/billeder/mindmap.png>
-] [78
+ <C:/Users/Christian/Documents/Arbejde/UNI/P2/LaTeX/Rapport - NIX PILLE/billede
+r/mindmap.png>] [78
 
 ])
-("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\appendix/cdappendix.t
-ex" [79] [80
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\appendi
+x/cdappendix.tex" [79] [80
 
 ]) 
 AED: lastpage setting LastPage
@@ -2432,53 +2464,52 @@ AED: lastpage setting LastPage
 \tf@toc=\write6
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
- ("C:\Users\lewindows\Desktop\P2\LaTeX\Rapport - NIX PILLE\Rapport.aux")
+
+("C:\Users\Christian\Documents\Arbejde\UNI\P2\LaTeX\Rapport - NIX PILLE\Rapport
+.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: D978729984D0CFA160AA8447C15D5743;5267.
+(rerunfilecheck)             Checksum: 60BC515A25EA033EB26C3257320539BD;5268.
 
 
 LaTeX Warning: There were undefined references.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
  ) 
 Here is how much of TeX's memory you used:
- 24279 strings out of 494045
- 428799 string characters out of 3148375
- 578152 words of memory out of 3000000
- 26417 multiletter control sequences out of 15000+200000
+ 24491 strings out of 494049
+ 437405 string characters out of 3146054
+ 581323 words of memory out of 3000000
+ 26625 multiletter control sequences out of 15000+200000
  26098 words of font info for 67 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
- 40i,20n,60p,1705b,2327s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-657\ectt1000.pk> <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ectt0900.pk> <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\lewindows\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi657\tcrm1000.pk> <C:\Users\lewindows\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Us
-ers\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi720\ecbx1
-200.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc} <C:\Users\
-lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi657\ecbx1000.
-pk> <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dp
-i657\ecti1000.pk> <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecti0900.pk> <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fo
-nts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\lewindows\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\lewindows
-\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi657\ecrm1000.pk> <C:\U
-sers\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi720\eccc
-1200.pk> <C:\Users\lewindows\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi657\ecsl1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-bookman/ubkl8a.pfb>
-Output written on Rapport.pdf (91 pages, 6139958 bytes).
+ 40i,20n,60p,1775b,2335s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
+C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:
+/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/cm-super/sfsl1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/cm-super/sfti0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/cm-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/cm-super/sftt0900.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/cm-super/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/book
+man/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8
+a.pfb>
+Output written on Rapport.pdf (91 pages, 6189936 bytes).
 PDF statistics:
- 2331 PDF objects out of 2487 (max. 8388607)
+ 1706 PDF objects out of 1728 (max. 8388607)
  540 named destinations out of 1000 (max. 500000)
  825 words of extra memory for PDF output out of 10000 (max. 10000000)
 

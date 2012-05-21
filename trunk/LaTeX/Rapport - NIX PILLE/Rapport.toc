@@ -3,7 +3,7 @@
 \contentsline {chapter}{Prolog}{vii}{chapter*.1}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problem Analysis}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Problem with Packing a Suitcase}{3}{section.2.1}
+\contentsline {section}{\numberline {2.1}Problems with Packing a Suitcase}{3}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Packing}{3}{subsection.2.1.1}
 \contentsline {subsubsection}{Fees Regarding Luggage by Flight}{4}{section*.2}
 \contentsline {subsubsection}{Different Transport Methods}{4}{section*.3}
@@ -38,7 +38,7 @@
 \contentsline {subsection}{\numberline {3.2.6}First Fit Decreasing(FFD)}{18}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}Best Fit Decreasing(BFD)}{18}{subsection.3.2.7}
 \contentsline {subsection}{\numberline {3.2.8}Summing Up}{18}{subsection.3.2.8}
-\contentsline {section}{\numberline {3.3}Comparison between Knapsack Problem and Binpacking Problem}{18}{section.3.3}
+\contentsline {section}{\numberline {3.3}Comparison Between Knapsack Problem and Binpacking Problem}{18}{section.3.3}
 \contentsline {chapter}{\chapternumberline {4}Design}{19}{chapter.4}
 \contentsline {section}{\numberline {4.1}Specification Requirements}{19}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
