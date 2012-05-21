@@ -1,7 +1,7 @@
 \BOOKMARK [0][-]{chapter*.1}{Prolog}{}% 1
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
 \BOOKMARK [0][-]{chapter.2}{Problem Analysis}{}% 3
-\BOOKMARK [1][-]{section.2.1}{Problem with Packing a Suitcase}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.1}{Problems with Packing a Suitcase}{chapter.2}% 4
 \BOOKMARK [2][-]{subsection.2.1.1}{Packing}{section.2.1}% 5
 \BOOKMARK [1][-]{section.2.2}{Luggage rules}{chapter.2}% 6
 \BOOKMARK [2][-]{subsection.2.2.1}{Luggage table}{section.2.2}% 7
@@ -29,7 +29,7 @@
 \BOOKMARK [2][-]{subsection.3.2.6}{First Fit Decreasing\(FFD\)}{section.3.2}% 29
 \BOOKMARK [2][-]{subsection.3.2.7}{Best Fit Decreasing\(BFD\)}{section.3.2}% 30
 \BOOKMARK [2][-]{subsection.3.2.8}{Summing Up}{section.3.2}% 31
-\BOOKMARK [1][-]{section.3.3}{Comparison between Knapsack Problem and Binpacking Problem}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.3}{Comparison Between Knapsack Problem and Binpacking Problem}{chapter.3}% 32
 \BOOKMARK [0][-]{chapter.4}{Design}{}% 33
 \BOOKMARK [1][-]{section.4.1}{Specification Requirements}{chapter.4}% 34
 \BOOKMARK [2][-]{subsection.4.1.1}{Targeted Features}{section.4.1}% 35
