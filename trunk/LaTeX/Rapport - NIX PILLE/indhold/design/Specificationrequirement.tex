@@ -1,29 +1,29 @@
 \section{Specification Requirements}
 \label{sec:Spec}
-Through the problem analysis (see chapter \ref{chap:problem}) it has been documented that there are strict rules regarding some forms of public transportation when going on vacation, see section \ref{sec:LugRules}. Based on this research a list of features has been composed, which the program must fulfill to meet the base requirements, see section \ref{sec:thesis}. Furthermore another list has also been composed of some additional features that would make the program better and more user friendly. They are not needed for the base requirements, but rather as improvements to make the program even more ideal for the user.
+Through the problem analysis (see chapter \ref{chap:problem}) it has been documented that there are strict rules regarding some forms of public transportation when going on vacation, see section \ref{sec:LugRules}. Based on this research a list of features has been composed, which the program must fulfill to meet the base requirements, see section \ref{sec:thesis}. Furthermore another list has also been composed of some additional features that would make the program better and more user friendly. They are not needed for the basic requirements, but rather as improvements to make the program even more ideal for the user.
 
-Since it sometimes can be hard to use a new program, it is necessary to have a guide or some instructions for the user to help them use the program the way it was designed. The guide should be short and well formulated so the user with ease can understand what to do in the program.
+Since it sometimes can be hard to use a new program, it is necessary to have a guide or some instructions for the users to help them use the program the way it was designed. The guide should be short and well formulated so the users can understand what to do in the program with ease.
 It has chosen to make it a requirement that the program should be written in C\#, since this is the language taught this semester.
-From the problem analysis it was concluded that some people have a tendency to pack their suitcase(s) too heavily and then getting fined when using transportation with limits on how much the luggage are allowed to weigh, see section \ref{sec:overweight}. 
+From the problem analysis it was concluded that some people have a tendency to pack their suitcase(s) too heavily and then getting fined when using transportation with limits on how much the luggage is allowed to weigh, see section \ref{sec:overweight}. 
 
 This has been solved in the program in two ways. 
-Firstly the program pack the suitcases using weight optimization - it will, if more suitcases are available, try to spread the items even between the suitcases. 
-Secondly a function must be made that makes it possible for the user to set a max weight for the luggage. This can help on the problem that airplane companies have a maximum weight limit for luggage and will fine people carrying too heavy luggage. The reason that the program is not programmed to just follow a standard rule about how much the suitcase(s) are allowed to weight is because different companies have different rules as seen on Section \ref{sec:LugRules}.
+Firstly, the program pack the suitcases using weight optimization - it will, if more suitcases are available, try to spread the items even between the suitcases. 
+Secondly, a function must be made that makes it possible for the user to set a max weight for the luggage. This can help on the problem that airplane companies have a maximum weight limit for luggage and will fine people carrying too heavy luggage. The reason that the program is not programmed to just follow a standard rule about how much the suitcase(s) are allowed to weigh is because different companies have different rules as seen on Section \ref{sec:LugRules}.
 
-The program also needs to pack the best way according to the size of the suitcase(s) and item(s) so as many items as possible will be packed in the program, and that the program should not place any items outside the suitcase(s). This helps on the problem that some people have with packing their suitcase(s) so everything will fit in the suitcase(s), which is documented in Section \ref{sec:overweight}.
+The program also needs to pack the best way according to the size of the suitcase(s) and item(s) so as many items as possible will be packed in the program, and that the program should not place any items outside the suitcase(s). This helps solving the problem that some people have packing their suitcase(s) so everything will fit in the suitcase(s), which is documented in Section \ref{sec:overweight}.
 To make the program more user friendly a list of all the items to be packed should be included and be able to be edited so the user can get a better overview on what they are asking the program to pack.
 
-To help the user through the process of packing the suitcase(s) the program needs to show the user where to put the items in the suitcase(s). This is a very essential feature in the program since if the user is not able to see or get a description of where to put the items, the program does not in any way help the problem.
+To help the user through the process of packing the suitcase(s) the program needs to show the user where to put the items in the suitcase(s). This is a very essential feature in the program, since if the user is not able to see or get a description of where to put the items, the program does not in any way help the problem.
 
-Another thing that is essential for the program is that the user is able to run the program and pack the items in the lists while away on a trip. This is needed if the user, while away, buys anything new and/or throws anything away. This can be solved by making a save/load function so the user is able to save his/her lists on their computer and load them later. This will also enable more than one user to use the same program without having to start all over again with putting in data every time.
+Another essential thing for the program is that the users are able to run the program and pack the items in the lists while away on a trip. This is needed if the user, while away, buys anything new and/or throws anything away. This can be solved by making a save/load function so the users are able to save their lists on the computer and load them later. This will also enable more than one user to use the same program without having to start all over again with putting in data every time.
 
 There are some features that are not essential for the program to work but will improve the program. 
-One of these features is to handle changeable shapes of items e.g. a T-shirt or other forms of clothing. This makes the program able to pack more efficiently. This means that the program can handle solid, liquid and bendable shapes. But this may not be in the program at the beginning since this is hard to develop and implement.
+One of these features is to handle changeable shapes of items e.g. a T-shirt or other forms of clothing. This makes the program able to pack more efficiently. This means that the program can handle solid, liquid and bendable shapes. But this may not be in the program from the beginning since this is hard to develop and implement.
 To help get a better packing and plan ahead, the program needs a list of different trip types which can help the user pack the luggage for a given type of trip.
-Another optional feature to have is to allocate space for possible souvenirs the user might buy on the trip. These features means that the user does not need to check if there are room for the souvenirs before buying it.
+Another optional feature to have is to allocate space for possible souvenirs the user might buy on the trip. These features mean that the user does not need to check if there is room for the souvenirs before buying it.
 
 \subsection{Targeted Features}
-Given below are the essential features that the program have. In the earlier section were each part of the found problem have been named and from them these features have been made.\newline
+Given below are the essential features that the program must have. In the earlier section where each part of the given problem has been named and from them these features have been made.\newline
 
 \begin{itemize}
 \item \textbf{Guide the User:}
@@ -44,7 +44,7 @@ The program needs to be able to repack the suitcases at any given time. Since th
 
 \item \textbf{Baggage Rules:}
 
-The program needs to have a feature that allows the user to set a weight limit, so the bag will not extend the rules about how much the suitcase(s) are allowed to weight.
+The program needs to have a feature which allows the user to set a weight limit, so the bag will not extend the rules about how much the suitcase(s) are allowed to weight.
 
 \item \textbf{Structure of Packing:}
 
@@ -52,15 +52,15 @@ The program needs a way of showing the user where to put all the items to pack.
 
 \item \textbf{Packing list:}
 
-To make it easier for the user to know what will be packed an editable lists will be included.
+To make it easier for the user to know what will be packed an editable list will be included.
 
 \item \textbf{Save/Load function:}
 
-To save time a function to save and load lists of items and suitcases will be needed. This makes the program easier and faster to use since the user will not have to put in all the data about every item or suitcase every time he/she wants to use the program. It also enables more users to use the same program since they can save their own lists.
+To save time a function to save and load lists of items and suitcases will be needed. This makes the program easier and faster to use, since the user will not have to put in all the data about every item or suitcase every time he/she wants to use the program. It also enables more users to use the same program since they can save their own lists.
 \end{itemize}
 
 \subsection{Optional Features}
-These features as mentioned above, are additional features that might be able to be implemented later if possible.\newline
+These features, as mentioned above, are additional features that might be able to be implemented later.\newline
 
 \begin{itemize}
 \item \textbf{Solid/liquid/bendable shapes:}
@@ -69,11 +69,11 @@ The program does also take in account that items might be bendable, and therefor
 
 \item \textbf{Type of trip:}
 
-Depending on the nature of the trip different packing lists will be necessary because each trip might require different items.
+Depending on the nature of the trip different packing lists will be necessary because each trip might require unique items.
 
 \item \textbf{Space for Souvenirs:}
 
 The program could pack the items in a way, so there will be allocated place for the souvenirs to buy on the trip.
 \end{itemize}
 
-The target features is the most important of these two lists because the target features plays the biggest role in the problem solving. The optional features is for when all the target features are covered and there still is time left to work on the program instead of writing on the report.
+The target features are the most important of these two lists because the target features play the biggest role in the problem solving. The optional features are for when all the target features are covered and there are still time left to work on the program instead of writing on the report.
