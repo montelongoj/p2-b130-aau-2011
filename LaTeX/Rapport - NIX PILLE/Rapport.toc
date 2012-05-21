@@ -10,19 +10,19 @@
 \contentsline {subsubsection}{Souvenirs on Vacation}{4}{section*.4}
 \contentsline {subsubsection}{Packing as a Family}{5}{section*.5}
 \contentsline {subsubsection}{Summing Up}{5}{section*.6}
-\contentsline {section}{\numberline {2.2}Luggage rules}{5}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Luggage table}{5}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.2}Luggage Rules}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Luggage Table}{5}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Charter Trips on Air Planes}{6}{subsection.2.2.2}
 \contentsline {subsubsection}{Checked-in Luggage}{6}{section*.7}
 \contentsline {subsubsection}{Carry On}{6}{section*.8}
 \contentsline {subsection}{\numberline {2.2.3}Rules on Trains}{7}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Rules on cruise ships}{7}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Summing up}{7}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.4}Rules on Cruise Ships}{7}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Summing Up}{7}{subsection.2.2.5}
 \contentsline {section}{\numberline {2.3}Luggage Allowance}{7}{section.2.3}
 \contentsline {section}{\numberline {2.4}Solutions on the Market}{8}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}App - Packing Pro}{8}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Online check/tip list}{9}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}The e-Commerce shipping calculator}{10}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.2}Online Check/Tip List}{9}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}The E-Commerce Shipping Calculator}{10}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}Summing Up}{11}{subsection.2.4.4}
 \contentsline {section}{\numberline {2.5}Problem Statement}{11}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}Sub Statements}{12}{subsection.2.5.1}
@@ -43,25 +43,25 @@
 \contentsline {section}{\numberline {4.1}Specification Requirements}{19}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Targeted Features}{20}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Optional Features}{21}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Partner analysis}{21}{section.4.2}
+\contentsline {section}{\numberline {4.2}Partner Analysis}{21}{section.4.2}
 \contentsline {section}{\numberline {4.3}Solution suggestions}{22}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Application for smartphones}{22}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Extension for an existing program}{22}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Program for the computer}{23}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Choice of solution}{23}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.1}Application for Smartphones}{22}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Extension for an Existing Program}{22}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Program for the Computer}{23}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Choice of Solution}{23}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}The Planning of the Packing Algorithm}{24}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Optimization by Weight}{24}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Description of the Algorithm}{24}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Summing Up}{26}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Program planning}{26}{section.4.5}
-\contentsline {section}{\numberline {4.6}Sketches before programming of GUI}{28}{section.4.6}
+\contentsline {section}{\numberline {4.5}Program Planning}{26}{section.4.5}
+\contentsline {section}{\numberline {4.6}Sketches Before Programming of GUI}{28}{section.4.6}
 \contentsline {chapter}{\chapternumberline {5}Development}{37}{chapter.5}
 \contentsline {section}{\numberline {5.1}GUI Description}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}How the program handles different forms}{42}{section.5.2}
+\contentsline {section}{\numberline {5.2}How the Program Handles Different Forms}{42}{section.5.2}
 \contentsline {section}{\numberline {5.3}The Development of The Packing Algorithm}{43}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Classes}{43}{subsection.5.3.1}
 \contentsline {subsubsection}{The Class "luggage"}{44}{section*.9}
-\contentsline {subsubsection}{The class "luggage\_item"}{44}{section*.10}
+\contentsline {subsubsection}{The Class "luggage\_item"}{44}{section*.10}
 \contentsline {subsection}{\numberline {5.3.2}Description of the Code}{44}{subsection.5.3.2}
 \contentsline {subsubsection}{Reset and Sorting}{44}{section*.11}
 \contentsline {subsubsection}{Weight Distribution}{45}{section*.12}
@@ -73,19 +73,19 @@
 \contentsline {section}{\numberline {5.5}How the Program Handles 3D}{51}{section.5.5}
 \contentsline {subsection}{\numberline {5.5.1}Shape3D Class}{51}{subsection.5.5.1}
 \contentsline {subsection}{\numberline {5.5.2}Polygon Class}{53}{subsection.5.5.2}
-\contentsline {section}{\numberline {5.6}Function to draw cubes}{54}{section.5.6}
-\contentsline {section}{\numberline {5.7}Rotate 3D-view with the mouse}{59}{section.5.7}
-\contentsline {section}{\numberline {5.8}File Serialize function}{60}{section.5.8}
-\contentsline {section}{\numberline {5.9}Instruction manual}{61}{section.5.9}
+\contentsline {section}{\numberline {5.6}Function to Draw Cubes}{54}{section.5.6}
+\contentsline {section}{\numberline {5.7}Rotate 3D-view with the Mouse}{59}{section.5.7}
+\contentsline {section}{\numberline {5.8}File Serialize Function}{60}{section.5.8}
+\contentsline {section}{\numberline {5.9}Instruction Manual}{61}{section.5.9}
 \contentsline {chapter}{\chapternumberline {6}Testing}{63}{chapter.6}
 \contentsline {section}{\numberline {6.1}Choice of Survey Method}{63}{section.6.1}
-\contentsline {section}{\numberline {6.2}The First Round of Tests}{64}{section.6.2}
-\contentsline {section}{\numberline {6.3}The Second Round of Tests}{64}{section.6.3}
-\contentsline {section}{\numberline {6.4}Conclusion on the Tests}{65}{section.6.4}
+\contentsline {section}{\numberline {6.2}The First Round of User Tests}{63}{section.6.2}
+\contentsline {section}{\numberline {6.3}The Second Round of User Tests}{64}{section.6.3}
+\contentsline {section}{\numberline {6.4}Conclusion on the User Tests}{65}{section.6.4}
 \contentsline {section}{\numberline {6.5}Unit Tests}{65}{section.6.5}
 \contentsline {chapter}{\chapternumberline {7}Discussion}{67}{chapter.7}
 \contentsline {section}{\numberline {7.1}Discussion}{67}{section.7.1}
-\contentsline {section}{\numberline {7.2}Perspectivation}{68}{section.7.2}
+\contentsline {section}{\numberline {7.2}Perspectives}{68}{section.7.2}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{71}{chapter.8}
 \contentsline {chapter}{Bibliography}{73}{section*.17}
 \cftpagenumbersoff {chapter}

@@ -1,27 +1,27 @@
 \changetocdepth {2}
 \select@language {english}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{3}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Projectplanning}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Administration}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Time Schedule}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Decision Making}{5}{section.2.3}
-\contentsline {chapter}{\chapternumberline {3}Group Work}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Group Contract}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Division of Rules}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3}The Meeting Culture}{8}{section.3.3}
-\contentsline {section}{\numberline {3.4}Morning Meetings}{8}{section.3.4}
-\contentsline {section}{\numberline {3.5}Friday Meetings}{8}{section.3.5}
-\contentsline {section}{\numberline {3.6}Summary of Group Meetings}{9}{section.3.6}
-\contentsline {chapter}{\chapternumberline {4}Collaboration with Supervisors}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}Meetings}{11}{section.4.1}
-\contentsline {chapter}{\chapternumberline {5}Process of Learning}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Goals of This Semester}{13}{section.5.1}
-\contentsline {section}{\numberline {5.2}Problem Based Solving}{14}{section.5.2}
-\contentsline {section}{\numberline {5.3}Responsibility for Own Learning/Mutual Responsibility for Learning}{14}{section.5.3}
-\contentsline {section}{\numberline {5.4}Learning Styles and the Work Environment}{15}{section.5.4}
-\contentsline {section}{\numberline {5.5}Knowledge Sharing}{15}{section.5.5}
-\contentsline {section}{\numberline {5.6}Blooms Taxonomy}{16}{section.5.6}
-\contentsline {chapter}{\chapternumberline {6}Discussion and Putting Things into Perspective}{17}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Conclusion}{19}{chapter.7}
+\contentsline {chapter}{\chapternumberline {2}Projectplanning}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Administration}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Time Schedule}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Decision Making}{4}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Group Work}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Group Contract}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Division of Rules}{6}{section.3.2}
+\contentsline {section}{\numberline {3.3}The Meeting Culture}{7}{section.3.3}
+\contentsline {section}{\numberline {3.4}Morning Meetings}{7}{section.3.4}
+\contentsline {section}{\numberline {3.5}Friday Meetings}{7}{section.3.5}
+\contentsline {section}{\numberline {3.6}Summary of Group Meetings}{8}{section.3.6}
+\contentsline {chapter}{\chapternumberline {4}Collaboration with Supervisors}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Meetings}{9}{section.4.1}
+\contentsline {chapter}{\chapternumberline {5}Process of Learning}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}Goals of This Semester}{10}{section.5.1}
+\contentsline {section}{\numberline {5.2}Problem Based Solving}{11}{section.5.2}
+\contentsline {section}{\numberline {5.3}Responsibility for Own Learning/Mutual Responsibility for Learning}{11}{section.5.3}
+\contentsline {section}{\numberline {5.4}Learning Styles and the Work Environment}{12}{section.5.4}
+\contentsline {section}{\numberline {5.5}Knowledge Sharing}{12}{section.5.5}
+\contentsline {section}{\numberline {5.6}Blooms Taxonomy}{12}{section.5.6}
+\contentsline {chapter}{\chapternumberline {6}Retrospective}{14}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{15}{chapter.7}
 \cftpagenumbersoff {chapter}
-\contentsline {appendix}{\chapternumberline {A}Group Contract}{21}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}Group Contract}{16}{appendix.A}
