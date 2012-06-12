@@ -1,0 +1,14 @@
+det samme som sidste år
+
+	- præsentation (1 hour max) et eller andet rum (husk demostration 	af programmet)
+	- Karsten og ekster sensor (he is anti-cheat device)
+	- efter præsentation tilbage til invendual 20 - 30 min
+	- problem analyse, computing part (how the problem is handle and 		look into some of the code) and lastly process analysis
+
+Først karakter efter alle har vært inde, efter karakter skal vi ind og diskutere hvordan hele projektet har været
+
+BIG FLOW CHART WHAT DO? = handout not nice, try make it shorter and focus on the important parts of the flow chart
+
+presentation seems nice
+
+invent the furture and make Karsten proved
